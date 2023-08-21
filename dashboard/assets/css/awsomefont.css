@@ -1,0 +1,9 @@
+.icon {
+    /* Other styling here */
+}
+
+.icon::before {
+    content: "\f007"; /* This is a Font Awesome icon */
+    font-family: "Font Awesome 5 Free"; 
+    font-weight: 900;
+}
