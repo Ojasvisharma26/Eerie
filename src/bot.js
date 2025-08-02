@@ -1,7 +1,7 @@
 const { Client, Collection } = require("discord.js");
 const fs = require("fs");
 const chalk = require("chalk");
-const BotToken = "OTU1NjY2MzgxMzM1MDYwNTEy.GzUEzj.nQlesoREJqftxwQMNRuWWjPERaMtj-lgwt_Ups";
+const BotToken = process.env.BotToken;
 const Util = require("./Utils");
 const glob = require("glob");
 const fetch = require('node-fetch');
