@@ -1,0 +1,1504 @@
+{
+  "Route5": [
+    {
+      "Pokemon": "Abra",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "18-22",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Togepi",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "18-23",
+      "MS": "Yes"
+    }
+  ],
+  "Route25": [
+    {
+      "Pokemon": "Abra",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "15-17",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Kadabra",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "15-17",
+      "MS": "No"
+    }
+  ],
+  "Route213": [
+    {
+      "Pokemon": "Absol",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "29-33",
+      "MS": "No"
+    }
+  ],
+  "Route44": [
+    {
+      "Pokemon": "Aipom",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "21-26",
+      "MS": "No"
+    }
+  ],
+  "Route33": [
+    {
+      "Pokemon": "Aipom",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "12-17",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "12-17",
+      "MS": "Yes"
+    }
+  ],
+  "NidoIsle": [
+    {
+      "Pokemon": "Alomomola",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "36-41",
+      "MS": "No"
+    }
+  ],
+  "Route134": [
+    {
+      "Pokemon": "Alomomola",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "37-41",
+      "MS": "Yes"
+    }
+  ],
+  "VictoryRoadHoenn1F": [
+    {
+      "Pokemon": "Aron",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "49-55",
+      "MS": "No"
+    }
+  ],
+  "GraniteCaveB1F": [
+    {
+      "Pokemon": "Axew",
+      "Area": "Land",
+      "Daytime": "M/N",
+      "Level": "15-18",
+      "MS": "No"
+    }
+  ],
+  "DragonNeck": [
+    {
+      "Pokemon": "Bagon",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "36-41",
+      "MS": "No"
+    }
+  ],
+  "DragonsNeck": [
+    {
+      "Pokemon": "Bagon",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "36-41",
+      "MS": "No"
+    }
+  ],
+  "MeteorFallsB1F2R": [
+    {
+      "Pokemon": "Bagon",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "21-27",
+      "MS": "Yes"
+    }
+  ],
+  "EriyaduSulfurPools": [
+    {
+      "Pokemon": "Beldum",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "15-19",
+      "MS": "Yes"
+    }
+  ],
+  "NationalPark": [
+    {
+      "Pokemon": "Budew",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "15-19",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Durant",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "15-19",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "15-19",
+      "MS": "No"
+    }
+  ],
+  "ViridianForest": [
+    {
+      "Pokemon": "Budew",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "9-13",
+      "MS": "No"
+    }
+  ],
+  "Route45": [
+    {
+      "Pokemon": "Buizel",
+      "Area": "Surf",
+      "Daytime": "M",
+      "Level": 35,
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Gligar",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "37-42",
+      "MS": "No"
+    }
+  ],
+  "EternaForest": [
+    {
+      "Pokemon": "Buneary",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "15-18",
+      "MS": "No"
+    }
+  ],
+  "AmitySquare": [
+    {
+      "Pokemon": "Buneary",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "21-24",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Shroomish",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "21-24",
+      "MS": "No"
+    }
+  ],
+  "WaywardCave": [
+    {
+      "Pokemon": "Bunnelby",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "20-30",
+      "MS": "Yes"
+    }
+  ],
+  "LoveIsland": [
+    {
+      "Pokemon": "Carvanha",
+      "Area": "Surf",
+      "Daytime": "D",
+      "Level": "18-22",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Dratini",
+      "Area": "Surf",
+      "Daytime": "N",
+      "Level": "18-22",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Happiny",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "18-30",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Munchlax",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "18-30",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Staryu",
+      "Area": "Surf",
+      "Daytime": "M",
+      "Level": "18-22",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Togepi",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "18-21",
+      "MS": "No"
+    }
+  ],
+  "DiamondEmpireFoyer": [
+    {
+      "Pokemon": "Chimecho",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "32-41",
+      "MS": "No"
+    }
+  ],
+  "NapTown": [
+    {
+      "Pokemon": "Corphish",
+      "Area": "Surf",
+      "Daytime": "M/D",
+      "Level": "46-51",
+      "MS": "No"
+    }
+  ],
+  "Route40": [
+    {
+      "Pokemon": "Corphish",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "22-24",
+      "MS": "No"
+    }
+  ],
+  "Route123": [
+    {
+      "Pokemon": "Corphish",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "34-39",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Crawdaunt",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "34-39",
+      "MS": "Yes"
+    }
+  ],
+  "PetalburgWoods": [
+    {
+      "Pokemon": "Cottonee",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "8-13",
+      "MS": "No"
+    }
+  ],
+  "PalPark": [
+    {
+      "Pokemon": "Croagunk",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "26-33",
+      "MS": "Yes"
+    }
+  ],
+  "Route216": [
+    {
+      "Pokemon": "Cubchoo",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "38-42",
+      "MS": "No"
+    }
+  ],
+  "RockTunnel1": [
+    {
+      "Pokemon": "Cubone",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "26-30",
+      "MS": "No"
+    }
+  ],
+  "SafariJohtoMountainZone": [
+    {
+      "Pokemon": "Darumaka",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "22-25",
+      "MS": "Yes"
+    }
+  ],
+  "MeteorFallsB1F1R": [
+    {
+      "Pokemon": "Deino",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "21-30",
+      "MS": "Yes"
+    }
+  ],
+  "Route8": [
+    {
+      "Pokemon": "Ditto",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "23-27",
+      "MS": "No"
+    }
+  ],
+  "BreezyPath": [
+    {
+      "Pokemon": "Dratini",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "22-26",
+      "MS": "No"
+    }
+  ],
+  "SuzukaCaveB2F": [
+    {
+      "Pokemon": "Drilbur",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "26-30",
+      "MS": "No"
+    }
+  ],
+  "VictoryRoadKanto2F": [
+    {
+      "Pokemon": "Drilbur",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "44-45",
+      "MS": "No"
+    }
+  ],
+  "MeteorFalls1F1R": [
+    {
+      "Pokemon": "Druddigon",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "21-25",
+      "MS": "Yes"
+    }
+  ],
+  "TrainersValley": [
+    {
+      "Pokemon": "Duskull",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "51-56",
+      "MS": "No"
+    }
+  ],
+  "SafariArea3": [
+    {
+      "Pokemon": "Eevee",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "23-24",
+      "MS": "No"
+    }
+  ],
+  "PowerPlant": [
+    {
+      "Pokemon": "Electabuzz",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "24-26",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Pachirisu",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "24-26",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Pikachu",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "24-26",
+      "MS": "No"
+    }
+  ],
+  "Route110": [
+    {
+      "Pokemon": "Electrike",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "16-19",
+      "MS": "No"
+    }
+  ],
+  "OldChateau1F": [
+    {
+      "Pokemon": "Espurr",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "15-22",
+      "MS": "Yes"
+    }
+  ],
+  "Route205": [
+    {
+      "Pokemon": "Espurr",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "15-23",
+      "MS": "Yes"
+    }
+  ],
+  "JuraCave": [
+    {
+      "Pokemon": "Feebas",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "25-29",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Sableye",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "25-29",
+      "MS": "No"
+    }
+  ],
+  "SuzukaCaveB1F": [
+    {
+      "Pokemon": "Feebas",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "26-30",
+      "MS": "No"
+    }
+  ],
+  "SuzukaCave1F": [
+    {
+      "Pokemon": "Ferroseed",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "26-30",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Froakie",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "26-30",
+      "MS": "No"
+    }
+  ],
+  "ValleyOfSteelEasternPeak": [
+    {
+      "Pokemon": "Ferroseed",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "35-37",
+      "MS": "Yes"
+    }
+  ],
+  "WaterPath": [
+    {
+      "Pokemon": "Flabebe",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "45-49",
+      "MS": "No"
+    }
+  ],
+  "Route225": [
+    {
+      "Pokemon": "Fletchling",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "56-60",
+      "MS": "No"
+    }
+  ],
+  "SafariJohtoGrassAndSwampZone": [
+    {
+      "Pokemon": "Foongus",
+      "Area": "Land",
+      "Daytime": "M/N",
+      "Level": "22-26",
+      "MS": "No"
+    }
+  ],
+  "Route119A": [
+    {
+      "Pokemon": "Frillish",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "29-37",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Gloom",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "23-28",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Hoothoot",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "23-28",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Tropius",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "23-28",
+      "MS": "No"
+    }
+  ],
+  "PokemonTowerB1": [
+    {
+      "Pokemon": "Gastly",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "15-23",
+      "MS": "No"
+    }
+  ],
+  "Moon": [
+    {
+      "Pokemon": "Gible",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "24-33",
+      "MS": "No"
+    }
+  ],
+  "UnisonMountainSummit": [
+    {
+      "Pokemon": "Gible",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "31-35",
+      "MS": "No"
+    }
+  ],
+  "VulcanCove": [
+    {
+      "Pokemon": "Gible",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "41-45",
+      "MS": "No"
+    }
+  ],
+  "Route119B": [
+    {
+      "Pokemon": "Gloom",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "23-28",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Kecleon",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "23-28",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Tropius",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "23-28",
+      "MS": "No"
+    }
+  ],
+  "Mt.MortarNorthernEntrance": [
+    {
+      "Pokemon": "Golbat",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "23-30",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Onix",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "23-30",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Steelix",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "23-30",
+      "MS": "No"
+    }
+  ],
+  "DragonsDenB1F": [
+    {
+      "Pokemon": "Goomy",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "56-60",
+      "MS": "No"
+    }
+  ],
+  "Route37": [
+    {
+      "Pokemon": "Gothita",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "21-25",
+      "MS": "Yes"
+    }
+  ],
+  "PatternBush": [
+    {
+      "Pokemon": "Heracross",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "16-25",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "21-25",
+      "MS": "No"
+    }
+  ],
+  "DesertLagoon": [
+    {
+      "Pokemon": "Hippopotas",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "15-18",
+      "MS": "Yes"
+    }
+  ],
+  "Mt.SilverUpperMountainside": [
+    {
+      "Pokemon": "Hitmonchan",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "56-59",
+      "MS": "No"
+    }
+  ],
+  "Mt.SilverLowerMountainside": [
+    {
+      "Pokemon": "Hitmonlee",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "53-58",
+      "MS": "No"
+    }
+  ],
+  "LakeCave": [
+    {
+      "Pokemon": "Horsea",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "23-30",
+      "MS": "No"
+    }
+  ],
+  "Route17": [
+    {
+      "Pokemon": "Horsea",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "33-38",
+      "MS": "No"
+    }
+  ],
+  "FiveIsleMeadow": [
+    {
+      "Pokemon": "Horsea",
+      "Area": "Surf",
+      "Daytime": "M/N",
+      "Level": 20,
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Krabby",
+      "Area": "Surf",
+      "Daytime": "M/N",
+      "Level": 20,
+      "MS": "No"
+    }
+  ],
+  "Route7": [
+    {
+      "Pokemon": "Houndour",
+      "Area": "Land",
+      "Daytime": "M/N",
+      "Level": "21-26",
+      "MS": "No"
+    }
+  ],
+  "MoonB1F": [
+    {
+      "Pokemon": "Inkay",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "20-22",
+      "MS": "Yes"
+    }
+  ],
+  "Route116": [
+    {
+      "Pokemon": "Joltik",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "10-13",
+      "MS": "No"
+    }
+  ],
+  "SafariJohtoSnowZone": [
+    {
+      "Pokemon": "Jynx",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "20-24",
+      "MS": "No"
+    }
+  ],
+  "OldChateauDiningRoom": [
+    {
+      "Pokemon": "Kadabra",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "16-20",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Spiritomb",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "16-20",
+      "MS": "No"
+    }
+  ],
+  "ValleyOfSteelWesternPeak": [
+    {
+      "Pokemon": "Klefki",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "25-29",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Klefki",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "25-29",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Skarmory",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "25-29",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Skarmory",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "25-29",
+      "MS": "No"
+    }
+  ],
+  "IcefallBackCave": [
+    {
+      "Pokemon": "Lapras",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "35-45",
+      "MS": "No"
+    }
+  ],
+  "UnionCaveB2F": [
+    {
+      "Pokemon": "Lapras",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "11-15",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Marill",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "11-15",
+      "MS": "No"
+    }
+  ],
+  "SevaultCanyon": [
+    {
+      "Pokemon": "Larvitar",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "50-60",
+      "MS": "No"
+    }
+  ],
+  "Mt. SilverExpertBelt": [
+    {
+      "Pokemon": "Larvitar",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "55-59",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Pupitar",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "55-59",
+      "MS": "No"
+    }
+  ],
+  "PokemonTowerUnderground": [
+    {
+      "Pokemon": "Litwick",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "17-21",
+      "MS": "Yes"
+    }
+  ],
+  "Route10": [
+    {
+      "Pokemon": "Marowak",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "24-27",
+      "MS": "No"
+    }
+  ],
+  "VictoryRoadHoennB1F": [
+    {
+      "Pokemon": "Mawile",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "49-54",
+      "MS": "Yes"
+    }
+  ],
+  "BurnedTowerFloor2": [
+    {
+      "Pokemon": "Meditite",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "18-22",
+      "MS": "Yes"
+    }
+  ],
+  "CrystalCavern": [
+    {
+      "Pokemon": "Meditite",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "32-38",
+      "MS": "No"
+    }
+  ],
+  "Mt. PyreSummit": [
+    {
+      "Pokemon": "Meditite",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "27-32",
+      "MS": "No"
+    }
+  ],
+  "HoennSafariZoneArea2": [
+    {
+      "Pokemon": "Metang",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "33-36",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Metang",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "33-36",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Spritzee",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "33-36",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Metang",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "33-36",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Swirlix",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "33-36",
+      "MS": "No"
+    }
+  ],
+  "BreezyFalls": [
+    {
+      "Pokemon": "Mienfoo",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "24-25",
+      "MS": "No"
+    }
+  ],
+  "Route29": [
+    {
+      "Pokemon": "Minun",
+      "Area": "Land",
+      "Daytime": "D/N",
+      "Level": "5-7",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Minun",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "5-7",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Plusle",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "5-7",
+      "MS": "No"
+    }
+  ],
+  "Route18": [
+    {
+      "Pokemon": "Murkrow",
+      "Area": "Land",
+      "Daytime": "M/N",
+      "Level": "27-32",
+      "MS": "No"
+    }
+  ],
+  "RuinValley": [
+    {
+      "Pokemon": "Natu",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "44-48",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Psyduck",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "44-48",
+      "MS": "No"
+    }
+  ],
+  "IronIslandB1fR": [
+    {
+      "Pokemon": "Pawniard",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "37-41",
+      "MS": "Yes"
+    }
+  ],
+  "BerryForest": [
+    {
+      "Pokemon": "Petilil",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "51-56",
+      "MS": "Yes"
+    }
+  ],
+  "Route46": [
+    {
+      "Pokemon": "Phanpy",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "7-9",
+      "MS": "No"
+    }
+  ],
+  "Route43": [
+    {
+      "Pokemon": "Pineco",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "21-25",
+      "MS": "Yes"
+    }
+  ],
+  "BreakersBeach": [
+    {
+      "Pokemon": "Pinsir",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "40-44",
+      "MS": "No"
+    }
+  ],
+  "Route120": [
+    {
+      "Pokemon": "Politoed",
+      "Area": "Surf",
+      "Daytime": "M",
+      "Level": "27-30",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Seel",
+      "Area": "Surf",
+      "Daytime": "M",
+      "Level": "27-30",
+      "MS": "No"
+    }
+  ],
+  "Route19": [
+    {
+      "Pokemon": "Psyduck",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "33-35",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Slowpoke",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "33-35",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Staryu",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "33-35",
+      "MS": "Yes"
+    }
+  ],
+  "Route220": [
+    {
+      "Pokemon": "Qwilfish",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "33-38",
+      "MS": "No"
+    }
+  ],
+  "Route102": [
+    {
+      "Pokemon": "Ralts",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "5-7",
+      "MS": "No"
+    }
+  ],
+  "EvergreenIslandValleyPath": [
+    {
+      "Pokemon": "Riolu",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "32-38",
+      "MS": "No"
+    }
+  ],
+  "Route203": [
+    {
+      "Pokemon": "Riolu",
+      "Area": "Land",
+      "Daytime": "M/N",
+      "Level": 5,
+      "MS": "Yes"
+    }
+  ],
+  "FieryPath": [
+    {
+      "Pokemon": "Roggenrola",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "18-23",
+      "MS": "Yes"
+    }
+  ],
+  "DiamondEmpireWestWing": [
+    {
+      "Pokemon": "Sableye",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "32-41",
+      "MS": "No"
+    }
+  ],
+  "Mt. Summer1F": [
+    {
+      "Pokemon": "Sableye",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "41-45",
+      "MS": "No"
+    }
+  ],
+  "Mt. Summer1f2": [
+    {
+      "Pokemon": "Sableye",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "41-45",
+      "MS": "No"
+    }
+  ],
+  "DarkCaveSouth": [
+    {
+      "Pokemon": "Sandile",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "8-13",
+      "MS": "No"
+    }
+  ],
+  "Route111 Desert": [
+    {
+      "Pokemon": "Sandile",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "25-29",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Trapinch",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "25-29",
+      "MS": "Yes"
+    }
+  ],
+  "DarkValley": [
+    {
+      "Pokemon": "Scyther",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "25-29",
+      "MS": "No"
+    }
+  ],
+  "SafariArea1": [
+    {
+      "Pokemon": "Scyther",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "33-34",
+      "MS": "No"
+    }
+  ],
+  "Route103": [
+    {
+      "Pokemon": "Shellos",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "5-7",
+      "MS": "Yes"
+    }
+  ],
+  "Route218": [
+    {
+      "Pokemon": "Shellos",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "32-35",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Shellos",
+      "Area": "Land",
+      "Daytime": "M/N",
+      "Level": "32-35",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Timburr",
+      "Area": "Land",
+      "Daytime": "M/N",
+      "Level": "32-35",
+      "MS": "No"
+    }
+  ],
+  "NapForest": [
+    {
+      "Pokemon": "Shroomish",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "46-53",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Tympole",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "46-50",
+      "MS": "No"
+    }
+  ],
+  "Route113": [
+    {
+      "Pokemon": "Skarmory",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "19-24",
+      "MS": "No"
+    }
+  ],
+  "Route114": [
+    {
+      "Pokemon": "Skorupi",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "20-25",
+      "MS": "Yes"
+    }
+  ],
+  "DragonsShrine": [
+    {
+      "Pokemon": "Skrelp",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "65-69",
+      "MS": "No"
+    }
+  ],
+  "RuinsOfAlph": [
+    {
+      "Pokemon": "Smeargle",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "26-33",
+      "MS": "Yes"
+    }
+  ],
+  "Route11": [
+    {
+      "Pokemon": "Snorlax",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "19-20",
+      "MS": "No"
+    }
+  ],
+  "AcuityLakefront": [
+    {
+      "Pokemon": "Snorunt",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "36-39",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "36-39",
+      "MS": "No"
+    },
+    {
+      "Pokemon": "Ursaring",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "36-39",
+      "MS": "No"
+    }
+  ],
+  "IsolatedForest": [
+    {
+      "Pokemon": "Solosis",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "61-65",
+      "MS": "No"
+    }
+  ],
+  "Route32": [
+    {
+      "Pokemon": "Starly",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "9-12",
+      "MS": "Yes"
+    }
+  ],
+  "LilycoveCity": [
+    {
+      "Pokemon": "Staryu",
+      "Area": "Surf",
+      "Daytime": "M/N",
+      "Level": "36-42",
+      "MS": "No"
+    }
+  ],
+  "MountainAreaDungeon": [
+    {
+      "Pokemon": "Swablu",
+      "Area": "Surf",
+      "Daytime": "M/D/N",
+      "Level": "16-22",
+      "MS": "No"
+    }
+  ],
+  "Route115": [
+    {
+      "Pokemon": "Swablu",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "27-42",
+      "MS": "No"
+    }
+  ],
+  "SafariExclusive": [
+    {
+      "Pokemon": "Sylveon",
+      "Area": "Land",
+      "Daytime": "D",
+      "Level": "26-31",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Tynamo",
+      "Area": "Land",
+      "Daytime": "M",
+      "Level": "26-31",
+      "MS": "Yes"
+    },
+    {
+      "Pokemon": "Umbreon",
+      "Area": "Land",
+      "Daytime": "N",
+      "Level": "26-31",
+      "MS": "Yes"
+    }
+  ],
+  "GraniteCave1F": [
+    {
+      "Pokemon": "Timburr",
+      "Area": "Land",
+      "Daytime": "M/D",
+      "Level": "14-18",
+      "MS": "Yes"
+    }
+  ],
+  "Route210": [
+    {
+      "Pokemon": "Togepi",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "22-26",
+      "MS": "No"
+    }
+  ],
+  "UnisonMountainEastSummit": [
+    {
+      "Pokemon": "Togepi",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "25-29",
+      "MS": "No"
+    }
+  ],
+  "DiamondDomainMainCave": [
+    {
+      "Pokemon": "Vanillite",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "26-31",
+      "MS": "No"
+    }
+  ],
+  "SinnohSafariAreaZone3": [
+    {
+      "Pokemon": "Venipede",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "29-33",
+      "MS": "No"
+    }
+  ],
+  "Route228": [
+    {
+      "Pokemon": "Vibrava",
+      "Area": "Land",
+      "Daytime": "M/N",
+      "Level": "57-65",
+      "MS": "No"
+    }
+  ],
+  "LeevTown": [
+    {
+      "Pokemon": "Vullaby",
+      "Area": "Land",
+      "Daytime": "M/N",
+      "Level": "25-29",
+      "MS": "Yes"
+    }
+  ],
+  "LakeVerity": [
+    {
+      "Pokemon": "Wynaut",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "6-9",
+      "MS": "No"
+    }
+  ],
+  "LostCave1F10": [
+    {
+      "Pokemon": "Yamask",
+      "Area": "Land",
+      "Daytime": "M/D/N",
+      "Level": "49-54",
+      "MS": "No"
+    }
+  ]
+}

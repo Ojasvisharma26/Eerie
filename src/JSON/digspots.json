@@ -1,0 +1,493 @@
+{
+  "KANTO": {
+    "Diglett's Cave": {
+      "Location": "North-western-most and South-eastern-most trench of the basement floor",
+      "Pokemon Levels": "18-25",
+      "Patches": "9",
+      "Items": [
+        "Pokéball",
+        "Flying Gem",
+        "Potion",
+        "Fresh Water",
+        "Dawn Stone",
+        "Sun Stone",
+        "Level Ball",
+        "Carbos",
+        "Helix Fossil",
+        "Dome Fossil",
+        "Icicle Plate"
+      ],
+      "Pokemons": [
+        "Diglett",
+        "Dugtrio",
+        "Drilbur"
+      ]
+    },
+    "Route 3": {
+      "Location": "Southwest and Southeast trench",
+      "Pokemon Levels": "8-12",
+      "Patches": "8",
+      "Items": [
+        "Pokéball",
+        "Bug Gem",
+        "Nugget",
+        "Hyper Potion",
+        "Sun Stone",
+        "Hard Stone",
+        "Leftovers",
+        "Iron",
+        "Helix Fossil",
+        "Old Amber",
+        "Pixie Plate"
+      ],
+      "Pokemons": [
+        "Geodude",
+        "Rhyhorn",
+        "Aron"
+      ]
+    },
+    "Route 14": {
+      "Location": "The ditch contiguous to the Kiri & Jan duet.",
+      "Pokemon Levels": "26-30",
+      "Patches": "4",
+      "Items": [
+        "Pokéball",
+        "Fighting Gem",
+        "Potion",
+        "Fresh Water",
+        "Dawn Stone",
+        "Sun Stone",
+        "Level Ball",
+        "Carbos",
+        "Helix Fossil",
+        "Dome Fossil",
+        "Sky Plate"
+      ],
+      "Pokemons": [
+        "Geodude",
+        "Graveler",
+        "Trapinch"
+      ]
+    },
+    "Route 15": {
+      "Location": "Southwest trench",
+      "Pokemon Levels": "26-30",
+      "Patches": "5",
+      "Items": [
+        "Pokéball",
+        "Fire Gem",
+        "Super Potion",
+        "Revival Herb",
+        "Reaper Cloth",
+        "Nest Ball",
+        "Level Ball",
+        "Calcium",
+        "Helix Fossil",
+        "Dome Fossil",
+        "Flame Plate"
+      ],
+      "Pokemons": [
+        "Geodude",
+        "Onix",
+        "Bronzor"
+      ]
+    },
+    "Mt. Moon": {
+      "Location": "Southwestern and Northeastern segment of 1F",
+      "Pokemon Levels": "10-14",
+      "Patches": "8",
+      "Items": [
+        "Pokéball",
+        "Dark Gem",
+        "Stardust",
+        "Rare Candy",
+        "Hard Stone",
+        "Sun Stone",
+        "Moon Stone",
+        "Carbos",
+        "Helix Fossil",
+        "Old Amber",
+        "Draco Plate"
+      ],
+      "Pokemons": [
+        "Geodude",
+        "Rhyhorn",
+        "Honedge"
+      ]
+    },
+    "Mt. Moon 2": {
+      "Location": "Northernmost and Middlemost chamber of B2F",
+      "Pokemon Levels": "12-16",
+      "Patches": "8",
+      "Items": [
+        "Pokéball",
+        "Dragon Gem",
+        "Rare Candy",
+        "Revive",
+        "Moon Ball",
+        "Moon Stone",
+        "Net Ball",
+        "Iron",
+        "Helix Fossil",
+        "Old Amber",
+        "Dread Plate"
+      ],
+      "Pokemons": [
+        "Onix",
+        "Stunfisk",
+        "Larvitar"
+      ]
+    },
+    "Rock Tunnel": {
+      "Location": "Nearby the northern Route 10 entryway on 1F.",
+      "Pokemon Levels": "16-19",
+      "Patches": "6",
+      "Items": [
+        "Pokéball",
+        "Electric Gem",
+        "Nugget",
+        "Rare Candy",
+        "Net Ball",
+        "Moon Ball",
+        "Level Ball",
+        "Carbos",
+        "Helix Fossil",
+        "Old Amber",
+        "Earth Plate"
+      ],
+      "Pokemons": [
+        "Diglett",
+        "Graveler",
+        "Baltoy"
+      ]
+    },
+    "Rock Tunnel 2": {
+      "Location": "The four left-half and The four right-half patches near the southernmost stairways on the basement floor.",
+      "Pokemon Levels": "17-20",
+      "Patches": "8",
+      "Items": [
+        "Pokéball",
+        "Fairy Gem",
+        "Star Piece",
+        "Revive",
+        "Hard Stone",
+        "Moon Stone",
+        "Leftovers",
+        "Iron",
+        "Helix Fossil",
+        "Dome Fossil",
+        "Fist Plate"
+      ],
+      "Pokemons": [
+        "Bronzong",
+        "Baltoy",
+        "Aron"
+      ]
+    }
+  },
+  "JOHTO": {
+    "Dark Cave South": {
+      "Location": "The three-northwesternmost patches of the entire allotment sprawling from Route 46's entryway.",
+      "Pokemon Levels": "8-12",
+      "Patches": "6",
+      "Items": [
+        "Pokéball",
+        "Ground Gem",
+        "Soda Pop",
+        "Paralyze Heal",
+        "Reaper Cloth",
+        "Leftovers",
+        "Lure Ball",
+        "Calcium",
+        "Root Fossil",
+        "Claw Fossil",
+        "Meadeow Plate"
+      ],
+      "Pokemons": [
+        "Onix",
+        "Nosepass",
+        "Honedge"
+      ]
+    },
+    "Mt. Mortar": {
+      "Location": "The allotment sprawling from Route 42's eastern entryway on 1F, The semi-compact allotment north of Route 42's centric entryway on 1F and The north of the entryway nearby the berry-tree plants on Route 42.",
+      "Pokemon Levels": "21-26",
+      "Patches": "11",
+      "Items": [
+        "Pokéball",
+        "Ice Gem",
+        "Stardust",
+        "Leftovers",
+        "Nest Ball",
+        "Sun Stone",
+        "Dawn Stone",
+        "Protein",
+        "Root Fossil",
+        "Claw Fossil",
+        "Splash Plate"
+      ],
+      "Pokemons": [
+        "Geodude",
+        "Stunfisk",
+        "Drilbur"
+      ]
+    },
+    "Slowpoke Well": {
+      "Location": "All the patches on 1F.",
+      "Pokemon Levels": "18-22",
+      "Patches": "12",
+      "Items": [
+        "Pokéball",
+        "Ghost Gem",
+        "Soda Pop",
+        "Nugget",
+        "Fast Ball",
+        "Leftovers",
+        "Lure Ball",
+        "Calcium",
+        "Root Fossil",
+        "Claw Fossil",
+        "Insect Plate"
+      ],
+      "Pokemons": [
+        "Geodude",
+        "Stunfisk",
+        "Roggenrola"
+      ]
+    },
+    "Slowpoke Well 2 ": {
+      "Location": "All the patches on L1",
+      "Pokemon Levels": "18-22",
+      "Patches": "8",
+      "Items": [
+        "Pokéball",
+        "Grass Gem",
+        "Potion",
+        "Paralyze Heal",
+        "Dusk Stone",
+        "Leftovers",
+        "Friend Ball",
+        "Protein",
+        "Root Fossil",
+        "Claw Fossil",
+        "Iron Plate"
+      ],
+      "Pokemons": [
+        "Geodude",
+        "Phanpy",
+        "Hippopotas"
+      ]
+    }
+  },
+  "SEVII_ISLANDS": {
+    "Water Path": {
+      "Location": "The mountainside ditches north of Ruin Valley.",
+      "Pokemon Levels": "24-29",
+      "Patches": "7",
+      "Items": [
+        "Pokéball",
+        "Rare Candy",
+        "Full Restore",
+        "Full Heal",
+        "Everstone",
+        "Oval Stone",
+        "Lure Ball",
+        "Hp Up",
+        "Root Fossil",
+        "Sail Fossil",
+        "Macho Brace"
+      ],
+      "Pokemons": [
+        "Diglet",
+        "Trapinch",
+        "Roggenrola"
+      ]
+    },
+    "Tanoby Key": {
+      "Location": "The key-shaped sprawling of patches surrounding the overworld-interactable Tyranitar.",
+      "Pokemon Levels": "40-46",
+      "Patches": "7",
+      "Items": [
+        "Pokéball",
+        "Rare Candy",
+        "Ice Heal",
+        "Paraylze Heal",
+        "Everstone",
+        "Dawn Stone",
+        "Repeat Ball",
+        "PP Max",
+        "Helix Fossil",
+        "Sail Fossil",
+        "Macho Brace"
+      ],
+      "Pokemons": [
+        "Graveler",
+        "Baltoy",
+        "Larvitar"
+      ]
+    }
+  },
+  "SINNOH": {
+    "Maniac Tunnel": {
+      "Location": "East side of Maniac Tunnel, on South of Veilstone City.",
+      "Pokemon Levels": "10-20",
+      "Patches": "6",
+      "Items": [
+        "Pokéball",
+        "Normal Gem",
+        "Ether",
+        "Antidote",
+        "Ultra Ball",
+        "Reaper Cloth",
+        "Friend Ball",
+        "Zinc",
+        "Jaw Fossil",
+        "Sail Fossil",
+        "Spooky Plate"
+      ],
+      "Pokemons": [
+        "Onix",
+        "Phanpy",
+        "Larvitar"
+      ]
+    },
+    "Mt. Coronet Summit": {
+      "Location": "South side of Mt. Coronet Summit.",
+      "Pokemon Levels": "10-20",
+      "Patches": "5",
+      "Items": [
+        "Pokéball",
+        "Poison Gem",
+        "Everstone",
+        "Antidote",
+        "Ice Heal",
+        "Leftovers",
+        "Soft Sand",
+        "Zinc",
+        "Jaw Fossil",
+        "Sail Fossil",
+        "Stone Plate"
+      ],
+      "Pokemons": [
+        "Graveler",
+        "Baltoy",
+        "Drilbur"
+      ]
+    },
+    "Oreburgh Gate B1F": {
+      "Location": "West of Oreburgh City, enter to Oreburgh Gate B1F and surf to access to the Dig Spots.",
+      "Pokemon Levels": "10-20",
+      "Patches": "5",
+      "Items": [
+        "Pokéball",
+        "Normal Gem",
+        "Ether",
+        "Antidote",
+        "Dusk Stone",
+        "Soft Sand",
+        "Net Ball",
+        "HP Up",
+        "Jaw Fossil",
+        "Sail Fossil",
+        "Zap Plate"
+      ],
+      "Pokemons": [
+        "Stunfisk",
+        "Nosepass",
+        "Roggenrola"
+      ]
+    },
+    "Ravaged Path": {
+      "Location": "North of Jubilife City, enter to Ravaged Path and surf to access to the Dig Spots.",
+      "Pokemon Levels": "10-20",
+      "Patches": "4",
+      "Items": [
+        "Pokéball",
+        "Rock Gem",
+        "Stardust",
+        "Burn Heal",
+        "Ultra Ball",
+        "Reaper Cloth",
+        "Friend Ball",
+        "Zinc",
+        "Jaw Fossil",
+        "Sail Fossil",
+        "Spooky Plate"
+      ],
+      "Pokemons": [
+        "Sandshrew",
+        "Phanpy",
+        "Aron"
+      ]
+    },
+    "Route 209": {
+      "Location": "South of Solaceon Town.",
+      "Pokemon Levels": "10-20",
+      "Patches": "5",
+      "Items": [
+        "Pokéball",
+        "Steel Gem",
+        "Nugget",
+        "Burn Heal",
+        "Everstone",
+        "Great Ball",
+        "Repeat Ball",
+        "PP UP",
+        "Jaw Fossil",
+        "Sail Fossil",
+        "Mind Plate"
+      ],
+      "Pokemons": [
+        "Sandshrew",
+        "Nosepass",
+        "Trapinch"
+      ]
+    },
+    "Route 210 North": {
+      "Location": "East of Celestic Town.",
+      "Pokemon Levels": "10-20",
+      "Patches": "5",
+      "Items": [
+        "Pokéball",
+        "Water Gem",
+        "Elixer",
+        "Awakening",
+        "Oval Stone",
+        "Dawn Stone",
+        "Soft Sand",
+        "PP Max",
+        "Jaw Fossil",
+        "Sail Fossil",
+        "Big Nugget"
+      ],
+      "Pokemons": [
+        "Sandshrew",
+        "Phanpy",
+        "Hippopotas"
+      ]
+    },
+    "Route 211": {
+      "Location": "Dig Spots divided in 2 sides: East of Eterna City and West of Celestic Town.",
+      "Pokemon Levels": "10-20",
+      "Patches": "6",
+      "Items": [
+        "Pokéball",
+        "Rare Candy",
+        "Full Heal",
+        "Full Restore",
+        "Oval Stone",
+        "Great Ball",
+        "Repeat Ball",
+        "PP Max",
+        "Jaw Fossil",
+        "Sail Fossil",
+        "Macho Brace"
+      ],
+      "Pokemons": [
+        "Graveler",
+        "Baltoy",
+        "Honedge"
+      ]
+    }
+  }
+}

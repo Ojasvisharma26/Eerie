@@ -1,0 +1,720 @@
+{
+  "2023": {
+    "February": {
+      "Gold": {
+        "Most used pokemon in ranked pvp (source: PRO database)": [
+          {
+            "Unique Teams": "NIL"
+          },
+          {
+            "Rank": 1,
+            "Pokemon": "Ferrothorn",
+            "Count": 8255,
+            "Percentage": "2.49%",
+            "Win rate": "48.75%"
+          },
+          {
+            "Rank": 2,
+            "Pokemon": "Clefable",
+            "Count": 7590,
+            "Percentage": "2.29%",
+            "Win rate": "47.84%"
+          },
+          {
+            "Rank": 3,
+            "Pokemon": "Rotom-Wash",
+            "Count": 7281,
+            "Percentage": "2.20%",
+            "Win rate": "47.15%"
+          },
+          {
+            "Rank": 4,
+            "Pokemon": "Zapdos",
+            "Count": 6754,
+            "Percentage": "2.04%",
+            "Win rate": "53.89%"
+          },
+          {
+            "Rank": 5,
+            "Pokemon": "Landorus",
+            "Count": 6151,
+            "Percentage": "1.86%",
+            "Win rate": "56.20%"
+          },
+          {
+            "Rank": 6,
+            "Pokemon": "Bisharp",
+            "Count": 5999,
+            "Percentage": "1.81%",
+            "Win rate": "52.14%"
+          },
+          {
+            "Rank": 7,
+            "Pokemon": "Garchomp",
+            "Count": 5778,
+            "Percentage": "1.74%",
+            "Win rate": "48.72%"
+          },
+          {
+            "Rank": 8,
+            "Pokemon": "Heatran",
+            "Count": 5514,
+            "Percentage": "1.66%",
+            "Win rate": "50.02%"
+          },
+          {
+            "Rank": 9,
+            "Pokemon": "Dragonite",
+            "Count": 5149,
+            "Percentage": "1.55%",
+            "Win rate": "44.73%"
+          },
+          {
+            "Rank": 10,
+            "Pokemon": "Mega Scizor",
+            "Count": 5027,
+            "Percentage": "1.52%",
+            "Win rate": "53.41%"
+          },
+          {
+            "Rank": 11,
+            "Pokemon": "Azumarill",
+            "Count": 4903,
+            "Percentage": "1.48%",
+            "Win rate": "50.60%"
+          },
+          {
+            "Rank": 12,
+            "Pokemon": "Volcarona",
+            "Count": 4851,
+            "Percentage": "1.46%",
+            "Win rate": "45.43%"
+          },
+          {
+            "Rank": 13,
+            "Pokemon": "Excadrill",
+            "Count": 4454,
+            "Percentage": "1.34%",
+            "Win rate": "48.36%"
+          },
+          {
+            "Rank": 14,
+            "Pokemon": "Chansey",
+            "Count": 4307,
+            "Percentage": "1.30%",
+            "Win rate": "47.43%"
+          },
+          {
+            "Rank": 15,
+            "Pokemon": "Weavile",
+            "Count": 4289,
+            "Percentage": "1.29%",
+            "Win rate": "47.96%"
+          },
+          {
+            "Rank": 16,
+            "Pokemon": "Keldeo-Resolute",
+            "Count": 4278,
+            "Percentage": "1.29%",
+            "Win rate": "54.77%"
+          },
+          {
+            "Rank": 17,
+            "Pokemon": "Mega Metagross",
+            "Count": 3943,
+            "Percentage": "1.19%",
+            "Win rate": "53.46%"
+          },
+          {
+            "Rank": 18,
+            "Pokemon": "Gengar",
+            "Count": 3901,
+            "Percentage": "1.18%",
+            "Win rate": "46.14%"
+          },
+          {
+            "Rank": 19,
+            "Pokemon": "Conkeldurr",
+            "Count": 3736,
+            "Percentage": "1.13%",
+            "Win rate": "50.43%"
+          },
+          {
+            "Rank": 20,
+            "Pokemon": "Tyranitar",
+            "Count": 3723,
+            "Percentage": "1.12%",
+            "Win rate": "45.58%"
+          },
+          {
+            "Rank": 21,
+            "Pokemon": "Serperior",
+            "Count": 3385,
+            "Percentage": "1.02%",
+            "Win rate": "48.06%"
+          },
+          {
+            "Rank": 22,
+            "Pokemon": "Tornadus",
+            "Count": 3362,
+            "Percentage": "1.01%",
+            "Win rate": "54.28%"
+          },
+          {
+            "Rank": 23,
+            "Pokemon": "Pelipper",
+            "Count": 3143,
+            "Percentage": "0.95%",
+            "Win rate": "47.92%"
+          },
+          {
+            "Rank": 24,
+            "Pokemon": "Gliscor",
+            "Count": 2895,
+            "Percentage": "0.87%",
+            "Win rate": "47.81%"
+          },
+          {
+            "Rank": 25,
+            "Pokemon": "Breloom",
+            "Count": 2852,
+            "Percentage": "0.86%",
+            "Win rate": "50.74%"
+          },
+          {
+            "Rank": 26,
+            "Pokemon": "Skarmory",
+            "Count": 2730,
+            "Percentage": "0.82%",
+            "Win rate": "49.08%"
+          },
+          {
+            "Rank": 27,
+            "Pokemon": "Kingdra",
+            "Count": 2674,
+            "Percentage": "0.81%",
+            "Win rate": "48.65%"
+          },
+          {
+            "Rank": 28,
+            "Pokemon": "Mega Swampert",
+            "Count": 2586,
+            "Percentage": "0.78%",
+            "Win rate": "48.61%"
+          },
+          {
+            "Rank": 29,
+            "Pokemon": "Mega Medicham",
+            "Count": 2582,
+            "Percentage": "0.78%",
+            "Win rate": "52.17%"
+          },
+          {
+            "Rank": 30,
+            "Pokemon": "Slowbro",
+            "Count": 2554,
+            "Percentage": "0.77%",
+            "Win rate": "48.00%"
+          },
+          {
+            "Rank": 31,
+            "Pokemon": "Aerodactyl",
+            "Count": 2489,
+            "Percentage": "0.75%",
+            "Win rate": "48.77%"
+          },
+          {
+            "Rank": 32,
+            "Pokemon": "Mega Gyarados",
+            "Count": 2468,
+            "Percentage": "0.75%",
+            "Win rate": "44.45%"
+          },
+          {
+            "Rank": 33,
+            "Pokemon": "Magnezone",
+            "Count": 2166,
+            "Percentage": "0.65%",
+            "Win rate": "51.43%"
+          },
+          {
+            "Rank": 34,
+            "Pokemon": "Manaphy",
+            "Count": 2022,
+            "Percentage": "0.61%",
+            "Win rate": "50.54%"
+          },
+          {
+            "Rank": 35,
+            "Pokemon": "Diggersby",
+            "Count": 1981,
+            "Percentage": "0.60%",
+            "Win rate": "53.86%"
+          },
+          {
+            "Rank": 36,
+            "Pokemon": "Mega Alakazam",
+            "Count": 1890,
+            "Percentage": "0.57%",
+            "Win rate": "50.79%"
+          },
+          {
+            "Rank": 37,
+            "Pokemon": "Togekiss",
+            "Count": 1834,
+            "Percentage": "0.55%",
+            "Win rate": "43.18%"
+          },
+          {
+            "Rank": 38,
+            "Pokemon": "Scizor",
+            "Count": 1834,
+            "Percentage": "0.55%",
+            "Win rate": "45.91%"
+          },
+          {
+            "Rank": 39,
+            "Pokemon": "Muk-Alolan",
+            "Count": 1764,
+            "Percentage": "0.53%",
+            "Win rate": "52.10%"
+          },
+          {
+            "Rank": 40,
+            "Pokemon": "Crawdaunt",
+            "Count": 1749,
+            "Percentage": "0.53%",
+            "Win rate": "51.29%"
+          },
+          {
+            "Rank": 41,
+            "Pokemon": "Hippowdon",
+            "Count": 1730,
+            "Percentage": "0.52%",
+            "Win rate": "55.32%"
+          },
+          {
+            "Rank": 42,
+            "Pokemon": "Mega Charizard Y",
+            "Count": 1646,
+            "Percentage": "0.50%",
+            "Win rate": "44.17%"
+          },
+          {
+            "Rank": 43,
+            "Pokemon": "Mega Pinsir",
+            "Count": 1608,
+            "Percentage": "0.49%",
+            "Win rate": "48.63%"
+          },
+          {
+            "Rank": 44,
+            "Pokemon": "Tangrowth",
+            "Count": 1579,
+            "Percentage": "0.48%",
+            "Win rate": "50.10%"
+          },
+          {
+            "Rank": 45,
+            "Pokemon": "Cloyster",
+            "Count": 1557,
+            "Percentage": "0.47%",
+            "Win rate": "46.31%"
+          },
+          {
+            "Rank": 46,
+            "Pokemon": "Tentacruel",
+            "Count": 1556,
+            "Percentage": "0.47%",
+            "Win rate": "55.53%"
+          },
+          {
+            "Rank": 47,
+            "Pokemon": "Gyarados",
+            "Count": 1534,
+            "Percentage": "0.46%",
+            "Win rate": "42.31%"
+          },
+          {
+            "Rank": 48,
+            "Pokemon": "Mega Lopunny",
+            "Count": 1515,
+            "Percentage": "0.46%",
+            "Win rate": "51.35%"
+          },
+          {
+            "Rank": 49,
+            "Pokemon": "Mega Manectric",
+            "Count": 1476,
+            "Percentage": "0.45%",
+            "Win rate": "55.01%"
+          },
+          {
+            "Rank": 50,
+            "Pokemon": "Blissey",
+            "Count": 1449,
+            "Percentage": "0.44%",
+            "Win rate": "44.93%"
+          }
+        ]
+      },
+      "Silver": {
+        "Most used pokemon in ranked pvp (source: PRO database)": [
+          {
+            "Unique Teams": "NIL"
+          },
+          {
+            "Rank": 1,
+            "Pokemon": "Ferrothorn",
+            "Count": 9710,
+            "Percentage": "2.66%",
+            "Win rate": "48.93%"
+          },
+          {
+            "Rank": 2,
+            "Pokemon": "Rotom-Wash",
+            "Count": 8715,
+            "Percentage": "2.39%",
+            "Win rate": "50.77%"
+          },
+          {
+            "Rank": 3,
+            "Pokemon": "Garchomp",
+            "Count": 8415,
+            "Percentage": "2.30%",
+            "Win rate": "52.57%"
+          },
+          {
+            "Rank": 4,
+            "Pokemon": "Clefable",
+            "Count": 7394,
+            "Percentage": "2.02%",
+            "Win rate": "52.20%"
+          },
+          {
+            "Rank": 5,
+            "Pokemon": "Azumarill",
+            "Count": 7056,
+            "Percentage": "1.93%",
+            "Win rate": "49.40%"
+          },
+          {
+            "Rank": 6,
+            "Pokemon": "Zapdos",
+            "Count": 6486,
+            "Percentage": "1.78%",
+            "Win rate": "53.68%"
+          },
+          {
+            "Rank": 7,
+            "Pokemon": "Landorus",
+            "Count": 5959,
+            "Percentage": "1.63%",
+            "Win rate": "54.35%"
+          },
+          {
+            "Rank": 8,
+            "Pokemon": "Weavile",
+            "Count": 5652,
+            "Percentage": "1.55%",
+            "Win rate": "46.48%"
+          },
+          {
+            "Rank": 9,
+            "Pokemon": "Heatran",
+            "Count": 5540,
+            "Percentage": "1.52%",
+            "Win rate": "52.27%"
+          },
+          {
+            "Rank": 10,
+            "Pokemon": "Mega Scizor",
+            "Count": 5512,
+            "Percentage": "1.51%",
+            "Win rate": "53.88%"
+          },
+          {
+            "Rank": 11,
+            "Pokemon": "Chansey",
+            "Count": 5155,
+            "Percentage": "1.41%",
+            "Win rate": "47.66%"
+          },
+          {
+            "Rank": 12,
+            "Pokemon": "Bisharp",
+            "Count": 4944,
+            "Percentage": "1.35%",
+            "Win rate": "52.87%"
+          },
+          {
+            "Rank": 13,
+            "Pokemon": "Keldeo-Resolute",
+            "Count": 4889,
+            "Percentage": "1.34%",
+            "Win rate": "53.81%"
+          },
+          {
+            "Rank": 14,
+            "Pokemon": "Dragonite",
+            "Count": 4883,
+            "Percentage": "1.34%",
+            "Win rate": "49.07%"
+          },
+          {
+            "Rank": 15,
+            "Pokemon": "Pelipper",
+            "Count": 4384,
+            "Percentage": "1.20%",
+            "Win rate": "44.96%"
+          },
+          {
+            "Rank": 16,
+            "Pokemon": "Gengar",
+            "Count": 3961,
+            "Percentage": "1.08%",
+            "Win rate": "48.57%"
+          },
+          {
+            "Rank": 17,
+            "Pokemon": "Volcarona",
+            "Count": 3957,
+            "Percentage": "1.08%",
+            "Win rate": "45.14%"
+          },
+          {
+            "Rank": 18,
+            "Pokemon": "Kingdra",
+            "Count": 3879,
+            "Percentage": "1.06%",
+            "Win rate": "44.81%"
+          },
+          {
+            "Rank": 19,
+            "Pokemon": "Gliscor",
+            "Count": 3697,
+            "Percentage": "1.01%",
+            "Win rate": "50.47%"
+          },
+          {
+            "Rank": 20,
+            "Pokemon": "Skarmory",
+            "Count": 3514,
+            "Percentage": "0.96%",
+            "Win rate": "51.99%"
+          },
+          {
+            "Rank": 21,
+            "Pokemon": "Excadrill",
+            "Count": 3484,
+            "Percentage": "0.95%",
+            "Win rate": "51.21%"
+          },
+          {
+            "Rank": 22,
+            "Pokemon": "Tornadus",
+            "Count": 3480,
+            "Percentage": "0.95%",
+            "Win rate": "56.24%"
+          },
+          {
+            "Rank": 23,
+            "Pokemon": "Tyranitar",
+            "Count": 3478,
+            "Percentage": "0.95%",
+            "Win rate": "53.42%"
+          },
+          {
+            "Rank": 24,
+            "Pokemon": "Mega Swampert",
+            "Count": 3419,
+            "Percentage": "0.94%",
+            "Win rate": "46.33%"
+          },
+          {
+            "Rank": 25,
+            "Pokemon": "Breloom",
+            "Count": 3384,
+            "Percentage": "0.93%",
+            "Win rate": "51.83%"
+          },
+          {
+            "Rank": 26,
+            "Pokemon": "Serperior",
+            "Count": 3255,
+            "Percentage": "0.89%",
+            "Win rate": "48.60%"
+          },
+          {
+            "Rank": 27,
+            "Pokemon": "Mega Metagross",
+            "Count": 3249,
+            "Percentage": "0.89%",
+            "Win rate": "52.11%"
+          },
+          {
+            "Rank": 28,
+            "Pokemon": "Magnezone",
+            "Count": 3087,
+            "Percentage": "0.85%",
+            "Win rate": "53.39%"
+          },
+          {
+            "Rank": 29,
+            "Pokemon": "Mega Medicham",
+            "Count": 2880,
+            "Percentage": "0.79%",
+            "Win rate": "53.61%"
+          },
+          {
+            "Rank": 30,
+            "Pokemon": "Mega Alakazam",
+            "Count": 2649,
+            "Percentage": "0.73%",
+            "Win rate": "53.45%"
+          },
+          {
+            "Rank": 31,
+            "Pokemon": "Mega Lopunny",
+            "Count": 2525,
+            "Percentage": "0.69%",
+            "Win rate": "50.89%"
+          },
+          {
+            "Rank": 32,
+            "Pokemon": "Conkeldurr",
+            "Count": 2521,
+            "Percentage": "0.69%",
+            "Win rate": "47.64%"
+          },
+          {
+            "Rank": 33,
+            "Pokemon": "Mega Gyarados",
+            "Count": 2460,
+            "Percentage": "0.67%",
+            "Win rate": "46.71%"
+          },
+          {
+            "Rank": 34,
+            "Pokemon": "Scizor",
+            "Count": 2456,
+            "Percentage": "0.67%",
+            "Win rate": "47.84%"
+          },
+          {
+            "Rank": 35,
+            "Pokemon": "Mega Charizard Y",
+            "Count": 2453,
+            "Percentage": "0.67%",
+            "Win rate": "46.27%"
+          },
+          {
+            "Rank": 36,
+            "Pokemon": "Togekiss",
+            "Count": 2429,
+            "Percentage": "0.67%",
+            "Win rate": "46.89%"
+          },
+          {
+            "Rank": 37,
+            "Pokemon": "Slowbro",
+            "Count": 2246,
+            "Percentage": "0.62%",
+            "Win rate": "50.40%"
+          },
+          {
+            "Rank": 38,
+            "Pokemon": "Torkoal",
+            "Count": 2195,
+            "Percentage": "0.60%",
+            "Win rate": "45.79%"
+          },
+          {
+            "Rank": 39,
+            "Pokemon": "Tangrowth",
+            "Count": 2075,
+            "Percentage": "0.57%",
+            "Win rate": "48.92%"
+          },
+          {
+            "Rank": 40,
+            "Pokemon": "Mega Venusaur",
+            "Count": 2014,
+            "Percentage": "0.55%",
+            "Win rate": "56.55%"
+          },
+          {
+            "Rank": 41,
+            "Pokemon": "Venusaur",
+            "Count": 1969,
+            "Percentage": "0.54%",
+            "Win rate": "48.15%"
+          },
+          {
+            "Rank": 42,
+            "Pokemon": "Manaphy",
+            "Count": 1952,
+            "Percentage": "0.53%",
+            "Win rate": "50.05%"
+          },
+          {
+            "Rank": 43,
+            "Pokemon": "Infernape",
+            "Count": 1883,
+            "Percentage": "0.52%",
+            "Win rate": "47.32%"
+          },
+          {
+            "Rank": 44,
+            "Pokemon": "Mimikyu",
+            "Count": 1861,
+            "Percentage": "0.51%",
+            "Win rate": "51.80%"
+          },
+          {
+            "Rank": 45,
+            "Pokemon": "Mega Charizard X",
+            "Count": 1844,
+            "Percentage": "0.50%",
+            "Win rate": "46.85%"
+          },
+          {
+            "Rank": 46,
+            "Pokemon": "Cloyster",
+            "Count": 1841,
+            "Percentage": "0.50%",
+            "Win rate": "45.79%"
+          },
+          {
+            "Rank": 47,
+            "Pokemon": "Suicune",
+            "Count": 1779,
+            "Percentage": "0.49%",
+            "Win rate": "54.69%"
+          },
+          {
+            "Rank": 48,
+            "Pokemon": "Cresselia",
+            "Count": 1762,
+            "Percentage": "0.48%",
+            "Win rate": "44.15%"
+          },
+          {
+            "Rank": 49,
+            "Pokemon": "Kyurem-Black",
+            "Count": 1755,
+            "Percentage": "0.48%",
+            "Win rate": "53.22%"
+          },
+          {
+            "Rank": 50,
+            "Pokemon": "Muk-Alolan",
+            "Count": 1724,
+            "Percentage": "0.47%",
+            "Win rate": "49.25%"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+Add these in SECRET FILE (LOCK IN THE LEFT SIDE)
+BotToken=
+BotOwnerID=
+AppID=
+ClientSecret=
+Connect=
+DevGuild=
+DevChannel= 
+WebhookURL=

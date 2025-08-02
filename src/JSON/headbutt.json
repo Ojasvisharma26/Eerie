@@ -1,0 +1,5954 @@
+{
+  "azalea town": [
+    {
+      "Pokemon": "Ledyba",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Sentret",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Ledian",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Yanma",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Pinsir",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "canyon entrance": [
+    {
+      "Pokemon": "Fearow",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    },
+    {
+      "Pokemon": "Meowth",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    },
+    {
+      "Pokemon": "Geodude",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    },
+    {
+      "Pokemon": "Cubone",
+      "Tier": "Intermediate",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    },
+    {
+      "Pokemon": "Larvitar",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    }
+  ],
+  "cerulean city": [
+    {
+      "Pokemon": "Metapod",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Weedle",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Cascoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Gastly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Golbat",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Exeggcute",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "cherrygrove city": [
+    {
+      "Pokemon": "Ledyba",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Sentret",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Hoppip",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Yanma",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Pinsir",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "eterna forest": [
+    {
+      "Pokemon": "Bidoof",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Pokemon": "Cherubi",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Pokemon": "Kricketot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Pokemon": "Starly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Pokemon": "Shinx",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Pokemon": "Turtwig",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "11-14"
+    }
+  ],
+  "fortree city": [
+    {
+      "Pokemon": "Wingull",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Wurmple",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Pineco",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Drifloon",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "fuegoiron works": [
+    {
+      "Pokemon": "Starly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-12"
+    },
+    {
+      "Pokemon": "Bidoof",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-12"
+    },
+    {
+      "Pokemon": "Cherubi",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-12"
+    },
+    {
+      "Pokemon": "Kricketot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-12"
+    },
+    {
+      "Pokemon": "Drifloon",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "10-12"
+    },
+    {
+      "Pokemon": "Shinx",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "10-12"
+    }
+  ],
+  "ilex forest": [
+    {
+      "Pokemon": "Ledian",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Hoppip",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Yanma",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Scyther",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "lake valor": [
+    {
+      "Pokemon": "Bidoof",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "35-39"
+    },
+    {
+      "Pokemon": "Kricketot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "35-39"
+    },
+    {
+      "Pokemon": "Cherubi",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "35-39"
+    },
+    {
+      "Pokemon": "Starly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "35-39"
+    },
+    {
+      "Pokemon": "Carnivine",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "35-39"
+    },
+    {
+      "Pokemon": "Pachirisu",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "35-39"
+    }
+  ],
+  "lavender town": [
+    {
+      "Pokemon": "Gastly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Kakuna",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Ekans",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Misdreavus",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Sableye",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "leevtown port": [
+    {
+      "Pokemon": "Illumise",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Pokemon": "Surskit",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Pokemon": "Slakoth",
+      "Tier": "Intermediate",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Pokemon": "Chatot",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    }
+  ],
+  "littleroot town": [
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Seedot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Exeggcute",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Treecko",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Torchic",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Mudkip",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "love island": [
+    {
+      "Pokemon": "Pichu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    },
+    {
+      "Pokemon": "Cleffa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    },
+    {
+      "Pokemon": "Igglybuff",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    },
+    {
+      "Pokemon": "Magby",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    },
+    {
+      "Pokemon": "Wynaut",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    },
+    {
+      "Pokemon": "Chingling",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    },
+    {
+      "Pokemon": "Smoochum",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    },
+    {
+      "Pokemon": "Tyrogue",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    },
+    {
+      "Pokemon": "Elekid",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "18-20"
+    },
+    {
+      "Pokemon": "Togepi",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "18-20"
+    }
+  ],
+  "mauville city": [
+    {
+      "Pokemon": "Wingull",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Nuzleaf",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Starly",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "mt.pyre exterior": [
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Pokemon": "Nuzleaf",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Pokemon": "Wingull",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Pokemon": "Seedot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Pokemon": "Murkrow",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Pokemon": "Sableye",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "21-26"
+    }
+  ],
+  "mt.silver exterior": [
+    {
+      "Pokemon": "Swinub",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Pokemon": "Hoothoot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Pokemon": "Venonat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Pokemon": "Pineco",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Pokemon": "Murkrow",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "50-55"
+    }
+  ],
+  "mt.silver upper mountainside": [
+    {
+      "Pokemon": "Noctowl",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Pokemon": "Delibird",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Pokemon": "Swinub",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Pokemon": "Sentret",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Pokemon": "Smoochum",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "50-55"
+    }
+  ],
+  "New Bark Town": [
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Seedot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Pineco",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Chikorita",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Cyndaquil",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Totodile",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "oldale town": [
+    {
+      "Pokemon": "Seedot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Wingull",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Beautifly",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Gligar",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "olivine city": [
+    {
+      "Pokemon": "Fearow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Burmy",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Sewaddle",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Trevenant",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "5-10"
+    }
+  ],
+  "pallet town": [
+    {
+      "Pokemon": "Silcoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Caterpie",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Rattata",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Venonat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Exeggcute",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Bulbasaur",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Charmander",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Squirtle",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "pewter city": [
+    {
+      "Pokemon": "Cascoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Weedle",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Spearow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Golbat",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Farfetch'd",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "petalburg woods": [
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Pokemon": "Wurmple",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Pokemon": "Illumise",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Pokemon": "Pineco",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Pokemon": "Shroomish",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-7"
+    }
+  ],
+  "route 1": [
+    {
+      "Pokemon": "Rattata",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Silcoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Caterpie",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Ekans",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Beedrill",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Pinsir",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "route 2": [
+    {
+      "Pokemon": "Silcoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Pokemon": "Venonat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Pokemon": "Ekans",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Pokemon": "Sentret",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Pokemon": "Yanma",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-7"
+    }
+  ],
+  "route 3": [
+    {
+      "Pokemon": "Kakuna",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-12"
+    },
+    {
+      "Pokemon": "Ekans",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-12"
+    },
+    {
+      "Pokemon": "Caterpie",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-12"
+    },
+    {
+      "Pokemon": "Beedrill",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-12"
+    },
+    {
+      "Pokemon": "Butterfree",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-12"
+    }
+  ],
+  "route 4": [
+    {
+      "Pokemon": "Silcoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Pokemon": "Kakuna",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Pokemon": "Venonat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Pokemon": "Rattata",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Pokemon": "Exeggcute",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "8-12"
+    }
+  ],
+  "route 7": [
+    {
+      "Pokemon": "Kakuna",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Pokemon": "Caterpie",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Pokemon": "Rattata",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Pokemon": "Gastly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Pokemon": "Beedrill",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Pokemon": "Pineco",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "16-22"
+    }
+  ],
+  "route 8": [
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Pokemon": "Silcoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Pokemon": "Metapod",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Pokemon": "Kakuna",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Pokemon": "Exeggcute",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "18-22"
+    }
+  ],
+  "route 101": [
+    {
+      "Pokemon": "Wurmple",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Illumise",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Seedot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Dustox",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Shroomish",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-4"
+    }
+  ],
+  "route 102": [
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Wurmple",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Dustox",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-4"
+    }
+  ],
+  "route 103": [
+    {
+      "Pokemon": "Seedot",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Pokemon": "Nuzleaf",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Pokemon": "Pineco",
+      "Tier": "Intermediate",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Pokemon": "Heracross",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": ""
+    }
+  ],
+  "route 11": [
+    {
+      "Pokemon": "Silcoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Pokemon": "Rattata",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Pokemon": "Caterpie",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Pokemon": "Pinsir",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "18-22"
+    }
+  ],
+  "route 111 north": [
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Nuzleaf",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Minun",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Plusle",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Slakoth",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Baltoy",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Vibrava",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "5-10"
+    }
+  ],
+  "route 112": [
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Pokemon": "Yanma",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Pokemon": "Surskit",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Pokemon": "Staravia",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Pokemon": "Dustox",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "14-18"
+    }
+  ],
+  "route 113": [
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Pokemon": "Beautifly",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Pokemon": "Carnivine",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "14-18"
+    }
+  ],
+  "route 115": [
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-25"
+    },
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-25"
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-25"
+    },
+    {
+      "Pokemon": "Nuzleaf",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-25"
+    },
+    {
+      "Pokemon": "Beautifly",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "20-25"
+    },
+    {
+      "Pokemon": "Scyther",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "20-25"
+    }
+  ],
+  "route 116": [
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "6-9"
+    },
+    {
+      "Pokemon": "Seedot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "6-9"
+    },
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "6-9"
+    },
+    {
+      "Pokemon": "Surskit",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "6-9"
+    },
+    {
+      "Pokemon": "Beautifly",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "6-9"
+    },
+    {
+      "Pokemon": "Gligar",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "6-9"
+    }
+  ],
+  "route 117": [
+    {
+      "Pokemon": "Wurmple",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "13-16"
+    },
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "13-16"
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "13-16"
+    },
+    {
+      "Pokemon": "Cacnea",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "13-16"
+    },
+    {
+      "Pokemon": "Pinsir",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "13-16"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "13-16"
+    }
+  ],
+  "route 119a": [
+    {
+      "Pokemon": "Surskit",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Pokemon": "Yanma",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Pokemon": "Slakoth",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Pokemon": "Chatot",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "22-28"
+    }
+  ],
+  "route 120": [
+    {
+      "Pokemon": "Wurmple",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Pokemon": "Illumise",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Pokemon": "Seedot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Pokemon": "Surskit",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Pokemon": "Cherubi",
+      "Tier": "Intermedite",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Pokemon": "Burmy",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "25-30"
+    }
+  ],
+  "route 123": [
+    {
+      "Pokemon": "Seedot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "29-33"
+    },
+    {
+      "Pokemon": "Nuzleaf",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "29-33"
+    },
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "29-33"
+    },
+    {
+      "Pokemon": "Illumise",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "29-33"
+    },
+    {
+      "Pokemon": "Dustox",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "29-33"
+    },
+    {
+      "Pokemon": "Slakoth",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "29-33"
+    }
+  ],
+  "route 13": [
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "24-30"
+    },
+    {
+      "Pokemon": "Gastly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "24-30"
+    },
+    {
+      "Pokemon": "Rattata",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "24-30"
+    },
+    {
+      "Pokemon": "Metapod",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "24-30"
+    },
+    {
+      "Pokemon": "Beedrill",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "24-30"
+    },
+    {
+      "Pokemon": "Pineco",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "24-30"
+    }
+  ],
+  "route 14": [
+    {
+      "Pokemon": "Metapod",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Pokemon": "Rattata",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Pokemon": "Silcoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Pokemon": "Noctowl",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Pokemon": "Pinsir",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "25-30"
+    }
+  ],
+  "route 15": [
+    {
+      "Pokemon": "Caterpie",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Pokemon": "Venonat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Pokemon": "Rattata",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Pokemon": "Metapod",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Pokemon": "Aipom",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "30-34"
+    }
+  ],
+  "route 208": [
+    {
+      "Pokemon": "Bidoof",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Pokemon": "Cherubi",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Pokemon": "Kricketot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Pokemon": "Starly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Pokemon": "Combee",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Pokemon": "Chimchar",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "17-22"
+    }
+  ],
+  "route 209": [
+    {
+      "Pokemon": "Starly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-21"
+    },
+    {
+      "Pokemon": "Kricketot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-21"
+    },
+    {
+      "Pokemon": "Cherubi",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-21"
+    },
+    {
+      "Pokemon": "Bidoof",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-21"
+    },
+    {
+      "Pokemon": "Starly",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "17-21"
+    },
+    {
+      "Pokemon": "Petilil",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "17-21"
+    }
+  ],
+  "route 22": [
+    {
+      "Pokemon": "Ekans",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Pokemon": "Metapod",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Pokemon": "Spearow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Pokemon": "Rattata",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Pokemon": "Noctowl",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Pokemon": "Ariados",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "30-34"
+    }
+  ],
+  "route 26": [
+    {
+      "Pokemon": "Noctowl",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-7"
+    },
+    {
+      "Pokemon": "Hoppip",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-7"
+    },
+    {
+      "Pokemon": "Spiranak",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-7"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-7"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "3-7"
+    },
+    {
+      "Pokemon": "Slakoth",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "3-7"
+    }
+  ],
+  "route 27": [
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Pokemon": "Ledian",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Pokemon": "Hoothoot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Pokemon": "Ariados",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Pokemon": "Gligar",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "25-28"
+    }
+  ],
+  "route 28": [
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Pokemon": "Sentret",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Pokemon": "Gastly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Pokemon": "Ledyba",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Pokemon": "Aipom",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Pokemon": "Sneasel",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "33-37"
+    }
+  ],
+  "route 29": [
+    {
+      "Pokemon": "Sentret",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Ledian",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Hoothoot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Aipom",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Pokemon": "Gligar",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-4"
+    }
+  ],
+  "route 30": [
+    {
+      "Pokemon": "Sentret",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-5"
+    },
+    {
+      "Pokemon": "Hoppip",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-5"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-5"
+    },
+    {
+      "Pokemon": "Noctowl",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-5"
+    },
+    {
+      "Pokemon": "Nuzleaf",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "3-5"
+    },
+    {
+      "Pokemon": "Slakoth",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "3-5"
+    }
+  ],
+  "route 31": [
+    {
+      "Pokemon": "Spinarak",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Pokemon": "Noctowl",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Pokemon": "Ledyba",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Pokemon": "Hoppip",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Pokemon": "Aipom",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "4-6"
+    }
+  ],
+  "route 32": [
+    {
+      "Pokemon": "Noctowl",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-9"
+    },
+    {
+      "Pokemon": "Spinarak",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-9"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-9"
+    },
+    {
+      "Pokemon": "Ledian",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-9"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "7-9"
+    },
+    {
+      "Pokemon": "Slakoth",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "7-9"
+    }
+  ],
+  "route 33": [
+    {
+      "Pokemon": "Spinarak",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Pokemon": "Ledian",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Pokemon": "Hoothoot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Pokemon": "Ariados",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Pokemon": "Murkrow",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "7-11"
+    }
+  ],
+  "route 34": [
+    {
+      "Pokemon": "Noctowl",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Pokemon": "Ledyba",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Pokemon": "Misdreavus",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "11-15"
+    }
+  ],
+  "route 35": [
+    {
+      "Pokemon": "Natu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-15"
+    },
+    {
+      "Pokemon": "Ledyba",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-15"
+    },
+    {
+      "Pokemon": "Noctowl",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-15"
+    },
+    {
+      "Pokemon": "Ledian",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-15"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "10-15"
+    },
+    {
+      "Pokemon": "Volbeat",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "10-15"
+    }
+  ],
+  "route 36": [
+    {
+      "Pokemon": "Ledian",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-22"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-22"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-22"
+    },
+    {
+      "Pokemon": "Hoothoot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-22"
+    },
+    {
+      "Pokemon": "Aipom",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "21-22"
+    },
+    {
+      "Pokemon": "Seedot",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "21-22"
+    }
+  ],
+  "route 38": [
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-17"
+    },
+    {
+      "Pokemon": "Ledyba",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-17"
+    },
+    {
+      "Pokemon": "Wurmple",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-17"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-17"
+    },
+    {
+      "Pokemon": "Yanma",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "15-17"
+    },
+    {
+      "Pokemon": "Sneasel",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "15-17"
+    }
+  ],
+  "route 44": [
+    {
+      "Pokemon": "Spinarak",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-20"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-20"
+    },
+    {
+      "Pokemon": "Hoothoot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-20"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-20"
+    },
+    {
+      "Pokemon": "Ariados",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "15-20"
+    },
+    {
+      "Pokemon": "Murkrow",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "15-20"
+    }
+  ],
+  "route 46": [
+    {
+      "Pokemon": "Sentret",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Pokemon": "Noctowl",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Pokemon": "Misdreavus",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Pokemon": "Gligar",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "4-6"
+    }
+  ],
+  "rustboro city": [
+    {
+      "Pokemon": "Taillow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Poochyena",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Misdreavus",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Spinarak",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Sableye",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Woobat",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "5-10"
+    }
+  ],
+  "safari zone exclusive": [
+    {
+      "Pokemon": "Caterpie",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Pokemon": "Venonat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Pokemon": "Silcoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Pokemon": "Aipom",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Pokemon": "Burmy",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Pokemon": "Pinsir",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "21-25"
+    }
+  ],
+  "sendoff spring": [
+    {
+      "Pokemon": "Starly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "53-57"
+    },
+    {
+      "Pokemon": "Kricketot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "53-57"
+    },
+    {
+      "Pokemon": "Cherubi",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "53-57"
+    },
+    {
+      "Pokemon": "Bidoof",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "53-57"
+    },
+    {
+      "Pokemon": "Chatot",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "53-57"
+    },
+    {
+      "Pokemon": "Joltik",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "53-57"
+    }
+  ],
+  "sevault canyon": [
+    {
+      "Pokemon": "Fearow",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    },
+    {
+      "Pokemon": "Meowth",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    },
+    {
+      "Pokemon": "Geodude",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    },
+    {
+      "Pokemon": "Ursaring",
+      "Tier": "Intermediate",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    },
+    {
+      "Pokemon": "Chimchar",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    }
+  ],
+  "trainers valley": [
+    {
+      "Pokemon": "Pansage",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Pokemon": "Pansear",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Pokemon": "Panpour",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Pokemon": "Aipom",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": ""
+    }
+  ],
+  "twinleaf town": [
+    {
+      "Pokemon": "Starly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Bidoof",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Venonat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Kricketot",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Combee",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Turtwig",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Chimchar",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Pokemon": "Piplup",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "unknown place": [
+    {
+      "Pokemon": "Swinub",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "55-60"
+    },
+    {
+      "Pokemon": "Piloswine",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "55-60"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "55-60"
+    },
+    {
+      "Pokemon": "Delibird",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "55-60"
+    },
+    {
+      "Pokemon": "Sneasel",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "55-60"
+    },
+    {
+      "Pokemon": "Gligar",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "55-60"
+    }
+  ],
+  "valley of steel eastern peak": [
+    {
+      "Pokemon": "Bronzor",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-24"
+    },
+    {
+      "Pokemon": "Magnemite",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-24"
+    },
+    {
+      "Pokemon": "Durant",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "20-24"
+    },
+    {
+      "Pokemon": "Honedge",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "20-24"
+    }
+  ],
+  "valley of steel western peak": [
+    {
+      "Pokemon": "Bronzor",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-24"
+    },
+    {
+      "Pokemon": "Magnemite",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-24"
+    },
+    {
+      "Pokemon": "Klefki",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "20-24"
+    },
+    {
+      "Pokemon": "Beldum",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "20-24"
+    }
+  ],
+  "vermilion city": [
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Spearow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Zubat",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Farfetch'd",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Starly",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Munchlax",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "5-10"
+    }
+  ],
+  "": [
+    {
+      "Pokemon": "Gastly",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-23"
+    },
+    {
+      "Pokemon": "Pidgey",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-23"
+    },
+    {
+      "Pokemon": "Ekans",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-23"
+    },
+    {
+      "Pokemon": "Misdreavus",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "15-23"
+    },
+    {
+      "Pokemon": "Murkrow",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "15-23"
+    },
+    {
+      "Pokemon": "Sableye",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "15-23"
+    }
+  ],
+  "violet city": [
+    {
+      "Pokemon": "Sentret",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Teddiursa",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Natu",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Hoppip",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Misdreavus",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Pokemon": "Gligar",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "viridian city": [
+    {
+      "Pokemon": "Silcoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-8"
+    },
+    {
+      "Pokemon": "Metapod",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-8"
+    },
+    {
+      "Pokemon": "Spearow",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-8"
+    },
+    {
+      "Pokemon": "Ekans",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-8"
+    },
+    {
+      "Pokemon": "Ledian",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "4-8"
+    },
+    {
+      "Pokemon": "Aipom",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "4-8"
+    }
+  ],
+  "viridian forest": [
+    {
+      "Pokemon": "Cascoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-8"
+    },
+    {
+      "Pokemon": "Silcoon",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-8"
+    },
+    {
+      "Pokemon": "Weedle",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-8"
+    },
+    {
+      "Pokemon": "Kakuna",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-8"
+    },
+    {
+      "Pokemon": "Beedrill",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-8"
+    },
+    {
+      "Pokemon": "Heracross",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-8"
+    }
+  ],
+  "ledyba": [
+    {
+      "Area": "Azalea Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Cherrygrove City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 28",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Area": "route 31",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "route 34",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Area": "route 35",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-15"
+    },
+    {
+      "Area": "route 38",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-17"
+    }
+  ],
+  "sentret": [
+    {
+      "Area": "Azalea Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Cherrygrove City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mt.Silver Upper Mountain side",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "route 2",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 28",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Area": "route 29",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 30",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-5"
+    },
+    {
+      "Area": "route 46",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "Violet City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "ledian": [
+    {
+      "Area": "Azalea Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Ilex Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 27",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Area": "route 29",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 32",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-9"
+    },
+    {
+      "Area": "route 33",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Area": "route 35",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-15"
+    },
+    {
+      "Area": "route 36",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-22"
+    },
+    {
+      "Area": "Viridian City",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "4-8"
+    }
+  ],
+  "natu": [
+    {
+      "Area": "Azalea Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Ilex Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 4",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Area": "route 8",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "route 11",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "route 15",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "route 30",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-5"
+    },
+    {
+      "Area": "route 34",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Area": "route 35",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-15"
+    },
+    {
+      "Area": "route 36",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-22"
+    },
+    {
+      "Area": "route 38",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-17"
+    },
+    {
+      "Area": "route 44",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-20"
+    },
+    {
+      "Area": "Vermilion City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Violet City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "yanma": [
+    {
+      "Area": "Azalea Town",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Cherrygrove City",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Ilex Forest",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 2",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 112",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Area": "route 119A",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Area": "route 38",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "15-17"
+    }
+  ],
+  "pinsir": [
+    {
+      "Area": "Azalea Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Cherrygrove City",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 1",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 11",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "route 117",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "13-16"
+    },
+    {
+      "Area": "route 14",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "Safari Zone Exclusive",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "21-25"
+    }
+  ],
+  "fearow": [
+    {
+      "Area": "Canyon Entrance",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    },
+    {
+      "Area": "Olivine City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Sevault Canyon",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    }
+  ],
+  "teddiursa": [
+    {
+      "Area": "Canyon Entrance",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    },
+    {
+      "Area": "Cherrygrove City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Ilex Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 26",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-7"
+    },
+    {
+      "Area": "route 27",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Area": "route 29",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 32",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-9"
+    },
+    {
+      "Area": "route 33",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Area": "route 34",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Area": "route 36",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-22"
+    },
+    {
+      "Area": "route 44",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-20"
+    },
+    {
+      "Area": "route 46",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "Sevault Canyon",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    },
+    {
+      "Area": "Trainers Valley",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Area": "Unknown Place",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "55-60"
+    },
+    {
+      "Area": "Violet City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "meowth": [
+    {
+      "Area": "Canyon Entrance",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    },
+    {
+      "Area": "Sevault Canyon",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    }
+  ],
+  "geodude": [
+    {
+      "Area": "Canyon Entrance",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    },
+    {
+      "Area": "SevaultCanyon",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    }
+  ],
+  "cubone": [
+    {
+      "Area": "Canyon Entrance",
+      "Tier": "Intermediate",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    }
+  ],
+  "larvitar": [
+    {
+      "Area": "Canyon Entrance",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "12-42"
+    }
+  ],
+  "metapod": [
+    {
+      "Area": "Cerulean City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 8",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "route 13",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "24-30"
+    },
+    {
+      "Area": "route 14",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "route 15",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "route 22",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "Viridian City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-8"
+    }
+  ],
+  "weedle": [
+    {
+      "Area": "Cerulean City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Pewter City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Viridian Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-8"
+    }
+  ],
+  "cascoon": [
+    {
+      "Area": "Cerulean City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Pewter City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Viridian Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-8"
+    }
+  ],
+  "gastly": [
+    {
+      "Area": "Cerulean City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Lavender Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 7",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Area": "route 13",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "24-30"
+    },
+    {
+      "Area": "route 28",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Area": "Lavender City Graveyard",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-23"
+    }
+  ],
+  "golbat": [
+    {
+      "Area": "Cerulean City",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Pewter City",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "exeggcute": [
+    {
+      "Area": "Cerulean City",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Littleroot Town",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Pallet Town",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 4",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Area": "route 8",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "18-22"
+    }
+  ],
+  "hoppip": [
+    {
+      "Area": "Cherrygrove City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Ilex Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 26",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-7"
+    },
+    {
+      "Area": "route 30",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-5"
+    },
+    {
+      "Area": "route 31",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "Violet City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "bidoof": [
+    {
+      "Area": "Eterna Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Area": "Fuego Ironworks",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-12"
+    },
+    {
+      "Area": "Lake Valor",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "35-39"
+    },
+    {
+      "Area": "route 208",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Area": "route 209",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-21"
+    },
+    {
+      "Area": "Sendoff Spring",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "53-57"
+    },
+    {
+      "Area": "Twinleaf Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "cherubi": [
+    {
+      "Area": "Eterna Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Area": "Fuego Ironworks",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-12"
+    },
+    {
+      "Area": "Lake Valor",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "35-39"
+    },
+    {
+      "Area": "route 120",
+      "Tier": "Intermedite",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "route 208",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Area": "route 209",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-21"
+    },
+    {
+      "Area": "Sendoff Spring",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "53-57"
+    }
+  ],
+  "kricketot": [
+    {
+      "Area": "Eterna Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Area": "Fuego Ironworks",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-12"
+    },
+    {
+      "Area": "Lake Valor",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "35-39"
+    },
+    {
+      "Area": "route 208",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Area": "route 209",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-21"
+    },
+    {
+      "Area": "Sendoff Spring",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "53-57"
+    },
+    {
+      "Area": "Twinleaf Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "starly": [
+    {
+      "Area": "Eterna Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Area": "Fuego Ironworks",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-12"
+    },
+    {
+      "Area": "Lake Valor",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "35-39"
+    },
+    {
+      "Area": "Mauville City",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 208",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Area": "route 209",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "17-21"
+    },
+    {
+      "Area": "route 209",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "17-21"
+    },
+    {
+      "Area": "Sendoff Spring",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "53-57"
+    },
+    {
+      "Area": "Twinleaf Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "Vermilion City",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "5-10"
+    }
+  ],
+  "shinx": [
+    {
+      "Area": "Eterna Forest",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Area": "Fuego Ironworks",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "10-12"
+    }
+  ],
+  "turtwig": [
+    {
+      "Area": "Eterna Forest",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "11-14"
+    },
+    {
+      "Area": "Twinleaf Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "wingull": [
+    {
+      "Area": "Fortree City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mauville City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mt.Pyre Exterior",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Area": "Oldale Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "taillow": [
+    {
+      "Area": "Fortree City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Littleroot Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "New Bark Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "Olivine City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "PetalburgWoods",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 101",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 102",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 113",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Area": "route 115",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "route 116",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "6-9"
+    },
+    {
+      "Area": "route 117",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "13-16"
+    },
+    {
+      "Area": "route 38",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-17"
+    },
+    {
+      "Area": "Rustboro City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "wurmple": [
+    {
+      "Area": "Fortree City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Petalburg Woods",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 101",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 102",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 117",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "13-16"
+    },
+    {
+      "Area": "route 120",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "route 38",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-17"
+    }
+  ],
+  "pidgey": [
+    {
+      "Area": "Fortree City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Lavender Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mt.Silver Exterior",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "Pewter City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 8",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "route 11",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "route 13",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "24-30"
+    },
+    {
+      "Area": "route 14",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "route 27",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Area": "route 28",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Area": "route 46",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "Safari Zone Exclusive",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Area": "Vermilion City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-23"
+    }
+  ],
+  "pineco": [
+    {
+      "Area": "Fortree City",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mt.SilverExterior",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "New Bark Town",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "Petalburg Woods",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 7",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Area": "route 103",
+      "Tier": "Intermediate",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Area": "route 13",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "24-30"
+    }
+  ],
+  "drifloon": [
+    {
+      "Area": "Fortree City",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Fuego Ironworks",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "10-12"
+    }
+  ],
+  "scyther": [
+    {
+      "Area": "Ilex Forest",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 115",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "20-25"
+    }
+  ],
+  "carnivine": [
+    {
+      "Area": "Lake Valor",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "35-39"
+    },
+    {
+      "Area": "route 113",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "14-18"
+    }
+  ],
+  "pachirisu": [
+    {
+      "Area": "Lake Valor",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "35-39"
+    }
+  ],
+  "kakuna": [
+    {
+      "Area": "Lavender Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 3",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-12"
+    },
+    {
+      "Area": "route 4",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Area": "route 7",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Area": "route 8",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "Viridian Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-8"
+    }
+  ],
+  "ekans": [
+    {
+      "Area": "Lavender Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 1",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 2",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 3",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-12"
+    },
+    {
+      "Area": "route 22",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-23"
+    },
+    {
+      "Area": "Viridian City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-8"
+    }
+  ],
+  "misdreavus": [
+    {
+      "Area": "Lavender Town",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 34",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Area": "route 46",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "Rustboro City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "15-23"
+    },
+    {
+      "Area": "Violet City",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "sableye": [
+    {
+      "Area": "Lavender Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mt.Pyre Exterior",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Area": "Rustboro City",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "15-23"
+    }
+  ],
+  "illumise": [
+    {
+      "Area": "Leev Town Port",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "Petalburg Woods",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 101",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 120",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "route 123",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "29-33"
+    }
+  ],
+  "poochyena": [
+    {
+      "Area": "Leev Town Port",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "Mauville City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mt.Pyre Exterior",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Area": "New Bark Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 102",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 112",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Area": "route 113",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Area": "route 116",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "6-9"
+    },
+    {
+      "Area": "route 119A",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Area": "route 123",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "29-33"
+    },
+    {
+      "Area": "Rustboro City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "surskit": [
+    {
+      "Area": "Leev Town Port",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "route 112",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Area": "route 116",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "6-9"
+    },
+    {
+      "Area": "route 119A",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Area": "route 120",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    }
+  ],
+  "volbeat": [
+    {
+      "Area": "Leev Town Port",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "Littleroot Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mauville City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Oldale Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Olivine City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 103",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Area": "route 112",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Area": "route 113",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Area": "route 115",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "route 117",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "13-16"
+    },
+    {
+      "Area": "route 119A",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Area": "route 31",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "route 35",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "10-15"
+    }
+  ],
+  "slakoth": [
+    {
+      "Area": "Leev Town Port",
+      "Tier": "Intermediate",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "route 111 North",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 119A",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Area": "route 123",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "29-33"
+    },
+    {
+      "Area": "route 26",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "3-7"
+    },
+    {
+      "Area": "route 30",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "3-5"
+    },
+    {
+      "Area": "route 32",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "7-9"
+    }
+  ],
+  "chatot": [
+    {
+      "Area": "Leev Town Port",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "route 119A",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "22-28"
+    },
+    {
+      "Area": "Sendoff Spring",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "53-57"
+    }
+  ],
+  "seedot": [
+    {
+      "Area": "Littleroot Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mt.Pyre Exterior",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Area": "New Bark Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "Oldale Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 101",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 103",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Area": "route 116",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "6-9"
+    },
+    {
+      "Area": "route 120",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "route 123",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "29-33"
+    },
+    {
+      "Area": "route 36",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "21-22"
+    }
+  ],
+  "cacnea": [
+    {
+      "Area": "Littleroot Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mauville City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Oldale Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Petalburg Woods",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 102",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 102",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 103",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Area": "route 111 North",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 113",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Area": "route 115",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "route 117",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "13-16"
+    }
+  ],
+  "treecko": [
+    {
+      "Area": "Littleroot Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "torchic": [
+    {
+      "Area": "Littleroot Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "mudkip": [
+    {
+      "Area": "Littleroot Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "pichu": [
+    {
+      "Area": "Love Island",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    }
+  ],
+  "cleffa": [
+    {
+      "Area": "Love Island",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    }
+  ],
+  "igglybuff": [
+    {
+      "Area": "Love Island",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    }
+  ],
+  "magby": [
+    {
+      "Area": "Love Island",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    }
+  ],
+  "wynaut": [
+    {
+      "Area": "Love Island",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    }
+  ],
+  "chingling": [
+    {
+      "Area": "Love Island",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    }
+  ],
+  "smoochum": [
+    {
+      "Area": "Love Island",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    },
+    {
+      "Area": "Mt.Silver Upper Mountainside",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "50-55"
+    }
+  ],
+  "tyrogue": [
+    {
+      "Area": "Love Island",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-20"
+    }
+  ],
+  "elekid": [
+    {
+      "Area": "Love Island",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "18-20"
+    }
+  ],
+  "togepi": [
+    {
+      "Area": "Love Island",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "18-20"
+    }
+  ],
+  "nuzleaf": [
+    {
+      "Area": "Mauville City",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Mt.Pyre Exterior",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Area": "route 103",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Area": "route 111 North",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 115",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "route 123",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "29-33"
+    },
+    {
+      "Area": "route 30",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "3-5"
+    }
+  ],
+  "murkrow": [
+    {
+      "Area": "Mt.Pyre Exterior",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "21-26"
+    },
+    {
+      "Area": "Mt.Silver Exterior",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "route 33",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Area": "route 44",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "15-20"
+    },
+    {
+      "Area": "",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "15-23"
+    }
+  ],
+  "swinub": [
+    {
+      "Area": "Mt.Silver Exterior",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "Mt.Silver Upper Mountainside",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "Unknown Place",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "55-60"
+    }
+  ],
+  "hoothoot": [
+    {
+      "Area": "Mt.Silver Exterior",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "route 27",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Area": "route 29",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 33",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Area": "route 36",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-22"
+    },
+    {
+      "Area": "route 44",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-20"
+    }
+  ],
+  "venonat": [
+    {
+      "Area": "Mt.Silver Exterior",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "Pallet Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 2",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 4",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Area": "route 15",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "Safari Zone Exclusive",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Area": "TwinleafTown",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "noctowl": [
+    {
+      "Area": "Mt.Silver Upper Mountainside",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "route 14",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "route 22",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "route 26",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-7"
+    },
+    {
+      "Area": "route 30",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-5"
+    },
+    {
+      "Area": "route 31",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "route 32",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-9"
+    },
+    {
+      "Area": "route 34",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Area": "route 35",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "10-15"
+    },
+    {
+      "Area": "route 46",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    }
+  ],
+  "delibird": [
+    {
+      "Area": "Mt.Silver Upper Mountainside",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "Unknown Place",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "55-60"
+    }
+  ],
+  "heracross": [
+    {
+      "Area": "Mt.Silver Upper Mountainside",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "50-55"
+    },
+    {
+      "Area": "route 103",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Area": "route 117",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "13-16"
+    },
+    {
+      "Area": "route 26",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "3-7"
+    },
+    {
+      "Area": "route 32",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "7-9"
+    },
+    {
+      "Area": "route 34",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "11-15"
+    },
+    {
+      "Area": "route 35",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "10-15"
+    },
+    {
+      "Area": "Safari Zone Exclusive",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Area": "Viridian Forest",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-8"
+    }
+  ],
+  "chikorita": [
+    {
+      "Area": "New Bark Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "cyndaquil": [
+    {
+      "Area": "New Bark Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "totodile": [
+    {
+      "Area": "New Bark Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "beautifly": [
+    {
+      "Area": "Oldale Town",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 113",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Area": "route 115",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "20-25"
+    },
+    {
+      "Area": "route 116",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "6-9"
+    }
+  ],
+  "gligar": [
+    {
+      "Area": "Oldale Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 116",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "6-9"
+    },
+    {
+      "Area": "route 27",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Area": "route 29",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 46",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "Unknown Place",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "55-60"
+    },
+    {
+      "Area": "Violet City",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "burmy": [
+    {
+      "Area": "Olivine City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 120",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "Safari Zone Exclusive",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "21-25"
+    }
+  ],
+  "sewaddle": [
+    {
+      "Area": "Olivine City",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "trevenant": [
+    {
+      "Area": "Olivine City",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "5-10"
+    }
+  ],
+  "silcoon": [
+    {
+      "Area": "Pallet Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 1",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 2",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 4",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Area": "route 8",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "route 11",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "route 14",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "Safari Zone Exclusive",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Area": "Viridian City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-8"
+    },
+    {
+      "Area": "Viridian Forest",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-8"
+    }
+  ],
+  "caterpie": [
+    {
+      "Area": "Pallet Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 1",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 3",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-12"
+    },
+    {
+      "Area": "route 7",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Area": "route 11",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "route 15",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "Safari Zone Exclusive",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "21-25"
+    }
+  ],
+  "rattata": [
+    {
+      "Area": "Pallet Town",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 1",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 4",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "8-12"
+    },
+    {
+      "Area": "route 7",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Area": "route 11",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "18-22"
+    },
+    {
+      "Area": "route 13",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "24-30"
+    },
+    {
+      "Area": "route 14",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "25-30"
+    },
+    {
+      "Area": "route 15",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "route 22",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    }
+  ],
+  "bulbasaur": [
+    {
+      "Area": "Pallet Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "charmander": [
+    {
+      "Area": "Pallet Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "squirtle": [
+    {
+      "Area": "Pallet Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "spearow": [
+    {
+      "Area": "Pewter City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "route 22",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "Vermilion City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Viridian City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-8"
+    }
+  ],
+  "farfetch'd": [
+    {
+      "Area": "Pewter City",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    },
+    {
+      "Area": "Vermilion City",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "shroomish": [
+    {
+      "Area": "Petalburg Woods",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-7"
+    },
+    {
+      "Area": "route 101",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-4"
+    }
+  ],
+  "beedrill": [
+    {
+      "Area": "route 1",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-6"
+    },
+    {
+      "Area": "route 3",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-12"
+    },
+    {
+      "Area": "route 7",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "16-22"
+    },
+    {
+      "Area": "route 13",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "24-30"
+    },
+    {
+      "Area": "Viridian Forest",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-8"
+    }
+  ],
+  "butterfree": [
+    {
+      "Area": "route 3",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-12"
+    }
+  ],
+  "dustox": [
+    {
+      "Area": "route 101",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 102",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 112",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "14-18"
+    },
+    {
+      "Area": "route 123",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "29-33"
+    }
+  ],
+  "minun": [
+    {
+      "Area": "route 111 North",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "plusle": [
+    {
+      "Area": "route 111 North",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "baltoy": [
+    {
+      "Area": "route 111 North",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "vibrava": [
+    {
+      "Area": "route 111 North",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "5-10"
+    }
+  ],
+  "staravia": [
+    {
+      "Area": "route 112",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "14-18"
+    }
+  ],
+  "aipom": [
+    {
+      "Area": "route 15",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "route 28",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Area": "route 29",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-4"
+    },
+    {
+      "Area": "route 31",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "route 36",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "21-22"
+    },
+    {
+      "Area": "Safari Zone Exclusive",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "21-25"
+    },
+    {
+      "Area": "Trainers Valley",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": ""
+    },
+    {
+      "Area": "Viridian City",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "4-8"
+    }
+  ],
+  "combee": [
+    {
+      "Area": "route 208",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Area": "Twinleaf Town",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "chimchar": [
+    {
+      "Area": "route 208",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "17-22"
+    },
+    {
+      "Area": "Sevault Canyon",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    },
+    {
+      "Area": "Twinleaf Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "petilil": [
+    {
+      "Area": "route 209",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "17-21"
+    }
+  ],
+  "ariados": [
+    {
+      "Area": "route 22",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "30-34"
+    },
+    {
+      "Area": "route 27",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "25-28"
+    },
+    {
+      "Area": "route 33",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Area": "route 44",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "15-20"
+    }
+  ],
+  "spiranak": [
+    {
+      "Area": "route 26",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "3-7"
+    }
+  ],
+  "sneasel": [
+    {
+      "Area": "route 28",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "33-37"
+    },
+    {
+      "Area": "route 38",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "15-17"
+    },
+    {
+      "Area": "Unknown Place",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "55-60"
+    }
+  ],
+  "spinarak": [
+    {
+      "Area": "route 31",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "4-6"
+    },
+    {
+      "Area": "route 32",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-9"
+    },
+    {
+      "Area": "route 33",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "7-11"
+    },
+    {
+      "Area": "route 44",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "15-20"
+    },
+    {
+      "Area": "Rustboro City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "woobat": [
+    {
+      "Area": "Rustboro City",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "5-10"
+    }
+  ],
+  "joltik": [
+    {
+      "Area": "Sendoff Spring",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "53-57"
+    }
+  ],
+  "ursaring": [
+    {
+      "Area": "Sevault Canyon",
+      "Tier": "Intermediate",
+      "Membership": "Yes",
+      "Levels": "12-49"
+    }
+  ],
+  "pansage": [
+    {
+      "Area": "Trainers Valley",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    }
+  ],
+  "pansear": [
+    {
+      "Area": "Trainers Valley",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    }
+  ],
+  "panpour": [
+    {
+      "Area": "Trainers Valley",
+      "Tier": "Common",
+      "Membership": "Yes",
+      "Levels": ""
+    }
+  ],
+  "piplup": [
+    {
+      "Area": "Twinleaf Town",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "2-6"
+    }
+  ],
+  "piloswine": [
+    {
+      "Area": "Unknown Place",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "55-60"
+    }
+  ],
+  "bronzor": [
+    {
+      "Area": "Valley of Steel Eastern Peak",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-24"
+    },
+    {
+      "Area": "Valley of Steel Western Peak",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-24"
+    }
+  ],
+  "magnemite": [
+    {
+      "Area": "Valley of Steel Eastern Peak",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-24"
+    },
+    {
+      "Area": "Valley of Steel Western Peak",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "20-24"
+    }
+  ],
+  "durant": [
+    {
+      "Area": "Valley of Steel Eastern Peak",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "20-24"
+    }
+  ],
+  "honedge": [
+    {
+      "Area": "Valley of Steel Eastern Peak",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "20-24"
+    }
+  ],
+  "klefki": [
+    {
+      "Area": "Valley of Steel Western Peak",
+      "Tier": "Intermediate",
+      "Membership": "-",
+      "Levels": "20-24"
+    }
+  ],
+  "beldum": [
+    {
+      "Area": "Valley of Steel Western Peak",
+      "Tier": "Rare",
+      "Membership": "-",
+      "Levels": "20-24"
+    }
+  ],
+  "zubat": [
+    {
+      "Area": "Vermilion City",
+      "Tier": "Common",
+      "Membership": "-",
+      "Levels": "5-10"
+    }
+  ],
+  "munchlax": [
+    {
+      "Area": "Vermilion City",
+      "Tier": "Rare",
+      "Membership": "Yes",
+      "Levels": "5-10"
+    }
+  ]
+}

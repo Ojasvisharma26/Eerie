@@ -1,0 +1,425 @@
+{
+  "Feral Site": {
+    "Pokemon": [
+      {
+        "Requirements": "0 discoveries",
+        "Rarity": "Common",
+        "Pokemon": [
+          "Growlithe",
+          "Vulpix"
+        ]
+      },
+      {
+        "Requirements": "1,000 discoveries",
+        "Rarity": "Uncommon",
+        "Pokemon": [
+          "Cubone",
+          "Torkoal"
+        ]
+      },
+      {
+        "Requirements": "2,000 discoveries",
+        "Rarity": "Rare",
+        "Pokemon": [
+          "Absol",
+          "Darumaka"
+        ]
+      },
+      {
+        "Requirements": "4,000 discoveries",
+        "Rarity": "Super Rare",
+        "Pokemon": [
+          "Deino",
+          "Pawniard"
+        ]
+      }
+    ],
+    "Items": [
+      {
+        "Requirements": "2,000+ discoveries",
+        "Items": "Rare Bone"
+      }
+    ],
+    "Gingery Jones Boss": [
+      {
+        "Requirements": "2400 discoveries",
+        "Reward": "Fight Boss"
+      }
+    ],
+    "Image": "https://wiki.pokemonrevolution.net/images/d/dd/Feral_Site.png"
+  },
+  "Historical Site": {
+    "Pokemon": [
+      {
+        "Requirements": "0 discoveries",
+        "Rarity": "Common",
+        "Pokemon": [
+          "Machop",
+          "Phanpy"
+        ]
+      },
+      {
+        "Requirements": "1,000 discoveries",
+        "Rarity": "Uncommon",
+        "Pokemon": [
+          "Baltoy",
+          "Makuhita"
+        ]
+      },
+      {
+        "Requirements": "2,000 discoveries",
+        "Rarity": "Rare",
+        "Pokemon": [
+          "Croagunk",
+          "Scraggy"
+        ]
+      },
+      {
+        "Requirements": "4,000 discoveries",
+        "Rarity": "Super Rare",
+        "Pokemon": [
+          "Hawlucha",
+          "Riolu"
+        ]
+      }
+    ],
+    "Items": [
+      {
+        "Requirements": "2,000 discoveries",
+        "Items": "Nugget"
+      }
+    ],
+    "Gingery Jones Fossil Reviver": [
+      {
+        "Requirements": "6,000 discoveries",
+        "Reward": "$10,000 - You will be able to revive Fossils now."
+      }
+    ],
+    "Image": "https://wiki.pokemonrevolution.net/images/f/f7/Historical_Site.png"
+  },
+  "Haunted Site": {
+    "Pokemon": [
+      {
+        "Requirements": "0 discoveries",
+        "Rarity": "Common",
+        "Pokemon": [
+          "Gastly",
+          "Misdreavous"
+        ]
+      },
+      {
+        "Requirements": "1,000 discoveries",
+        "Rarity": "Uncommon",
+        "Pokemon": [
+          "Duskull",
+          "Shuppet"
+        ]
+      },
+      {
+        "Requirements": "2,000 discoveries",
+        "Rarity": "Rare",
+        "Pokemon": [
+          "Sableye",
+          "Yamask"
+        ]
+      },
+      {
+        "Requirements": "4,000 discoveries",
+        "Rarity": "Super Rare",
+        "Pokemon": [
+          "Rotom",
+          "Honedge"
+        ]
+      }
+    ],
+    "Items": [
+      {
+        "Requirements": "2,000 discoveries",
+        "Items": "Tiny Mushroom"
+      }
+    ],
+    "Gingery Jones Tutor": [
+      {
+        "Requirements": "5,000 discoveries",
+        "Reward": "$10,000 - Sucker Punch"
+      }
+    ],
+    "Image": "https://wiki.pokemonrevolution.net/images/3/33/Haunted_Site.png"
+  },
+  "Mineral Site": {
+    "Pokemon": [
+      {
+        "Requirements": "0 discoveries",
+        "Rarity": "Common",
+        "Pokemon": [
+          "Bronzor",
+          "Onix"
+        ]
+      },
+      {
+        "Requirements": "1,000 discoveries",
+        "Rarity": "Uncommon",
+        "Pokemon": [
+          "Lunatone",
+          "Solrock"
+        ]
+      },
+      {
+        "Requirements": "2,000 discoveries",
+        "Rarity": "Rare",
+        "Pokemon": [
+          "Beldum",
+          "Aron"
+        ]
+      },
+      {
+        "Requirements": "4,000 discoveries",
+        "Rarity": "Super Rare",
+        "Pokemon": [
+          "Drilbur",
+          "Larvitar"
+        ]
+      }
+    ],
+    "Items": [
+      {
+        "Requirements": "2,000 discoveries",
+        "Items": "Stardust"
+      }
+    ],
+    "Gingery Jones Tutor": [
+      {
+        "Requirements": "5,000 discoveries",
+        "Reward": "$10,000 - Explosion"
+      }
+    ],
+    "Image": "https://wiki.pokemonrevolution.net/images/c/ca/Mineral_Site.png"
+  },
+  "Glacial Site": {
+    "Pokemon": [
+      {
+        "Requirements": "0 discoveries",
+        "Rarity": "Common",
+        "Pokemon": [
+          "Swinub",
+          "Snorunt"
+        ]
+      },
+      {
+        "Requirements": "1,000 discoveries",
+        "Rarity": "Uncommon",
+        "Pokemon": [
+          "Mantyke",
+          "Shellder"
+        ]
+      },
+      {
+        "Requirements": "2,000 discoveries",
+        "Rarity": "Rare",
+        "Pokemon": [
+          "Bergmite",
+          "Sneasel"
+        ]
+      },
+      {
+        "Requirements": "4,000 discoveries",
+        "Rarity": "Super Rare",
+        "Pokemon": [
+          "Corphish",
+          "Piplup"
+        ]
+      }
+    ],
+    "Items": [
+      {
+        "Requirements": "2,000 discoveries",
+        "Items": "Pearl"
+      }
+    ],
+    "Gingery Jones Discoveries Checker": [
+      {
+        "Requirements": "0 discoveries",
+        "Reward": "You will be able to check your discoveries here aswell."
+      }
+    ],
+    "Image": "https://wiki.pokemonrevolution.net/images/2/20/Glacial_Site.png"
+  },
+  "Natural Site": {
+    "Pokemon": [
+      {
+        "Requirements": "0 discoveries",
+        "Rarity": "Common",
+        "Pokemon": [
+          "Tangela",
+          "Combee"
+        ]
+      },
+      {
+        "Requirements": "1,000 discoveries",
+        "Rarity": "Uncommon",
+        "Pokemon": [
+          "Budew",
+          "Burmy"
+        ]
+      },
+      {
+        "Requirements": "2,000 discoveries",
+        "Rarity": "Rare",
+        "Pokemon": [
+          "Karrablast",
+          "Shroomish"
+        ]
+      },
+      {
+        "Requirements": "4,000 discoveries",
+        "Rarity": "Super Rare",
+        "Pokemon": [
+          "Venipede",
+          "Ferroseed"
+        ]
+      }
+    ],
+    "Items": [
+      {
+        "Requirements": "2,000 discoveries",
+        "Items": "Big Mushroom"
+      }
+    ],
+    "Gingery Jones Tutor": [
+      {
+        "Requirements": "5,000 discoveries",
+        "Reward": "$10,000 - Super Fang"
+      }
+    ],
+    "Image": "https://wiki.pokemonrevolution.net/images/9/91/Natural_Site.png"
+  },
+  "Wondrous Site": {
+    "Pokemon": [
+      {
+        "Requirements": "0 discoveries",
+        "Rarity": "Common",
+        "Pokemon": [
+          "Snubbull",
+          "Clefairy"
+        ]
+      },
+      {
+        "Requirements": "1,000 discoveries",
+        "Rarity": "Uncommon",
+        "Pokemon": [
+          "Marill",
+          "Spoink"
+        ]
+      },
+      {
+        "Requirements": "2,000 discoveries",
+        "Rarity": "Rare",
+        "Pokemon": [
+          "Flabébé",
+          "igilyph"
+        ]
+      },
+      {
+        "Requirements": "4,000 discoveries",
+        "Rarity": "Super Rare",
+        "Pokemon": [
+          "Klefki",
+          "Porygon"
+        ]
+      }
+    ],
+    "Items": [
+      {
+        "Requirements": "2,000 discoveries",
+        "Items": "Star Piece"
+      }
+    ],
+    "Image": "https://wiki.pokemonrevolution.net/images/d/d1/Wondrous_Site.png"
+  },
+  "Briny Site": {
+    "Pokemon": [
+      {
+        "Requirements": "0 discoveries",
+        "Rarity": "Common",
+        "Pokemon": [
+          "Buizel",
+          "Slowpoke"
+        ]
+      },
+      {
+        "Requirements": "1,000 discoveries",
+        "Rarity": "Uncommon",
+        "Pokemon": [
+          "Carvanha",
+          "lamperl"
+        ]
+      },
+      {
+        "Requirements": "2,000 discoveries",
+        "Rarity": "Rare",
+        "Pokemon": [
+          "Feebass",
+          "Shellos"
+        ]
+      },
+      {
+        "Requirements": "4,000 discoveries",
+        "Rarity": "Super Rare",
+        "Pokemon": [
+          "Alomomola",
+          "Mudkip"
+        ]
+      }
+    ],
+    "Items": [
+      {
+        "Requirements": "2,000 discoveries",
+        "Items": "Big Pearl"
+      }
+    ],
+    "Image": "https://wiki.pokemonrevolution.net/images/8/81/Briny_Site.png"
+  },
+  "Draconic Site": {
+    "Pokemon": [
+      {
+        "Requirements": "0 discoveries",
+        "Rarity": "Common",
+        "Pokemon": [
+          "Horsea",
+          "Rhyhorn"
+        ]
+      },
+      {
+        "Requirements": "1,000 discoveries",
+        "Rarity": "Uncommon",
+        "Pokemon": [
+          "Trapinch",
+          "Skrelp"
+        ]
+      },
+      {
+        "Requirements": "2,000 discoveries",
+        "Rarity": "Rare",
+        "Pokemon": [
+          "Goomy",
+          "Noibat"
+        ]
+      },
+      {
+        "Requirements": "4,000 discoveries",
+        "Rarity": "Super Rare",
+        "Pokemon": [
+          "Dratini",
+          "Gible"
+        ]
+      }
+    ],
+    "Items": [
+      {
+        "Requirements": "2,000 discoveries",
+        "Items": "Big Nugget"
+      }
+    ],
+    "Image": "https://wiki.pokemonrevolution.net/images/1/18/Draconic_Site.png"
+  }
+}

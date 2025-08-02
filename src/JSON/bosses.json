@@ -1,0 +1,1927 @@
+{
+  "Kanto": {
+    "Brock": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Brock_(boss)",
+      "Description": "I spent my time treasure-hunting and had a bolstered-up lineup, resultantly... Want to see what I found?",
+      "Region": "Kanto",
+      "Location": "Digletts Cave",
+      "Cooldown": "12 days",
+      "Requirements": "• Kanto Champion",
+      "Team1": [
+        "Aerodactyl",
+        "Golem",
+        "Steelix",
+        "Cradily",
+        "Toxicroak",
+        "Terrakion"
+      ],
+      "Team2": [
+        "Mega Aerodactyl",
+        "Golem",
+        "Steelix",
+        "Cradily",
+        "Toxicroak",
+        "Terrakion"
+      ],
+      "Team3": [
+        "Mega Aerodactyl",
+        "Golem",
+        "Steelix",
+        "Cradily",
+        "Toxicroak",
+        "Terrakion"
+      ],
+      "Rewards": "$5000-35000, 5x PP Up, 5x Rare Candy, 1-2x Stardust, 1x Star Piece, 1x Dome Fossil, 1x Helix Fossil, 1x Old Amber, 1x Nugget, 1x Big Nugget, 0-5x PVE Coins",
+      "Third Rewards": "Omanyte, Kabuto, Aerodactyl, Anorith, Lileep",
+      "Thumbnail": "https://media.discordapp.net/attachments/969481658451517440/1026550553888694433/Screenshot__78_-removebg-preview_1.png?width=125&height=161"
+    },
+    "Chuck": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Chuck_(boss)",
+      "Description": "Just look how strong I've gotten, lifting this 100kg barbell with ease!",
+      "Region": "Kanto",
+      "Location": "Golds Gym",
+      "Cooldown": "12 days",
+      "Requirements": "• Johto Champion",
+      "Team1": [
+        "Machamp",
+        "Infernape",
+        "Mienshao",
+        "Conkeldurr",
+        "Poliwrath",
+        "Breloom"
+      ],
+      "Team2": [
+        "Machamp",
+        "Infernape",
+        "Mienshao",
+        "Conkeldurr",
+        "Poliwrath",
+        "Breloom"
+      ],
+      "Team3": [
+        "Machamp",
+        "Infernape",
+        "Mienshao",
+        "Conkeldurr",
+        "Poliwrath",
+        "Breloom"
+      ],
+      "Rewards": "$5000-35000, 5-10x Chople Berry, 5-10x Focus Sash, Shroomish, 5-10x Weakness Policy, 5-10 Lum Berry, 3-8x Rare Candy, 3-8x PP Up, Black Belt, Timburr, Mienfoo, Chimchar, 0-5x PVE Coins",
+      "Third Rewards": "Mienfoo, Chimchar, Shroomish, Timburr",
+      "Thumbnail": "https://i.imgur.com/QIdzHRC.png"
+    },
+    "Guardian Entei": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Guardian_(Entei)_(boss)",
+      "Description": "`N/A`",
+      "Region": "Kanto",
+      "Location": "Route 25 Cave",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Johto champion",
+        "• 200 hours playtime"
+      ],
+      "Team1": [
+        "Entei",
+        "Infernape",
+        "Reshiram",
+        "Gliscor",
+        "Serperior",
+        "Chandelure"
+      ],
+      "Team2": [
+        "Entei",
+        "Infernape",
+        "Reshiram",
+        "Gliscor",
+        "Serperior",
+        "Chandelure"
+      ],
+      "Team3": [
+        "Entei",
+        "Infernape",
+        "Reshiram",
+        "Gliscor",
+        "Serperior",
+        "Chandelure"
+      ],
+      "Rewards": "$25000-35000, 3x PP Up, 3x TM85 - Flamethrower, 3x TM61 - Sunny Day, Heat Rock, Choice Band, 5x PVE Coins, Entei (If you didn't catch it, level 30)",
+      "Third Rewards": "Entei (If you didn't catch it, level 30), Charmander, Bulbasaur, Chimchar, Tepig",
+      "Thumbnail": "https://i.imgur.com/NRPFK0i.png"
+    },
+    "George": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=George_(boss)",
+      "Description": "One of my contacts from the outside managed to sneak my full team in for me...Don't ask. Want to test me at my full potential?",
+      "Region": "Kanto",
+      "Location": "Jail",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Event move quest",
+        "• Kanto champion"
+      ],
+      "Team1": [
+        "Arcanine",
+        "Stoutland",
+        "Granbull",
+        "Houndoom",
+        "Manetric",
+        "Lucario"
+      ],
+      "Team2": [
+        "Arcanine",
+        "Stoutland",
+        "Granbull",
+        "Houndoom",
+        "Manetric",
+        "Mega Lucario"
+      ],
+      "Team3": [
+        "Arcanine",
+        "Stoutland",
+        "Granbull",
+        "Houndoom",
+        "Manetric",
+        "Mega Lucario"
+      ],
+      "Rewards": "$5000-35000, 2x Toxic Orb, 2x Flame Orb, Black Sludge, Houndour, Electrike, Lillipup, Riolu, Furfrou, 0-5x PVE Coins",
+      "Third Rewards": "Houndour, Electrike, Lillipup, Riolu, Furfrou",
+      "Thumbnail": "https://i.imgur.com/1WPAw8i.png"
+    },
+    "Jessie & James": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Jessie_%26_James_(boss)",
+      "Description": "Prepare for trouble, and make it double!",
+      "Region": "Kanto",
+      "Location": "Celadon City",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Kanto Champion",
+        "• Pikachu in team"
+      ],
+      "Jessie": [
+        "Porygon-Z",
+        "Abrok",
+        "Gourgeist",
+        "Yanmega",
+        "Jellicent",
+        "Seviper"
+      ],
+      "James": [
+        "Malamar",
+        "Weezing",
+        "Arcanine",
+        "Gyarados",
+        "Amoonguss",
+        "Cofagrigus"
+      ],
+      "Rewards": "$5000-35000, Silver Disc, Wynaut, Frilish, Team Rocket Clothes, Foongus, Cacnea, Inkay, Sm Black Cap, Rocket Uniform, 3x PVE Coins",
+      "Third Rewards": "Inkay, Frillish, Foongus, Porygon",
+      "Thumbnail": "https://i.imgur.com/NGvbNkB.png"
+    },
+    "Erika": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Erika_(boss)",
+      "Description": "I see you have grown stronger since our Gym battle, but so have I. Let me challenge you; I want to test how much both of us have improved!",
+      "Region": "Kanto",
+      "Location": "Viridian Maze",
+      "Cooldown": "12 days",
+      "Requirements": "• Kanto Champion",
+      "Team1": [
+        "Ferrothorn",
+        "Volcarona",
+        "Ludicolo",
+        "Celebi",
+        "Torterra",
+        "Tangrowth"
+      ],
+      "Team2": [
+        "Ferrothorn",
+        "Volcarona",
+        "Ludicolo",
+        "Celebi",
+        "Torterra",
+        "Tangrowth"
+      ],
+      "Team3": [
+        "Ferrothorn",
+        "Volcarona",
+        "Ludicolo",
+        "Celebi",
+        "Torterra",
+        "Tangrowth"
+      ],
+      "Rewards": "$5000-35000, 5-10x Rindo Berry, 5-10x Weakness Policy, Lotad, Tangela, 2-3x TM22 - Solarbeam, 5-10x Sitrus Berry, Ferroseed, Turtwig, Larvesta, 0-5x PVE Coins",
+      "Third Rewards": "Larvesta, Turtwig, Ferroseed, Lotad",
+      "Thumbnail": "https://i.imgur.com/a7bFDr6.png"
+    },
+    "Koichi": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Koichi_(boss)",
+      "Description": "Come at me with everything you have—IF you are ready, that is?",
+      "Region": "Kanto",
+      "Location": "Saffron Dojo",
+      "Cooldown": "12 days",
+      "Requirements": "• Kanto Champion",
+      "Team1": [
+        "Lucario",
+        "Hitmonchan",
+        "Hitmontop",
+        "Hitmonlee",
+        "Gallade",
+        "Pangoro"
+      ],
+      "Team2": [
+        "Lucario",
+        "Hitmonchan",
+        "Hitmontop",
+        "Hitmonlee",
+        "Mega Gallade",
+        "Pangoro"
+      ],
+      "Team3": [
+        "Lucario",
+        "Hitmonchan",
+        "Hitmontop",
+        "Hitmonlee",
+        "Mega Gallade",
+        "Pangoro"
+      ],
+      "Rewards": "$5000-35000, 5-10x Chople Berry, 5-10x Focus Sash, Tyrogue, 5-10x Weakness Policy, 5-10x Lum Berry, 3-8x Rare Candy, 3-8 PP Up, Riolu, Pancham, Ralts, 0-5x PVE Coins",
+      "Third Rewards": "Tyrogue, Riolu, Ralts, Pancham",
+      "Thumbnail": "https://i.imgur.com/h0jgwv2.png"
+    },
+    "Naero": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Naero_(boss)",
+      "Description": "After mindlessly grinding these Pokémon, I can put the perfect exclamation point on my task by deploying them to beat you!",
+      "Region": "Kanto",
+      "Location": "Cerulean Cave B1F",
+      "Cooldown": "12 days, 6 days(First time loss if active ms)",
+      "Requirements": "• Johto Champion",
+      "Team1": [
+        "Togekiss",
+        "Snorlax",
+        "Mr. Mime",
+        "Blissey",
+        "Electivire",
+        "Magmortar"
+      ],
+      "Team2": [
+        "Togekiss",
+        "Snorlax",
+        "Mr. Mime",
+        "Blissey",
+        "Electivire",
+        "Magmortar"
+      ],
+      "Team3": [
+        "Togekiss",
+        "Snorlax",
+        "Mr. Mime",
+        "Blissey",
+        "Electivire",
+        "Magmortar"
+      ],
+      "Rewards": "Unlock Daycare, $5000-35000, 0-5x PVE Coins, Tyrogue, Cleffa, Igglybuff, Pichu, Munchlax, Bonsly, Mime Jr., Togepi, Elekid, Magby, Smoochum",
+      "Third Rewards": "Elekid, Magby, Smoochum, Togepi, Munchlax",
+      "Thumbnail": "https://i.imgur.com/b20m2fY.png"
+    },
+    "Nikola": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Nikola_(boss)",
+      "Description": "I feel that you are in need of a rare Pokémon. But... Do you deserve it? Are you willing to attest your merit to me in a battle?",
+      "Region": "Kanto",
+      "Location": "Unknown Place",
+      "Cooldown": "21 days",
+      "Requirements": "• Not able to catch a legendary anymore",
+      "Niko": [
+        "Mewtwo",
+        "Rayquaza",
+        "Kyogre",
+        "Arceus",
+        "Deoxys",
+        "Groudon"
+      ],
+      "Rewards": "Recatch a legendary, you can't catch anymore",
+      "Third Rewards": "None",
+      "Thumbnail": "https://i.imgur.com/8Dcp7JD.png"
+    },
+    "Professor Oak": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Professor_Oak_(boss)",
+      "Description": "Are you ready to show me what Pokémon you have been training?",
+      "Region": "Kanto",
+      "Location": "Cinnabar Lab Room 2",
+      "Cooldown": "12 days",
+      "Requirements": "• Kanto Champion",
+      "Team1": [
+        "Rotom-Wash",
+        "Venusaur",
+        "Charizard",
+        "Blastoise",
+        "Tauros",
+        "Dragonite"
+      ],
+      "Team2": [
+        "Rotom-Wash",
+        "Venusaur",
+        "Mega Charizard-X",
+        "Blastoise",
+        "Tauros",
+        "Dragonite"
+      ],
+      "Team3": [
+        "Rotom-Wash",
+        "Venusaur",
+        "Mega Charizard-X",
+        "Blastoise",
+        "Tauros",
+        "Dragonite"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 5-10x Occa Berry, 5-10x Passho Berry, 5-10x Rindo Berry, 5-10x Haban Berry, 3-8x Rare Candy, 3-8x PP Up, Bulbasaur, Charmander, Squirtle, Dratini, Rotom",
+      "Third Rewards": "Bulbasaur, Charmander, Squirtle, Dratini",
+      "Thumbnail": "https://i.imgur.com/YEYPP79.png"
+    },
+    "Officer Shamac": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Officer_Shamac_(boss)",
+      "Description": "Coming at ya'!",
+      "Region": "Kanto",
+      "Location": "Jail",
+      "Cooldown": "12 days",
+      "Requirements": "• Kanto Champion",
+      "Team1": [
+        "Swampert",
+        "Swellow",
+        "Goodra",
+        "Lapras",
+        "Cinccino",
+        "Latias"
+      ],
+      "Team2": [
+        "Mega Swampert",
+        "Swellow",
+        "Goodra",
+        "Lapras",
+        "Cinccino",
+        "Latias"
+      ],
+      "Team3": [
+        "Mega Swampert",
+        "Swellow",
+        "Goodra",
+        "Lapras",
+        "Cinccino",
+        "Latias"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 5-10x Focus Sash, 5-10x Weakness Policy, 3-8x Rare Candy, Dubious Disc, Lapras, Mudkip, Goomy, Minccino",
+      "Third Rewards": "Lapras, Mudkip, Goomy, Minccino",
+      "Thumbnail": "https://i.imgur.com/b20m2fY.png"
+    },
+    "Shary & Shaui": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Shary_%26_Shaui_(boss)",
+      "Description": "Whats the MYSTERYYYY?!?!? I know: let's have a battle!",
+      "Description2": "REEEEEEE! I'm trying to make tacos over here. But I guess I'll battle you.",
+      "Region": "Kanto",
+      "Location": "Love Island House 1",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Kanto champion",
+        "• You can't leave the house before you beat Shary and Shaui"
+      ],
+      "Team1": [
+        "Flareon",
+        "Mienshao",
+        "Meloetta",
+        "Latias",
+        "Jolteon",
+        "Togekiss"
+      ],
+      "Team2": [
+        "Flareon",
+        "Mienshao",
+        "Meloetta",
+        "Mega Latias",
+        "Jolteon",
+        "Togekiss"
+      ],
+      "Team3": [
+        "Flareon",
+        "Mienshao",
+        "Meloetta",
+        "Mega Latias",
+        "Jolteon",
+        "Togekiss"
+      ],
+      "TeamS1": [
+        "Shaymin-Sky",
+        "Conkeldurr",
+        "Dragonite",
+        "Alakazam",
+        "Greninja",
+        "Azelf"
+      ],
+      "TeamS2": [
+        "Shaymin-Sky",
+        "Conkeldurr",
+        "Dragonite",
+        "Mega Alakazam",
+        "Greninja",
+        "Azelf"
+      ],
+      "TeamS3": [
+        "Shaymin-Sky",
+        "Conkeldurr",
+        "Dragonite",
+        "Mega Alakazam",
+        "Greninja",
+        "Azelf"
+      ],
+      "Rewards": "$10000-60000, 0-5x PVE Coins, 10-15x Focus Sash, 2-3x TM115 - Shadow Claw, 2-3x TM96 - Thief, 2-3x TM52 - Dragon Claw, 2-3x TM92 - Facade, 2-3x TM85 - Flamethrower, 2-3x TM80 - Shadow Ball, 2-3x TM54 - Calm Mind, 2-3x TM62 - Taunt, 5-8x Rare Candy, 5x Dark Gem, Goomy Hat, Lunch Box, Marill, Shinx, Trapinch, Pancham, Deino, Eevee, Purrloin, Audino",
+      "Third Rewards": "Eevee, Shinx, Deino, Audino, Trapinch, Buneary",
+      "Thumbnail": "https://i.imgur.com/YtkCzwt.png"
+    },
+    "The Pumpkin King": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=The_Pumpkin_King_(boss)",
+      "Description": "Oh, so you think you're good; do ya'? Let's see if you can match up with the pumpkin king!!!",
+      "Region": "Kanto",
+      "Location": "Lavender Town Graveyard",
+      "Cooldown": "12 days",
+      "Requirements": "• Kanto Champion",
+      "King": [
+        "Bisharp",
+        "Shuckle",
+        "Yanmega",
+        "Roserade",
+        "Gourgeist",
+        "Togekiss"
+      ],
+      "Rewards": "Unlock the berry shop in Goldenrod City, $5000-15000, 10x Passho Berry, 10x Rindo Berry, 10x Occa Berry, 10x Yache Berry, 10x Shuca Berry, 10x Chople Berry, 10x Colbur Berry, Shiny Stone, Shuckle, Lotad, Pawniard",
+      "Third Rewards": "Shuckle, Lotad, Pawniard",
+      "Thumbnail": "https://i.imgur.com/rerQAq3.png"
+    },
+    "Urahara": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Urahara_(boss)",
+      "Description": "A winner should always think, not of how the world is, but how it should be",
+      "Region": "Kanto",
+      "Location": "Pokemon Tower 3F",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Kanto Champion",
+        "• Level 100 Team"
+      ],
+      "Team1": [
+        "Lucario",
+        "Ho-Oh",
+        "Volcarona",
+        "Raikou",
+        "Donphan",
+        "Togekiss"
+      ],
+      "Team2": [
+        "Lucario",
+        "Ho-Oh",
+        "Volcarona",
+        "Raikou",
+        "Donphan",
+        "Togekiss"
+      ],
+      "Team3": [
+        "Lucario",
+        "Ho-Oh",
+        "Volcarona",
+        "Raikou",
+        "Donphan",
+        "Togekiss"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 5-10x Focus Sash, 25-35x Lum Berry, Choice Band, Choice Scarf, Life Orb, TZ Clothes, Hollow Mask, Riolu, Larvitar, Larvesta",
+      "Third Rewards": "Larvesta, Larvitar, Riolu",
+      "Thumbnail": "https://i.imgur.com/CwkXKKY.png"
+    },
+    "Xylos": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Xylos_(boss)",
+      "Description": "You want to battle?! Don't even want to say hello first or so? Well, okay...",
+      "Region": "Kanto",
+      "Location": "Pokemon Club",
+      "Cooldown": "12 days",
+      "Requirements": "• Kanto Champion",
+      "Team1": [
+        "Victini",
+        "Druddigon",
+        "Skarmory",
+        "Jolteon",
+        "Flareon",
+        "Mega Mewtow-Y"
+      ],
+      "Team2": [
+        "Victini",
+        "Druddigon",
+        "Skarmory",
+        "Jolteon",
+        "Flareon",
+        "Mega Mewtow-Y"
+      ],
+      "Team3": [
+        "Victini",
+        "Druddigon",
+        "Skarmory",
+        "Jolteon",
+        "Flareon",
+        "Mega Mewtow-Y"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, Jolteon, Flareon, Vaporeon, Leafeon, Glaceon, Umbreon, Sylveon, Eevee, 2-3x Thunder Stone, 2-3x Fire Stone, 2-3x Water Stone, 2-3x Leaf Stone, 3-5x Electric Gem, 3-5x Fire Gem, 3-5x Ice Gem, Ice Stone",
+      "Third Rewards": "Eevee",
+      "Thumbnail": "https://i.imgur.com/NRPFK0i.png"
+    },
+    "Youngster Joey": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Youngster_Joey_(boss)",
+      "Description": "YES! Your Rattata is worthy! Now, let's see how it pales in comparison to my top-percentage-Rattata team!",
+      "Region": "Kanto",
+      "Location": "Indigo Plateau",
+      "Cooldown": "2 hours, Not Rechallengable once won",
+      "Requirements": [
+        "• 1 level 80 Rattata with your OT",
+        "• Johto champion"
+      ],
+      "Joey": [
+        "Rattata",
+        "Rattata",
+        "Rattata",
+        "Rattata",
+        "Rattata",
+        "Rattata"
+      ],
+      "Rewards": "Unlock Hoenn, Shiny Rattata",
+      "Third Rewards": "None",
+      "Thumbnail": "https://i.imgur.com/92LloBn.png"
+    },
+    "Officer Jenny": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Officer_Jenny_(boss)",
+      "Description": "Hello **Player**! Things have been considerably improving here and the Pokémon are slowlh increasing in number again!",
+      "Region": "Kanto",
+      "Location": "Pinkan Lighthouse 2F",
+      "Cooldown": "12 days",
+      "Requirements": "• Pinkan Island quest completed",
+      "Team1": [
+        "Arcanine",
+        "Swanna",
+        "Stoutland",
+        "Manectric",
+        "Jumpluff",
+        "Pidgeot"
+      ],
+      "Team2": [
+        "Arcanine",
+        "Swanna",
+        "Stoutland",
+        "Manectric",
+        "Jumpluff",
+        "Pidgeot"
+      ],
+      "Team3": [
+        "Arcanine",
+        "Gengar",
+        "Luxray",
+        "Manectric",
+        "Stoutland",
+        "Mega Blastoise"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coin, 1-3x Sun Stone, 1-3x Moon Stone, 1-3x Dawn Stone, 1-3x Shiny Stone, Electrizer, 3-5x Air Balloons, Magmarizer, 3-5x Rare Candies, Growlithe, Pidgey, Electrike, Shinx, Lillipup, Squirtle",
+      "Third Rewards": "Electrike, Shinx, Lillipup, Squirtle",
+      "Thumbnail": "https://i.imgur.com/Ms3s2YL.png"
+    },
+    "Klohver": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Klohver_(boss)",
+      "Description": "These flowers are growing up so beautifully. Oh... you want to battle me",
+      "Region": "Kanto",
+      "Location": "Pinkan Island Meadow",
+      "Cooldown": "12 days",
+      "Requirements": "• Kanto Champion",
+      "Team1": [
+        "Xerneas",
+        "Shaymin-Sky",
+        "Meganium",
+        "Lilligant",
+        "Gogoat",
+        "Vileplume"
+      ],
+      "Team2": [
+        "Xerneas",
+        "Shaymin-Sky",
+        "Meganium",
+        "Lilligant",
+        "Gogoat",
+        "Vileplume"
+      ],
+      "Team3": [
+        "Xerneas",
+        "Shaymin-Sky",
+        "Meganium",
+        "Lilligant",
+        "Gogoat",
+        "Vileplume"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 5-10x Pomeg Berry, 5-10x Kelpsy Berry, 5-10x Qualot Berry, 5-10x Grepa Berry, 5-10 Tamato Berry, 5-10x Rare Candy, Oddish, Petilil, Skiddo",
+      "Third Rewards": "Petilil, Skiddo, Chikorita, Bulbasaur",
+      "Thumbnail": "https://i.imgur.com/KQCmDGF.png"
+    },
+    "PreHax": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Prehax_(boss)",
+      "Description": "Did you know that Munchlax is a combinaion of the word 'Munch' and 'Relax' as a reference to their eating and sleeping habits?",
+      "Region": "Kanto",
+      "Location": "Munchlax Resort House 1",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Must have only 2 Pokemon in team",
+        "• All fighting moves banned"
+      ],
+      "Munch": [
+        "Munchlax",
+        "Munchlax",
+        "Munchlax",
+        "Munchlax"
+      ],
+      "Rewards": "$10000-20000, 2x Pomeg Berry, 2x Kelpsy Berry, 2x Qualot Berry, 2x Hondew Berry, 2x Grepa Berry, 2x Tamato Berry, Silk Scarf, Choice Specs, Leftovers, Eviolite",
+      "Third Rewards": "Munchlax",
+      "Thumbnail": "https://i.imgur.com/OQ5YoCE.png"
+    },
+    "Cie": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Cie_(boss)",
+      "Description": "Hey **Player**! My Diancie always wanted some more friends!",
+      "Region": "Kanto",
+      "Location": "Fluffles Wonderland (Giving 3 Rare Candies to Shiny Munchlax in Munlax Resort)",
+      "Cooldown": "12 days",
+      "Requirements": "• Sinnoh champion",
+      "Team1": [
+        "Togekiss",
+        "Azumarill",
+        "Starmie",
+        "Clefable",
+        "Scizor",
+        "Mega Diancie"
+      ],
+      "Team2": [
+        "Togekiss",
+        "Azumarill",
+        "Starmie",
+        "Clefable",
+        "Scizor",
+        "Mega Diancie"
+      ],
+      "Team3": [
+        "Togekiss",
+        "Azumarill",
+        "Starmie",
+        "Clefable",
+        "Scizor",
+        "Mega Diancie"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 7-20x Max Repel, 2-8x Rare Candy, 3-10x Focus Sash, 4-13x Shuca Berry, Masterball, Cleffa, Maryll, Scyther, Togepi, Happiny, Staryu, Klefki",
+      "Third Rewards": "Togepi, Staryu, Vulpix-Alolan, Happiny",
+      "Thumbnail": "https://i.imgur.com/7G8Oj3I.png"
+    }
+  },
+  "Johto": {
+    "BattleBot": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=BattleBot_(boss)",
+      "Description": "Super Mega Hyper Ultra BattleBot Extended Beast Mode Edition 2.0 Remastered Dirctors Cut Initialising.",
+      "Region": "Johto",
+      "Location": "Dock Island House 2",
+      "Cooldown": "14 days",
+      "Requirements": [
+        "• 200 hours playtime",
+        "• Johto Champion",
+        "Active Membership"
+      ],
+      "Bot": [
+        "Shaymin-Sky",
+        "Landorus",
+        "Darkrai",
+        "Jirachi",
+        "Lugia",
+        "Mega Rayquaza"
+      ],
+      "Rewards": "$60,000-125,000, 10x Rare Candy, 10x Focus Sash, 50x Ultra Ball, 1x Assault Vest, 3x Weakness Policy, 1x Eviolite, 1x Master Ball, Dratini, Larvitar, Bagon, Beldum, Goomy, Gible, 25 % chance for Phione",
+      "Third Rewards": "Dratini, Larvitar, Bagon, Beldum, Goomy, Gible, Small MS Medalion",
+      "Thumbnail": "https://i.imgur.com/ZK4b7EO.png"
+    },
+    "Red": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Red_(boss)",
+      "Description": "...",
+      "Region": "Johto",
+      "Location": "Mt. Silver Summit",
+      "Cooldown": "Not Rechallengable",
+      "Requirements": "• No Requirements",
+      "Red": [
+        "Pikachu",
+        "Espeon",
+        "Venusaur",
+        "Blastoise",
+        "Mega Charizard-Y",
+        "Snorlax"
+      ],
+      "Rewards": "You can use the subway now, if you completed the quest",
+      "Third Rewards": "None",
+      "Thumbnail": "https://i.imgur.com/8Dcp7JD.png"
+    },
+    "Bruno": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Bruno_(boss)",
+      "Description": "I lost my motivation after you tore through my team, but I got it back through travelling through the Johto region. Battle me now, and I promise this battle won't be like the last.",
+      "Region": "Johto",
+      "Location": "Mt. Mortar Lower Cave",
+      "Cooldown": "12 days",
+      "Requirements": "• Johto Champion",
+      "Team1": [
+        "Steelix",
+        "Hariyama",
+        "Hitmonlee",
+        "Throh",
+        "Sawk",
+        "Scrafty"
+      ],
+      "Team2": [
+        "Mega Steelix",
+        "Hariyama",
+        "Hitmonlee",
+        "Throh",
+        "Sawk",
+        "Scrafty"
+      ],
+      "Team3": [
+        "Mega Steelix",
+        "Hariyama",
+        "Hitmonlee",
+        "Throh",
+        "Sawk",
+        "Scrafty"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 5-10x Focus Sash, 1-3x TM26 - Earthquake, 3-8x Rare Candy, Meditite, Throw, Sawk, Scraggy",
+      "Third Rewards": "Meditite, Throh, Sawk, Scraggy",
+      "Thumbnail": "https://i.imgur.com/fjKAvvw.png"
+    },
+    "Bugsy": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Bugsy_(boss)",
+      "Description": "It's been a while since you and I last fought.I remember that outcome well, and it has made me rethink what it means to be a bug trainer.",
+      "Region": "Johto",
+      "Location": "Amazon Forest",
+      "Cooldown": "12 days",
+      "Requirements": "• Johto Champion",
+      "Team1": [
+        "Scizor",
+        "Genesect",
+        "Scolipede",
+        "Volcarona",
+        "Heracross",
+        "Ninjask"
+      ],
+      "Team2": [
+        "Scizor",
+        "Genesect",
+        "Scolipede",
+        "Volcarona",
+        "Mega Heracross",
+        "Ninjask"
+      ],
+      "Team3": [
+        "Scizor",
+        "Genesect",
+        "Scolipede",
+        "Volcarona",
+        "Mega Heracross",
+        "Ninjask"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 5-10x Weakness Policy, Silver Powder, 1-3x TM139 - U-turn, 3-8x PP Up, Straw Hat, Straw Hat 2, Pinsir, Scyther, Ferroseed, Snivy",
+      "Third Rewards": "Snivy, Heracross, Nincada, Scyther",
+      "Thumbnail": "https://i.imgur.com/xW3cuZ3.png"
+    },
+    "Professor Elm": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Professor_Elm_(boss)",
+      "Description": "I'm stronger than I was before! Don't take me lightly!",
+      "Region": "Johto",
+      "Location": "Ruins Research Center",
+      "Cooldown": "12 days",
+      "Requirements": "• Johto Champion",
+      "Team1": [
+        "Corsola",
+        "Togekiss",
+        "Meganium",
+        "Typhlosion",
+        "Feraligatr",
+        "Tyranitar"
+      ],
+      "Team2": [
+        "Corsola",
+        "Togekiss",
+        "Meganium",
+        "Typhlosion",
+        "Feraligatr",
+        "Mega Tyranitar"
+      ],
+      "Team3": [
+        "Corsola",
+        "Togekiss",
+        "Meganium",
+        "Typhlosion",
+        "Feraligatr",
+        "Mega Tyranitar"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, Miracle Seed, Charcoal, Mystic Water, 3-8x Rare Candy, 3-8x PP Up, Chicorita, Cyndaquil, Totodile, Larvitar, Togepi",
+      "Third Rewards": "Chicorita, Cyndaquil, Totodile, Larvitar, Togepi",
+      "Thumbnail": "https://i.imgur.com/jQ02F3t.png"
+    },
+    "Lance - Dragons Den B1F": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Lance_(boss)",
+      "Description": "`N/A`",
+      "Region": "Johto",
+      "Location": "Dragons Den B1F",
+      "Cooldown": "No cooldown, Not rechallengable after winning",
+      "Requirements": [
+        "• Johto champion",
+        "Talk to Security Guy in Cerulean City"
+      ],
+      "Lance": [
+        "Dragonite",
+        "Altaria",
+        "Hydreigon",
+        "Flygon",
+        "Salamence",
+        "Garchomp"
+      ],
+      "Rewards": "Unlock Cerulean Cave",
+      "Third Rewards": "None",
+      "Thumbnail": "https://i.imgur.com/vDyc89E.png"
+    },
+    "Lance - Dragons Shrine": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Lance_(Dragons_Shrine)_(boss)",
+      "Description": "This place is perfect for my Dragon-type Pokémon, isn't it? I see you have grown stronger. I have grown just as much by training in this sacred place. How about a little battle to see if you can catch up to my new found strength?",
+      "Region": "Johto",
+      "Location": "Dragons Shrine",
+      "Cooldown": "12 days",
+      "Requirements": "• Access to Dragons Shrine",
+      "Team1": [
+        "Salamence",
+        "Dialga",
+        "Latios",
+        "Garchomp",
+        "Gyarados",
+        "Dragonite"
+      ],
+      "Team2": [
+        "Salamence",
+        "Dialga",
+        "Latios",
+        "Mega Garchomp",
+        "Gyarados",
+        "Dragonite"
+      ],
+      "Team3": [
+        "Salamence",
+        "Dialga",
+        "Latios",
+        "Mega Garchomp",
+        "Gyarados",
+        "Dragonite"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 5-10x Weakness Policy, 3-8x Rare Candy, 5-10x Focus Sash, Axew, Swablu, Dratini, Skrelp",
+      "Third Rewards": "Swablu, Dratini, Bagon, Axew, Skrelp",
+      "Thumbnail": "https://i.imgur.com/vDyc89E.png"
+    },
+    "Lorelei": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Lorelei_(boss)",
+      "Description": "Hey, **Player** long time no see. After you froze me out at the Elite Four, I had to find and train some more varied pokemon. I still love the Ice type but had to vary my approach a bit. Want to battle?",
+      "Region": "Johto",
+      "Location": "Ice Path B2F",
+      "Cooldown": "12 days",
+      "Requirements": "• Johto Champion",
+      "Team1": [
+        "Ninetales-Alolan",
+        "Sandslash-Alolan",
+        "Articuno",
+        "Weavile",
+        "Lapras",
+        "Slowbro"
+      ],
+      "Team2": [
+        "Ninetales-Alolan",
+        "Sandslash-Alolan",
+        "Articuno",
+        "Weavile",
+        "Lapras",
+        "Slowbro"
+      ],
+      "Team3": [
+        "Ninetales-Alolan",
+        "Sandslash-Alolan",
+        "Articuno",
+        "Weavile",
+        "Lapras",
+        "Slowbro"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 5-10x Yache Berry, 5-10x Focus Sash, Sneasel, Snover, Lapras, 5-10x Lum Berry, Winter Clothes and Hat Blu, Winter Clothes and Hat Green, Winter Clothes and Hat Grey, Winter Clothes and Hat Pink, Lapras Mount, Ice Stone",
+      "Third Rewards": "Sneasel, Snover, Lapras",
+      "Thumbnail": "https://i.imgur.com/7Whe0an.png"
+    },
+    "Misty": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Misty_(boss)",
+      "Description": "I haven't seen you since our last battle in cerulean. I don't run the Gym anymore - it's now run by my sisters. I'm currently borrowing some of my friend's pokemon. I'm sure he won't mind me using them to beat you!",
+      "Region": "Johto",
+      "Location": "Route 41",
+      "Cooldown": "12 days",
+      "Requirements": "• Johto Champion",
+      "Team1": [
+        "Milotic",
+        "Gyarados",
+        "Starmie",
+        "Cradily",
+        "Blastoise",
+        "Togekiss"
+      ],
+      "Team2": [
+        "Milotic",
+        "Mega Gyarados",
+        "Starmie",
+        "Cradily",
+        "Blastoise",
+        "Togekiss"
+      ],
+      "Team3": [
+        "Milotic",
+        "Mega Gyarados",
+        "Starmie",
+        "Cradily",
+        "Blastoise",
+        "Togekiss"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 1-3x Pearl, Water Gem, 1-3x TM105 - Scald, 3-8x PP Up, Ludicolo Clothes, Ludicolo Hat, Wailmer, Shellder, Shellos, Oshawott",
+      "Third Rewards": "Oshawott, Shellos, Feebas, Poliwag, Togepi",
+      "Thumbnail": "https://i.imgur.com/DuCrxWs.png"
+    },
+    "Neroli": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Neroli_(boss)",
+      "Description": "Oh! Hello **Player**! I see that Celebi has chosen you. Are you a special trainer? Well, let's battle!",
+      "Region": "Johto",
+      "Location": "Ilex Forest",
+      "Cooldown": "12 days",
+      "Requirements": "• Johto Champion",
+      "Team1": [
+        "Celebi",
+        "Diancie",
+        "Florges",
+        "Chandelure",
+        "Goodra",
+        "Clefable"
+      ],
+      "Team2": [
+        "Celebi",
+        "Mega Diancie",
+        "Florges",
+        "Chandelure",
+        "Goodra",
+        "Clefable"
+      ],
+      "Team3": [
+        "Celebi",
+        "Mega Diancie",
+        "Florges",
+        "Chandelure",
+        "Goodra",
+        "Clefable"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, Clefairy, Budew, Vulpix, Phanpy, Chikorita, Sewaddle, Petilil, Litwick, Flabebe, Goomy, Ralts, 3-5x Revival Herb, 3-10x Energy Root, 3-5x Focus Sash, 3-5x Leaf Stone, 3-5x Dusk Stone, 3-5x Rare Candy, Miracle Seed, 3-5x TM22 - Solarbeam, 3-5x TM61 - Sunny Day, Hibiscus Hat, Pansy Flower, Orchid Flowerm, Anemone Flowerm, Jasmine Flower",
+      "Third Rewards": "Ralts, Goomy, Litwick, Flabebe, Petilil",
+      "Thumbnail": "https://i.imgur.com/iDDNcHE.png"
+    },
+    "Gamers Pewdie & Diepy": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Gamers_Pewdie_and_Diepy_(boss)",
+      "Description": "This Game Corner? No, it's not for public. Just ask the receptionist, he will say the same thing. And yes, I paid him to say that to visitors. Any problem?",
+      "Region": "Johto",
+      "Location": "Goldenrod City Game Corner",
+      "Cooldown": "12 days",
+      "Requirements": "• Johto Champion",
+      "Team1": [
+        "Celebi",
+        "Metagross",
+        "Espeon",
+        "Xatu",
+        "Slowbro",
+        "Musharna"
+      ],
+      "Team2": [
+        "Metagross",
+        "Medicham",
+        "Mew",
+        "Gardevior",
+        "Reuniclus",
+        "Starmie"
+      ],
+      "Team3": [
+        "Starmie",
+        "Alakazam",
+        "Slowking",
+        "Jirachi",
+        "Mega Latios",
+        "Mew"
+      ],
+      "TeamG1": [
+        "Whimsicott",
+        "Azumarill",
+        "Clefable",
+        "Carbink",
+        "Dedenne",
+        "Sylveon"
+      ],
+      "TeamG2": [
+        "Azumarill",
+        "Whimsicott",
+        "Slurpuff",
+        "Mr. Mime",
+        "Carbink",
+        "Granbull"
+      ],
+      "TeamG3": [
+        "Azumarill",
+        "Clefable",
+        "Xerneas",
+        "Sylveon",
+        "Togekiss",
+        "Mega Diancie"
+      ],
+      "Rewards": "$10000-60000, 0-5x PVE Coins, Clefairy, Natu, Swirlix, Munna, Azurill, Mime Jr., Beldum, Dedenne, Carbink, Togepi, Ralts, Solosis, 3-5x Revival Herb, 3-10x Energy Root, 3-8x Focus Sash, 3-5x Moon Stone, 3-8x Rare Candy, 3-5x Air Baloon, 1-2x Kings Rock, 3-5x TM29 - Psychic, 5-8x Moon Stone, 5-8x PP Up, 3-5x Leftovers",
+      "Third Rewards": "Beldum, Dedenne, Carbink, Togepi, Ralts, Solosis",
+      "Thumbnail": "https://i.imgur.com/kSxwgpf.png"
+    },
+    "Sage": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Sage_(boss)",
+      "Description": "I have spent a very long time here, in solitude with my brothers. I have far surpassed them, both in spirit and in strength. Have you got what it takes?",
+      "Region": "Johto",
+      "Location": "Sprout Tower F3",
+      "Cooldown": "12 days",
+      "Requirements": "• Johto Champion",
+      "Sg": [
+        "Glaceon",
+        "Flareon",
+        "Vaporeon",
+        "Jolteon",
+        "Sylveon",
+        "Espeon"
+      ],
+      "Rewards": "$15000-25000, Eevee, 3x PVE Coins",
+      "Third Rewards": "Eevee",
+      "Thumbnail": "https://i.imgur.com/c1KmtUx.png"
+    },
+    "Guardian Suicune": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Guardian_(Suicune)_(boss)",
+      "Description": "`N/A`",
+      "Region": "Johto",
+      "Location": "Secluded Lake",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Johto champion",
+        "• 200 hours playtime"
+      ],
+      "Team1": [
+        "Kyurem",
+        "Suicune",
+        "Avalugg",
+        "Walrein",
+        "Azumarill",
+        "Mamoswine"
+      ],
+      "Team2": [
+        "Kyurem",
+        "Suicune",
+        "Avalugg",
+        "Walrein",
+        "Azumarill",
+        "Mamoswine"
+      ],
+      "Team3": [
+        "Kyurem",
+        "Suicune",
+        "Avalugg",
+        "Walrein",
+        "Azumarill",
+        "Mamoswine"
+      ],
+      "Rewards": "$25000-35000, 5x PVE Coins, Suicune (If you didn't catch it level 30) 3-8x PP Up, 3x TM105 - Scald, 3x TM54 - Calm Mind, Icy Rock, Choice Specs",
+      "Third Rewards": "Suicune (If you didn't catch it, level 30), Snover, Spheal, Bergmite, Oshawott",
+      "Thumbnail": "https://i.imgur.com/7uMTHHT.png"
+    },
+    "Terminator": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Terminator_(boss)",
+      "Description": "T800: Based on your pupil dilation, skin temperature, and motor functions, I calculate a(n) [u]x-percent[/u] probability that you will hate having lost to me!",
+      "Region": "Johto",
+      "Location": "Mt. Silver Moltres Chamber",
+      "Cooldown": "12 days",
+      "Requirements": "• Sinnoh Champion",
+      "Team1": [
+        "Magnezone",
+        "Reuniclus",
+        "Porygon-Z",
+        "Muk-Alolan",
+        "Latios",
+        "Genesect"
+      ],
+      "Team2": [
+        "Magnezone",
+        "Reuniclus",
+        "Porygon-Z",
+        "Muk-Alolan",
+        "Mega Latios",
+        "Genesect"
+      ],
+      "Team3": [
+        "Magnezone",
+        "Reuniclus",
+        "Porygon-Z",
+        "Muk-Alolan",
+        "Mega Latios",
+        "Genesect"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, Klink, Magnemite, Elgyem, Grimer-Alolan, Solosis, Rotom, Porygon, 3-5x Revival Herb, 3-10x Energy Root, 3-5x Focus Sash, Dubious Disc, Upgrade, 3-5x Rare Candy, 3-5x TM24 - Thunderbolt, 3-5x TM53 - Psyshock",
+      "Third Rewards": "Porygon, Rotom, Solosis, Grimer-Alolan, Klink",
+      "Thumbnail": "https://i.imgur.com/aGevZ2s.png"
+    },
+    "Thor": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Thor_(boss)",
+      "Description": "Save the speech. I was sent here to guard this area, the legendary that exists here. You best be ready for me!",
+      "Region": "Johto",
+      "Location": "Whirl Islands B4F",
+      "Cooldown": "12 days",
+      "Requirements": "• Sinnoh Champion",
+      "Team1": [
+        "Dragonite",
+        "Tyranitar",
+        "Greninja",
+        "Zapdos",
+        "Mamoswine",
+        "Lugia"
+      ],
+      "Team2": [
+        "Dragonite",
+        "Mega Tyranitar",
+        "Greninja",
+        "Zapdos",
+        "Mamoswine",
+        "Lugia"
+      ],
+      "Team3": [
+        "Dragonite",
+        "Mega Tyranitar",
+        "Greninja",
+        "Zapdos",
+        "Mamoswine",
+        "Lugia"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, Swinub, Clefairy, Larvitar, Teddiursa, Dratini, Froakie, Leftovers, 2-3x Rare Candy, 12-15x Sitrus Berry, Icy Rock, 3-8x Rare Candy, Heat Rock, Light Clay, Smooth Rock",
+      "Third Rewards": "Larvitar, Dratini, Froakie",
+      "Thumbnail": "https://i.imgur.com/a1AIb0K.png"
+    }
+  },
+  "Hoenn": {
+    "Naruto Fanboy": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Naruto_Fanboy_(boss)",
+      "Description": "Art is something that blossoms for an instant before withering away",
+      "Region": "Hoenn",
+      "Location": "Desert Ruins",
+      "Cooldown": "12 days",
+      "Requirements": "• Hoenn Champion",
+      "Team1": [
+        "Heliolisk",
+        "Diggersby",
+        "Drifblim",
+        "Golurk",
+        "Wobbuffet",
+        "Regigias"
+      ],
+      "Team2": [
+        "Exploud",
+        "Sigilyph",
+        "Chansey",
+        "Solrock",
+        "Togekiss",
+        "Regigias"
+      ],
+      "Team3": [
+        "Claydol",
+        "Staraptor",
+        "Porygon-Z",
+        "Flygon",
+        "Bronzong",
+        "Lugia"
+      ],
+      "Rewards": "$5000-35000, 3-5x Rare Candy, 2-3x Oran Berry, 3-5x Focus Sash, 2-3x Big Pearl, 1-3x Razor Claw, 1-3x Prism Scale, 3-5x TM26 - Earthquake, Slakoth, 3-5x TM130 - Return, Tynamo, Porygon, Cacnea, Whismur, Trapinch, Togepi",
+      "Third Rewards": "Porygon, Togepi, Trapinch, Tynamo, Slakoth",
+      "Thumbnail": "https://i.imgur.com/FDr69HB.png"
+    },
+    "Professor Birch": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Professor_Birch_(boss)",
+      "Description": "I haven't battled in a while, but would you mind?",
+      "Region": "Hoenn",
+      "Location": "Verdanturf House 2",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Hoenn champion",
+        "• 6 level 100 pokemon"
+      ],
+      "Team1": [
+        "Medicham",
+        "Slaking",
+        "Swellow",
+        "Torkoal",
+        "Flygon",
+        "Blaziken"
+      ],
+      "Team2": [
+        "Medicham",
+        "Slaking",
+        "Swellow",
+        "Torkoal",
+        "Flygon",
+        "Mega Blaziken"
+      ],
+      "Team3": [
+        "Medicham",
+        "Slaking",
+        "Swellow",
+        "Torkoal",
+        "Flygon",
+        "Mega Blaziken"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coin, 3-8x Rare Candy, 3-8x Air Baloon, Poochyena, Tailow, Trapinch, Torchic, Mudkip, Treecko, Slakoth",
+      "Third Rewards": "Trapinch, Mudkip, Torchic, Treecko, Slakoth",
+      "Thumbnail": "https://i.imgur.com/fEU0eZf.png"
+    },
+    "Gingery Jones": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Gingery_Jones_(boss)",
+      "Description": "Hey **Player**! How can I help you?",
+      "Region": "Hoenn",
+      "Location": "Feral Site",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Hoenn champion",
+        "• 2400 discoveries"
+      ],
+      "Team1": [
+        "Mandibuzz",
+        "Clawtizer",
+        "Conkeldurr",
+        "Klingklang",
+        "Pangoro",
+        "Golruk"
+      ],
+      "Team2": [
+        "Mandibuzz",
+        "Clawtizer",
+        "Conkeldurr",
+        "Klingklang",
+        "Pangoro",
+        "Golruk"
+      ],
+      "Team3": [
+        "Mandibuzz",
+        "Clawtizer",
+        "Conkeldurr",
+        "Klingklang",
+        "Pangoro",
+        "Golruk"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coin, Clauncher, Pancham, Klink, Golett, Timburr, Elgyem, Vullaby, Root Fossil, Claw Fossil, Old Amber, Skull Fossil, Dome Fossil, Helix Fossil, Armor Fossil, Jaw Fossil, Sail Fossil",
+      "Third Rewards": "Tyrunt, Amaura, Timburr, Vullaby",
+      "Thumbnail": "https://i.imgur.com/i7rrYsO.png"
+    },
+    "Lt. Surge": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Lt._Surge_(boss)",
+      "Description": "Show me what you've got!",
+      "Region": "Hoenn",
+      "Location": "New Mauville",
+      "Cooldown": "12 days",
+      "Requirements": "• Hoenn Champion",
+      "Team1": [
+        "Rotom-Wash",
+        "Electivire",
+        "Raichu",
+        "Zapdos",
+        "Golem-Alolan",
+        "Zekrom"
+      ],
+      "Team2": [
+        "Rotom-Wash",
+        "Electivire",
+        "Raichu",
+        "Zapdos",
+        "Golem-Alolan",
+        "Zekrom"
+      ],
+      "Team3": [
+        "Rotom-Wash",
+        "Electivire",
+        "Raichu",
+        "Zapdos",
+        "Golem-Alolan",
+        "Zekrom"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, Pikachu, Electrike, Shinx, Elekid, Helioptile, Rotom, Tynamo, 3-5x Revival Herb, 3-10x Energy Root, 3-5x Focus Sash, 3-5x Sun Stone, 3-5x Thunder Stone, 3-5x Rare Candy, 3-5x TM24 - Thunderbolt, 3-5x TM60 - Hidden Power, Manectric Mount",
+      "Third Rewards": "Electrike, Shinx, Rotom, Helioptile, Tynamo",
+      "Thumbnail": "https://i.imgur.com/kfjghML.png"
+    },
+    "Maxie": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Maxie_(boss)",
+      "Description": "`N/A`",
+      "Region": "Hoenn",
+      "Location": "Marine Cave End/Terra Cave End",
+      "Cooldown": "Not Rechallengable",
+      "Requirements": [
+        "• 50 hours since entering Hoenn",
+        "• 6 level 100 Pokemon, Hoenn champion"
+      ],
+      "Maxie": [
+        "Jolteon",
+        "Volcarona",
+        "Charizard",
+        "Breloom",
+        "Camerupt",
+        "Primal Groudon"
+      ],
+      "Rewards": "Beat Archie For Rewards!",
+      "Third Rewards": "Beat Archie For Rewards!",
+      "Thumbnail": "https://i.imgur.com/z6Cumma.png"
+    },
+    "Archie": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Archie_(boss)",
+      "Description": "`N/A`",
+      "Region": "Hoenn",
+      "Location": "Marine Cave End/Terra Cave End",
+      "Cooldown": "Not Rechallengable",
+      "Requirements": [
+        "• 50 hours since entering Hoenn",
+        "• 6 level 100 Pokemon, Hoenn champion"
+      ],
+      "Archie": [
+        "Gengar",
+        "Starmie",
+        "Wailord",
+        "Salamence",
+        "Sharpedo",
+        "Primal Kyogre"
+      ],
+      "Rewards": "Kyogre pokedex entry, Carvanha",
+      "Third Rewards": "None",
+      "Thumbnail": "https://i.imgur.com/p5MIaQT.png"
+    },
+    "Morty": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Morty_(boss)",
+      "Description": "Oh hey **Player**. I felt empty at the end of our last battle. I needed sometime off. I heard about this place recently... it's perfect for some soul searching. I have become one with the Ghost type!",
+      "Region": "Hoenn",
+      "Location": "Mt. Pyre 4F",
+      "Cooldown": "12 days",
+      "Requirements": "• Hoenn Champion",
+      "Team1": [
+        "Gengar",
+        "Froslass",
+        "Gourgeist",
+        "Golurk",
+        "Cofagrigus",
+        "Giratina"
+      ],
+      "Team2": [
+        "Mega Gengar",
+        "Froslass",
+        "Gourgeist",
+        "Golurk",
+        "Cofagrigus",
+        "Giratina"
+      ],
+      "Team3": [
+        "Mega Gengar",
+        "Froslass",
+        "Gourgeist",
+        "Golurk",
+        "Cofagrigus",
+        "Giratina"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 1-2x Spell Tag, 5-10x Focus Sash, 1-3x TM80 - Shadow Ball, 3-8x PP Up, 3-8x Rare Candy, Frillish, Sableye, Golett, Phantump, Pumpkaboo, Rotom",
+      "Third Rewards": "Rotom, Pumpkaboo, Phantump, Yamask, Litwick",
+      "Thumbnail": "https://i.imgur.com/9pgPAVB.png"
+    },
+    "Guardian Raikou": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Guardian_(Raikou)_(boss)",
+      "Description": "`N/A`",
+      "Region": "Hoenn",
+      "Location": "Secret Base Alpha",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Johto champion",
+        "• 200 hours playtime"
+      ],
+      "Team1": [
+        "Zekrom",
+        "Excadrill",
+        "Raikou",
+        "Quagsire",
+        "Eelektross",
+        "Magnezone"
+      ],
+      "Team2": [
+        "Zekrom",
+        "Excadrill",
+        "Raikou",
+        "Quagsire",
+        "Eelektross",
+        "Magnezone"
+      ],
+      "Team3": [
+        "Zekrom",
+        "Excadrill",
+        "Raikou",
+        "Quagsire",
+        "Eelektross",
+        "Magnezone"
+      ],
+      "Rewards": "$25000-35000, 5x PVE Coins, Raikou (If you didn't catch it, level 30), 3-8x PP Up, 3x TM24 - Thunderbolt, 3x TM68 - Rain Dance, Damp Rock, Choice Scarf",
+      "Third Rewards": "Raikou (If you didn't catch it, level 30), Lotad, Electrike, Tynamo, Blitzle",
+      "Thumbnail": "https://i.imgur.com/7uMTHHT.png"
+    },
+    "Steven": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Steven_(boss)",
+      "Description": "My Steel Pokémon will smash you into the ground!",
+      "Region": "Hoenn",
+      "Location": "Valley Of Steel Underground",
+      "Cooldown": "12 days",
+      "Requirements": "• 2 steel-type pokemon",
+      "Team1": [
+        "Metagross",
+        "Excadrill",
+        "Empoleon",
+        "Jirachi",
+        "Ferrothorn",
+        "Heatran"
+      ],
+      "Team2": [
+        "Metagross",
+        "Excadrill",
+        "Magnezone",
+        "Jirachi",
+        "Ferrothorn",
+        "Heatran"
+      ],
+      "Team3": [
+        "Mega Metagross",
+        "Excadrill",
+        "Magnezone",
+        "Jirachi",
+        "Ferrothorn",
+        "Heatran"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, Aaron, Skarmory, Shieldon, Pawniard, Mawile, Beldum, Drilbur, Klefki, Riolu, 3-5x Revival Herb, 2-10x Electric Gem, 3-10x Focus Sash, 3-10x Rare Candy, 7-10x Passho Berry, Ice Stone",
+      "Third Rewards": "Beldum, Drilbur, Klefki",
+      "Thumbnail": "https://i.imgur.com/PBK10aP.png"
+    },
+    "Toothless": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Toothless_(boss)",
+      "Description": "Dangerous people could be lurking around here... Did you get lost, kid?!",
+      "Region": "Hoenn",
+      "Location": "Abandoned Ship B1F Room 1",
+      "Cooldown": "12 days",
+      "Requirements": "• Hoenn champion",
+      "Team1": [
+        "Garchomp",
+        "Miltank",
+        "Quagsire",
+        "Metagross",
+        "Starmie",
+        "Diancie"
+      ],
+      "Team2": [
+        "Garchomp",
+        "Miltank",
+        "Quagsire",
+        "Mega Metagross",
+        "Starmie",
+        "Diancie"
+      ],
+      "Team3": [
+        "Garchomp",
+        "Miltank",
+        "Quagsire",
+        "Mega Metagross",
+        "Starmie",
+        "Diancie"
+      ],
+      "Rewards": "$5000-35000, Miltank, Staryu, Wooper, Feebas, Sableye, Beldum, Gible, 1-2x PP Max, 1-6x Rare Candy, TM115 - Shadow Claw, TM105 - Scald, TM80 - Shadow Ball",
+      "Third Rewards": "Staryu, Miltank, Beldum, Gible",
+      "Thumbnail": "https://i.imgur.com/ZCFEWpe.png"
+    },
+    "Tigerous": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Tigerous_(boss)",
+      "Description": "What's up? You came here to chill? Okay let's have a look at the eye of the tiger before you check on the dude searchings his books",
+      "Region": "Hoenn",
+      "Location": "Eumi Island Theme Park 2",
+      "Cooldown": "12 days",
+      "Requirements": "• Hoenn champion",
+      "Team1": [
+        "Salamence",
+        "Keldeo",
+        "Dragonite",
+        "Jirachi",
+        "Tyranitar",
+        "Conkeldurr"
+      ],
+      "Team2": [
+        "Mega Salamence",
+        "Keldeo",
+        "Dragonite",
+        "Jirachi",
+        "Tyranitar",
+        "Conkeldurr"
+      ],
+      "Team3": [
+        "Mega Salamence",
+        "Keldeo",
+        "Dragonite",
+        "Jirachi",
+        "Tyranitar",
+        "Conkeldurr"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 4-6x Rare Candy, 15-20x Focus Sash, Starly, Klefki, Relicanth, Rotom",
+      "Third Rewards": "Klefki, Relicanth, Rotom",
+      "Thumbnail": "https://i.imgur.com/B05w4tm.png"
+    }
+  },
+  "Sinnoh": {
+    "Description": "Reshiram and Zekrom has chosen us... This is our Destiny.",
+    "Medusa & Eldir": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Medusa_%26_Eldir_(boss)",
+      "Description": "Reshiram and Zekrom has chosen us... This is our Destiny",
+      "Description2": "I see you've proven yourself to be worthy opponent... but can you do it again!",
+      "Region": "Sinnoh",
+      "Location": "Legends Cave",
+      "Cooldown": "12 days",
+      "Requirements": "• Sinnoh Champion",
+      "Team1": [
+        "Dragonite",
+        "Conkeldurr",
+        "Lucario",
+        "Jolteon",
+        "Garchomp",
+        "Reshiram"
+      ],
+      "Team2": [
+        "Dragonite",
+        "Conkeldurr",
+        "Lucario",
+        "Jolteon",
+        "Mega Garchomp",
+        "Reshiram"
+      ],
+      "Team3": [
+        "Dragonite",
+        "Conkeldurr",
+        "Lucario",
+        "Jolteon",
+        "Mega Garchomp",
+        "Reshiram"
+      ],
+      "TeamE1": [
+        "Gyarados",
+        "Alolan Muk",
+        "Alakazam",
+        "Infernape",
+        "Slowbro",
+        "Zekrom"
+      ],
+      "TeamE2": [
+        "Gyarados",
+        "Alolan Muk",
+        "Alakazam",
+        "Infernape",
+        "Mega Slowbro",
+        "Zekrom"
+      ],
+      "TeamE3": [
+        "Gyarados",
+        "Alolan Muk",
+        "Alakazam",
+        "Infernape",
+        "Mega Slowbro",
+        "Zekrom"
+      ],
+      "Rewards": "$10000-60000, 0-5x PVE Coins, DC Clothes, Peach Kimono, Purple Kimono, Green Kimono, Blue Kimono, Vulpix-Alolan, Grimer-Alolan, Mini MS Medalion, 20-30x Ultra Ball, 13-18x Lum Berry, 3-7x Rare Candy, 5-10x Super Repel",
+      "Third Rewards": "Eevee, Vulpix-Alolan, Grimer-Alolan, Gligar, Chimchar",
+      "Thumbnail": "https://i.imgur.com/MZWicAa.png"
+    },
+    "Ash Westbrook": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Ash_Westbrook_(boss)",
+      "Description": "I, Ash Westbrook, shall use my God power on my team to battle you!",
+      "Region": "Sinnoh",
+      "Location": "Spear Pillar",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• Sinnoh champion",
+        "• 250 hours play time"
+      ],
+      "Team1": [
+        "Dialga",
+        "Reshiram",
+        "Arceus",
+        "Infernape",
+        "Kyogre",
+        "Lugia"
+      ],
+      "Team2": [
+        "Dialga",
+        "Reshiram",
+        "Arceus",
+        "Infernape",
+        "Kyogre",
+        "Lugia"
+      ],
+      "Team3": [
+        "Dialga",
+        "Reshiram",
+        "Arceus",
+        "Infernape",
+        "Kyogre",
+        "Lugia"
+      ],
+      "Rewards": "$10000-35000, 0-5x PVE Coin, 5-10x Rare Candy, Shed Shell, 10-20x Hyper Potion, 20-30x Ultra Ball, 3-8x Air Balloon, 3x Weakness Policy, Vullaby, Emolga, Tympole, Chespin",
+      "Third Rewards": "Vullaby, Emolga, Tympole, Chespin",
+      "Thumbnail": "https://i.imgur.com/ryJhzfr.png"
+    },
+    "Letrix": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Letrix_(boss)",
+      "Description": "That was easy! That was a little taste from my shoe.",
+      "Region": "Sinnoh",
+      "Location": "Valley Windworks",
+      "Cooldown": "12 days",
+      "Requirements": "• Sinnoh champion",
+      "Team1": [
+        "Togekiss",
+        "Conkeldurr",
+        "Tyranitar",
+        "Excadrill",
+        "Nidoking",
+        "Kyogre"
+      ],
+      "Team2": [
+        "Togekiss",
+        "Conkeldurr",
+        "Mega Tyranitar",
+        "Excadrill",
+        "Hydreigon",
+        "Kyogre"
+      ],
+      "Team3": [
+        "Togekiss",
+        "Conkeldurr",
+        "Mega Tyranitar",
+        "Excadrill",
+        "Hydreigon",
+        "Kyogre"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, Magikarp, Wailmer, Togepi, Solosis, Drilbur, 7-20x Max Repel, 2-8x Rare Candy, 3-10x Focus Sash, 4-13x Chople Berry, 2-3x TM62 - Taunt",
+      "Third Rewards": "Drilbur, Solosis, Togepi",
+      "Thumbnail": "https://i.imgur.com/iImA53o.png"
+    },
+    "Link": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Link_(boss)",
+      "Description": "Oh, come on **Player** I've explained this to you already!!!",
+      "Region": "Sinnoh",
+      "Location": "Twinleaf Town House 2",
+      "Cooldown": "12 days",
+      "Requirements": "• Sinnoh champion",
+      "Team1": [
+        "Hippowdown",
+        "Aegislash",
+        "Heatran",
+        "Donphan",
+        "Skarmory",
+        "Emboar"
+      ],
+      "Team2": [
+        "Hippowdown",
+        "Aegislash",
+        "Heatran",
+        "Donphan",
+        "Skarmory",
+        "Emboar"
+      ],
+      "Team3": [
+        "Hippowdown",
+        "Aegislash",
+        "Heatran",
+        "Donphan",
+        "Skarmory",
+        "Emboar"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coin, 3-5x Revival Herb, 3-5x Focus Sash, 3-10x Energy Roots, 3-5x Rare Candy, 3-5x TM13 - Ice Beam, 3-5x TM75 - Swords Dance, 3-5x TM67 - Protect, Tingle Clothes, Tingle Headgear, Voltorb, Ponyta, Hitmontop, Bronzor, Phanpy, Skarmory, Absol, Tepig, Honedge",
+      "Third Rewards": "Phanpy, Skarmory, Honedge, Tepig, Absol",
+      "Thumbnail": "https://i.imgur.com/oMCT5PG.png"
+    },
+    "Maribela": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Maribela_(boss)",
+      "Description": "Ah, I see you're back again.",
+      "Region": "Sinnoh",
+      "Location": "Floaroma Meadow",
+      "Cooldown": "12 days",
+      "Requirements": "• Sinnoh Champion",
+      "Team1": [
+        "Sylveon",
+        "Gallade",
+        "Volcarona",
+        "Keldeo",
+        "Arcanine",
+        "Xerneas"
+      ],
+      "Team2": [
+        "Sylveon",
+        "Gallade",
+        "Volcarona",
+        "Keldeo",
+        "Arcanine",
+        "Xerneas"
+      ],
+      "Team3": [
+        "Sylveon",
+        "Gallade",
+        "Volcarona",
+        "Keldeo",
+        "Arcanine",
+        "Xerneas"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coin, 3-5x Rare Candy, 3-5x PP Up, 3-5x Focus Sash, Fennekin, 5x Pomeg Berry, 5x Kelpsy Berry, 5x Qualot Berry, 5x Hondew Berry, 5x Grepa Berry, 5x Tomato Berry, Growlithe, Budew, Frillish, Eevee, Larvesta, Blue Punk Jacket if male, Silver Diva Dress if female",
+      "Third Rewards": "Fennekin, Ralts, Frillish, Eevee, Larvesta, Fennekin",
+      "Thumbnail": "https://i.imgur.com/gxzQ1aZ.png"
+    },
+    "Professor Rowan": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Professor_Rowan_(boss)",
+      "Description": "Let's see if you are as experienced as you think!",
+      "Region": "Sinnoh",
+      "Location": "Jubilife Trainers School",
+      "Cooldown": "12 days",
+      "Requirements": "• 50 Sinnoh owned pokemon",
+      "Team1": [
+        "Torterra",
+        "Empoleon",
+        "Infernape",
+        "Staraptor",
+        "Gliscor",
+        "Rotom"
+      ],
+      "Team2": [
+        "Torterra",
+        "Empoleon",
+        "Infernape",
+        "Staraptor",
+        "Gliscor",
+        "Rotom"
+      ],
+      "Team3": [
+        "Torterra",
+        "Empoleon",
+        "Infernape",
+        "Staraptor",
+        "Gliscor",
+        "Manaphy"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, Starly, Shinx, Bronxor, Buneary, Gligar, Piplup, Chimchar, Turtwig, 3-5x Revival Herb, 2-10x Weakness Policy, 3-10x Focus Sash, 3-10x Rare Candy, 5-10x Ultra Ball, Master Ball",
+      "Third Rewards": "Piplup, Turtwig, Chimchar",
+      "Thumbnail": "https://i.imgur.com/0ztJBtH.png"
+    },
+    "Saphirr": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Saphirr_(boss)",
+      "Description": "You better be careful or my Pokémon will burn you!",
+      "Region": "Sinnoh",
+      "Location": "Route 227",
+      "Cooldown": "12 days",
+      "Requirements": [
+        "• At least one fire-type pokemon",
+        "• Heatran quest completed"
+      ],
+      "Team1": [
+        "Charizard",
+        "Torkoal",
+        "Tangrowth",
+        "Chandelure",
+        "Volcarona",
+        "Infernape"
+      ],
+      "Team2": [
+        "Charizard",
+        "Garchomp",
+        "Tangrowth",
+        "Chandelure",
+        "Volcarona",
+        "Infernape"
+      ],
+      "Team3": [
+        "Groudon",
+        "Garchomp",
+        "Tangrowth",
+        "Torkoal",
+        "Volcarona",
+        "Infernape"
+      ],
+      "Rewards": "$5000-40000, 0-5x PVE Coins, Vulpix, Darumaka, Growlithe, Larvesta, Fletchling, Charmander, Cyndaquil, Torchic, 3-5x Revival Herb, 2-10x Fire Gem, 3-10x Focus Sash, 3-10x Rare Candy, 7-10x Yache Berry, 1-2x Fire Stone",
+      "Third Rewards": "Larvesta, Charmander, Chimchar",
+      "Thumbnail": "https://i.imgur.com/M8JroId.png"
+    },
+    "Spectify": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Spectify_(boss)",
+      "Description": "Hey **Player**! How can I help you?",
+      "Region": "Sinnoh",
+      "Location": "Sandgem Town House",
+      "Cooldown": "12 days",
+      "Requirements": "• Sinnoh champion",
+      "Team1": [
+        "Salamence",
+        "Meganium",
+        "Feraligatr",
+        "Typhlosion",
+        "Umbreon",
+        "Espeon"
+      ],
+      "Team2": [
+        "Mega Salamence",
+        "Meganium",
+        "Feraligatr",
+        "Typhlosion",
+        "Umbreon",
+        "Espeon"
+      ],
+      "Team3": [
+        "Mega Salamence",
+        "Meganium",
+        "Feraligatr",
+        "Typhlosion",
+        "Umbreon",
+        "Espeon"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coin, 1-5x Rare Candy, 10x Revival Herb, 1-3x Big Pearl, 10-15x Ultra Ball, 1-2x Nugget, Masterball, Evee, Totodile, Cyndaquil, Chikorita, Bagon",
+      "Third Rewards": "Torkoal, Eevee, Totodile, Chikorita, Bagon",
+      "Thumbnail": "https://i.imgur.com/sITstYT.png"
+    },
+    "Logan": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=Logan_(boss)",
+      "Description": "I am the best there is at what i do and what I do best isn't very nice. I'm Wolverine!",
+      "Region": "Sinnoh",
+      "Location": "Cave Of Justice",
+      "Cooldown": "12 days",
+      "Requirements": "• Hoenn champion",
+      "Team1": [
+        "Infernape",
+        "Gliscor",
+        "Serperior",
+        "Rotom-Wash",
+        "Tyranitar",
+        "Dialga"
+      ],
+      "Team2": [
+        "Infernape",
+        "Gliscor",
+        "Serperior",
+        "Rotom-Wash",
+        "Mega Tyranitar",
+        "Dialga"
+      ],
+      "Team3": [
+        "Infernape",
+        "Gliscor",
+        "Serperior",
+        "Rotom-Wash",
+        "Mega Tyranitar",
+        "Dialga"
+      ],
+      "Rewards": "$5000-35000, 0-5x PVE Coins, 5-20x Focus Sash, 25x Tamato Berry, 2x Life Orb, Logan Mask",
+      "Third Rewards": "Chimchar, Timburr",
+      "Thumbnail": "https://i.imgur.com/mu6AvBs.png"
+    },
+    "MehCanMet": {
+      "URL": "https://wiki.pokemonrevolution.net/index.php?title=MehCanMet_(boss)",
+      "Description": "Me Mehmet, you battle?",
+      "Region": "Sinnoh",
+      "Location": "Route 209",
+      "Cooldown": "Not rechallengable",
+      "Requirements": "• Sheer Force Pokemon in team",
+      "Team1": [
+        "Feraligatr",
+        "Nidoking",
+        "Steelix",
+        "Conkeldurr",
+        "Tauros",
+        "Druddigon"
+      ],
+      "Team2": [
+        "Feraligatr",
+        "Nidoking",
+        "Steelix",
+        "Conkeldurr",
+        "Tauros",
+        "Druddigon"
+      ],
+      "Team3": [
+        "Feraligatr",
+        "Nidoking",
+        "Steelix",
+        "Conkeldurr",
+        "Tauros",
+        "Druddigon"
+      ],
+      "Rewards": "Druddigon (Level 50)",
+      "Third Rewards": "None",
+      "Thumbnail": "https://i.imgur.com/Yt2I7C7.png"
+    }
+  }
+}

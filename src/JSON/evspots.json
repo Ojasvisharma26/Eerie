@@ -1,0 +1,154 @@
+{
+  "kanto": {
+    "ATK": {
+      "Map": "Route 24",
+      "Area": "Surf",
+      "Daytime": "Day",
+      "Pokemon": "Krabby, Kingler, Seaking"
+    },
+    "DEF": {
+      "Map": "Route 24",
+      "Area": "Surf",
+      "Daytime": "Morning",
+      "Pokemon": "Koffing, Weezing, Poliwrath"
+    },
+    "SPD": {
+      "Map": "Route 24",
+      "Area": "Land",
+      "Daytime": "Day",
+      "Pokemon": "Pidgey, Pidgeotto, Pidgeot"
+    },
+    "SPATK": {
+      "Map": "Route 24",
+      "Area": "Land",
+      "Daytime": "Night",
+      "Pokemon": "Oddish, Gloom, Vileplume"
+    },
+    "SPDEF": {
+      "Map": "Route 24",
+      "Area": "Surf",
+      "Daytime": "Night",
+      "Pokemon": "Tentacool, Tentacruel, Slowking"
+    },
+    "HP": {
+      "Map": "Route 24",
+      "Area": "Land",
+      "Daytime": "Morning",
+      "Pokemon": "Caterpie, Jigglypuff, Wigglytuff"
+    }
+  },
+  "johto": {
+    "ATK": {
+      "Map": "Route 31",
+      "Area": "Land",
+      "Daytime": "Morning",
+      "Pokemon": "Sentret, Nuzleaf, Shiftry"
+    },
+    "DEF": {
+      "Map": "Route 31",
+      "Area": "Land",
+      "Daytime": "Day",
+      "Pokemon": "Sandshrew, Sandslash, Golem"
+    },
+    "SPD": {
+      "Map": "Route 31",
+      "Area": "Surf",
+      "Daytime": "Morning",
+      "Pokemon": "Zubat, Golbat, Crobat"
+    },
+    "SPATK": {
+      "Map": "Route 31",
+      "Area": "Land",
+      "Daytime": "Night",
+      "Pokemon": "Gastly, Haunter, Gengar"
+    },
+    "SPDEF": {
+      "Map": "Route 31",
+      "Area": "Surf",
+      "Daytime": "Night",
+      "Pokemon": "Seel, Lombre, Ludicolo"
+    },
+    "HP": {
+      "Map": "Route 31",
+      "Area": "Surf",
+      "Daytime": "Night",
+      "Pokemon": "Wooper, Quagsire, Azumarill"
+    }
+  },
+  "hoenn": {
+    "ATK": {
+      "Map": "Route 120",
+      "Area": "Land",
+      "Daytime": "Day",
+      "Pokemon": "Nidoran M, Nidorino, Nidoking"
+    },
+    "DEF": {
+      "Map": "Route 120",
+      "Area": "Surf",
+      "Daytime": "Night",
+      "Pokemon": "Koffing, Pelipper, Poliwrath"
+    },
+    "SPD": {
+      "Map": "Route 120",
+      "Area": "Surf",
+      "Daytime": "Day",
+      "Pokemon": "Zubat, Golbat, Crobat"
+    },
+    "SPATK": {
+      "Map": "Route 120",
+      "Area": "Land",
+      "Daytime": "Night",
+      "Pokemon": "Oddish, Gloom, Vileplume"
+    },
+    "SPDEF": {
+      "Map": "Route 120",
+      "Area": "Surf",
+      "Daytime": "Day",
+      "Pokemon": "Tentacool, Tentacruel, Slowking"
+    },
+    "HP": {
+      "Map": "Route 120",
+      "Area": "Land",
+      "Daytime": "Night",
+      "Pokemon": "Caterpie, Jigglypuff, Wigglytuff"
+    }
+  },
+  "sinnoh": {
+    "ATK": {
+      "Map": "Route 209",
+      "Area": "Land",
+      "Daytime": "Day",
+      "Pokemon": "Bidoof, Bibarel, Gyarados"
+    },
+    "DEF": {
+      "Map": "Route 209",
+      "Area": "Land",
+      "Daytime": "Night",
+      "Pokemon": "Machop, Machoke, Machamp"
+    },
+    "SPD": {
+      "Map": "Route 209",
+      "Area": "Land",
+      "Daytime": "Day",
+      "Pokemon": "Starly, Staravia, Staraptor"
+    },
+    "SPATK": {
+      "Map": "Route 209",
+      "Area": "Surf",
+      "Daytime": "Morning",
+      "Pokemon": "Buizel, Floatzel, Gastrodon"
+    },
+    "SPDEF": {
+      "Map": "Route 209",
+      "Area": "Surf",
+      "Daytime": "Day",
+      "Pokemon": "Tentacool, Tentacruel, Gastrodon"
+    },
+    "HP": {
+      "Map": "Route 209",
+      "Area": "Land",
+      "Daytime": "Morning",
+      "Pokemon": "Starly, Staravia, Staraptor"
+    }
+  }
+}
