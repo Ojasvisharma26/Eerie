@@ -8,7 +8,7 @@ module.exports = {
     .setName("item")
     .setDescription("Returns Spawn Information About an Item!")
     .setDMPermission(false)
-    .addStringOption((option) =>
+    .addStringOption(option =>
       option
         .setName("item")
         .setDescription("Enter an Item name")
@@ -16,70 +16,90 @@ module.exports = {
         .setRequired(true)
     ),
 
-  async execute(interaction, client) {
+  async execute(interaction) {
     const itemNameRaw = interaction.options.getString("item");
-    const itemName = itemNameRaw.toLowerCase().replace(/[\s_-]+/g, ""); // Remove all spaces
-
-    const matchedKey = Object.keys(itemData).find(key => key.toLowerCase().replace(/[\s_-]+/g, "") === itemName);
+    const itemName = itemNameRaw.toLowerCase().replace(/[\s_-]+/g, "");
+    const matchedKey = Object.keys(itemData).find(
+      key => key.toLowerCase().replace(/[\s_-]+/g, "") === itemName
+    );
 
     const itemDetails = itemData[matchedKey];
 
+    // If item not found
     if (!itemDetails) {
       return interaction.reply({
         embeds: [
           {
-            title: "Error",
-            description: `No spawn information found for the item ${itemNameRaw}.`,
-            color: 0xFF0000,
+            title: "❌ Error",
+            description: `No spawn information found for the item **${itemNameRaw}**.`,
+            color: 0xff0000,
             thumbnail: {
               url: "https://image.flaticon.com/icons/svg/1923/1923533.svg"
             }
           }
         ],
-        ephemeral: false
+        ephemeral: true
       });
     }
 
+    // Table generation
     let spawnData = `${itemNameRaw}:\n`;
-    spawnData += `#Pokemon      Map                             Area      Level        MS  Daytime    Rarity\n`;
-    spawnData += `${'-'.repeat(92)}\n`;
+    spawnData += `#Pokemon      Map                    Area      Level        MS  Daytime    Rarity\n`;
+    spawnData += `${'-'.repeat(82)}\n`;
 
     for (const pokemon in itemDetails) {
       const details = itemDetails[pokemon];
+      const totalEntries = Math.max(
+        details.Map?.length || 0,
+        details.Area?.length || 0,
+        details.MinLVL?.length || 0,
+        details.MaxLVL?.length || 0,
+        details.MemberOnly?.length || 0,
+        details.Daytime?.length || 0,
+        details.Tier?.length || 0
+      );
 
-      for (let i = 0; i < details.Map.length; i++) {
+      for (let i = 0; i < totalEntries; i++) {
         const formattedPokemon = pokemon.padEnd(12);
-        const formattedMap = details.Map[i].replace(/_/g, ' ').replace(/\w\S*/g, function(txt) {
-          return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
-        }).padEnd(34);
+        const mapRaw = details.Map?.[i] || "Unknown";
+        const formattedMap = mapRaw
+          .replace(/_/g, " ")
+          .replace(/\w\S*/g, txt => txt.charAt(0).toUpperCase() + txt.slice(1).toLowerCase())
+          .padEnd(22);
 
-        const area = details.Area[i].padEnd(11);
-        const lvl = (details.MinLVL[i] + "-" + details.MaxLVL[i]).padEnd(12);
-        const daytime = details.Daytime[i].padEnd(10);
-        const rarity = details.Tier[i];
-        const member = details.MemberOnly[i] ? "Yes".padEnd(5) : "No".padEnd(5)
+        const area = (details.Area?.[i] || "N/A").padEnd(11);
+        const lvl = `${details.MinLVL?.[i] || "?"}-${details.MaxLVL?.[i] || "?"}`.padEnd(12);
+        const member = (details.MemberOnly?.[i] ? "Yes" : "No").padEnd(5);
+        const daytime = (details.Daytime?.[i] || "Any").padEnd(10);
+        const rarity = details.Tier?.[i] || "Unknown";
 
         spawnData += `${formattedPokemon}${formattedMap}${area}${lvl}${member}${daytime}${rarity}\n`;
       }
     }
 
-    let chunks = [];
+    // Split long messages
+    const chunks = [];
     while (spawnData.length > 0) {
       if (spawnData.length <= 1950) {
         chunks.push(spawnData);
-        spawnData = "";
+        break;
       } else {
-        let slicePoint = spawnData.lastIndexOf("\n", 1950);
+        const slicePoint = spawnData.lastIndexOf("\n", 1950);
         chunks.push(spawnData.slice(0, slicePoint));
         spawnData = spawnData.slice(slicePoint + 1);
       }
     }
 
-    interaction.reply('Processing Your Request...').then(() => {
-        chunks.forEach((chunk) => {
-          interaction.editReply('Here is Your Request:');
-          interaction.channel.send(`\`\`\`yaml\n${chunk}\`\`\``);
-        });
-      });
+    for (const chunk of chunks) {
+      await interaction.followUp({
+        content: `\`\`\`yaml\n${chunk}\`\`\``
+      }).catch(() => {});
+    }
+
+    // Send the first part using reply
+    return interaction.reply({
+      content: `\`\`\`yaml\n${chunks[0]}\`\`\``,
+      ephemeral: false
+    }).catch(() => {}); // Ignore if already replied by followUp
   }
 };
