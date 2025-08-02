@@ -1,11 +1,39 @@
 const { SlashCommandBuilder } = require("discord.js");
 const itemData = require("../../JSON/item.json");
 
+function shortenWords(str) {
+  if (!str) return "";
+  const replacements = {
+    "Mountain": "Mtn",
+    "Mount": "Mt.",
+    "Route": "Rt",
+    "Silver": "Silv",
+    "Exterior": "Ext",
+    "Interior": "Int",
+    "Upper": "Uppr",
+    "Lower": "Lowr",
+    "Chamber": "Chmb",
+    "Entrance": "Entr",
+    "Expert": "Exprt",
+    "Forest": "Frst",
+    "National Park": "NatPk",
+    "Woods": "Wds",
+    "Cave": "Cve",
+    "Island": "Isl",
+    "Volcano": "Volc"
+  };
+  for (const [full, short] of Object.entries(replacements)) {
+    str = str.replace(new RegExp(`\\b${full}\\b`, "gi"), short);
+  }
+  return str;
+}
+
 function trimAndPad(str, maxLength) {
   if (!str) return " ".repeat(maxLength);
   str = str.toString();
-  if (str.length > maxLength) return str.slice(0, maxLength - 3) + "...";
-  return str.padEnd(maxLength);
+  return str.length > maxLength
+    ? str.slice(0, maxLength)
+    : str.padEnd(maxLength);
 }
 
 module.exports = {
@@ -38,10 +66,7 @@ module.exports = {
           {
             title: "❌ Error",
             description: `No spawn information found for the item **${itemNameRaw}**.`,
-            color: 0xff0000,
-            thumbnail: {
-              url: "https://image.flaticon.com/icons/svg/1923/1923533.svg"
-            }
+            color: 0xff0000
           }
         ],
         ephemeral: true
@@ -49,7 +74,6 @@ module.exports = {
       return;
     }
 
-    // Fixed widths
     const widths = {
       pokemon: 12,
       map: 24,
@@ -60,6 +84,8 @@ module.exports = {
       rarity: 10
     };
 
+    const maxLineLength = widths.pokemon + widths.map + widths.area + widths.level + widths.ms + widths.daytime + widths.rarity;
+
     let spawnData = `${itemNameRaw}:\n`;
     spawnData += trimAndPad("#Pokemon", widths.pokemon)
               + trimAndPad("Map", widths.map)
@@ -69,9 +95,7 @@ module.exports = {
               + trimAndPad("Daytime", widths.daytime)
               + "Rarity\n";
 
-    spawnData += `${'-'.repeat(
-      widths.pokemon + widths.map + widths.area + widths.level + widths.ms + widths.daytime + widths.rarity
-    )}\n`;
+    spawnData += `${'-'.repeat(maxLineLength)}\n`;
 
     for (const pokemon in itemDetails) {
       const details = itemDetails[pokemon];
@@ -87,23 +111,48 @@ module.exports = {
 
       for (let i = 0; i < totalEntries; i++) {
         const mapRaw = details.Map?.[i] || "Unknown";
-        const formattedMap = mapRaw.replace(/_/g, " ").replace(/\w\S*/g, (txt) =>
+        const areaRaw = details.Area?.[i] || "N/A";
+        const level = `${details.MinLVL?.[i] || "?"}-${details.MaxLVL?.[i] || "?"}`;
+        const ms = details.MemberOnly?.[i] ? "Yes" : "No";
+        const daytime = details.Daytime?.[i] || "Any";
+        const rarity = details.Tier?.[i] || "Unknown";
+
+        let mapFormatted = mapRaw.replace(/_/g, " ").replace(/\w\S*/g, (txt) =>
           txt.charAt(0).toUpperCase() + txt.slice(1).toLowerCase()
         );
 
-        const row = trimAndPad(pokemon, widths.pokemon)
-          + trimAndPad(formattedMap, widths.map)
-          + trimAndPad(details.Area?.[i] || "N/A", widths.area)
-          + trimAndPad(`${details.MinLVL?.[i] || "?"}-${details.MaxLVL?.[i] || "?"}`, widths.level)
-          + trimAndPad(details.MemberOnly?.[i] ? "Yes" : "No", widths.ms)
-          + trimAndPad(details.Daytime?.[i] || "Any", widths.daytime)
-          + (details.Tier?.[i] || "Unknown");
+        let areaFormatted = areaRaw;
+
+        // Compose row
+        let row =
+          trimAndPad(pokemon, widths.pokemon) +
+          trimAndPad(mapFormatted, widths.map) +
+          trimAndPad(areaFormatted, widths.area) +
+          trimAndPad(level, widths.level) +
+          trimAndPad(ms, widths.ms) +
+          trimAndPad(daytime, widths.daytime) +
+          rarity;
+
+        // If too long → shorten map/area
+        if (row.length > maxLineLength) {
+          mapFormatted = shortenWords(mapFormatted);
+          areaFormatted = shortenWords(areaFormatted);
+
+          row =
+            trimAndPad(pokemon, widths.pokemon) +
+            trimAndPad(mapFormatted, widths.map) +
+            trimAndPad(areaFormatted, widths.area) +
+            trimAndPad(level, widths.level) +
+            trimAndPad(ms, widths.ms) +
+            trimAndPad(daytime, widths.daytime) +
+            rarity;
+        }
 
         spawnData += row + "\n";
       }
     }
 
-    // Chunk and send
+    // Split into chunks
     const chunks = [];
     while (spawnData.length > 0) {
       if (spawnData.length <= 1950) {
