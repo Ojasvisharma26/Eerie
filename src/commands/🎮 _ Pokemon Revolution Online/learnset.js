@@ -65,7 +65,7 @@ module.exports = {
         });
       }
 
-      const pokemonString = pokemonList.map(pokemon => `-> ${pokemon}`).join("\n");
+      const pokemonString = pokemonList.map(pokemon => `- ${pokemon}`).join("\n");
       return interaction.reply({
         content: `\`\`\`yaml\nPokémon that can learn ${moveName}:\n\n${pokemonString}\`\`\``,
       });
@@ -149,7 +149,7 @@ module.exports = {
             moveDetails.push(`${tmTutorInfo}`);
           }
 
-          const moveString = `-> ${move} (${moveDetails.join(", ")})\n`;
+          const moveString = `- ${move} (${moveDetails.join(", ")})\n`;
           const moveWords = moveString.split(" ").filter((word) => word.trim() !== "");
 
           if (remainingWords >= moveWords.length) {
