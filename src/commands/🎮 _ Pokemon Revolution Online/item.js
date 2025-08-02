@@ -1,6 +1,13 @@
 const { SlashCommandBuilder } = require("discord.js");
 const itemData = require("../../JSON/item.json");
 
+function trimAndPad(str, maxLength) {
+  if (!str) return " ".repeat(maxLength);
+  str = str.toString();
+  if (str.length > maxLength) return str.slice(0, maxLength - 3) + "...";
+  return str.padEnd(maxLength);
+}
+
 module.exports = {
   category: "PROClient",
   developer: false,
@@ -8,7 +15,7 @@ module.exports = {
     .setName("item")
     .setDescription("Returns Spawn Information About an Item!")
     .setDMPermission(false)
-    .addStringOption(option =>
+    .addStringOption((option) =>
       option
         .setName("item")
         .setDescription("Enter an Item name")
@@ -20,14 +27,13 @@ module.exports = {
     const itemNameRaw = interaction.options.getString("item");
     const itemName = itemNameRaw.toLowerCase().replace(/[\s_-]+/g, "");
     const matchedKey = Object.keys(itemData).find(
-      key => key.toLowerCase().replace(/[\s_-]+/g, "") === itemName
+      (key) => key.toLowerCase().replace(/[\s_-]+/g, "") === itemName
     );
 
     const itemDetails = itemData[matchedKey];
 
-    // If item not found
     if (!itemDetails) {
-      return interaction.reply({
+      await interaction.reply({
         embeds: [
           {
             title: "❌ Error",
@@ -40,12 +46,32 @@ module.exports = {
         ],
         ephemeral: true
       });
+      return;
     }
 
-    // Table generation
+    // Fixed widths
+    const widths = {
+      pokemon: 12,
+      map: 24,
+      area: 10,
+      level: 10,
+      ms: 6,
+      daytime: 10,
+      rarity: 10
+    };
+
     let spawnData = `${itemNameRaw}:\n`;
-    spawnData += `#Pokemon      Map                    Area      Level        MS  Daytime    Rarity\n`;
-    spawnData += `${'-'.repeat(82)}\n`;
+    spawnData += trimAndPad("#Pokemon", widths.pokemon)
+              + trimAndPad("Map", widths.map)
+              + trimAndPad("Area", widths.area)
+              + trimAndPad("Level", widths.level)
+              + trimAndPad("MS", widths.ms)
+              + trimAndPad("Daytime", widths.daytime)
+              + "Rarity\n";
+
+    spawnData += `${'-'.repeat(
+      widths.pokemon + widths.map + widths.area + widths.level + widths.ms + widths.daytime + widths.rarity
+    )}\n`;
 
     for (const pokemon in itemDetails) {
       const details = itemDetails[pokemon];
@@ -60,24 +86,24 @@ module.exports = {
       );
 
       for (let i = 0; i < totalEntries; i++) {
-        const formattedPokemon = pokemon.padEnd(12);
         const mapRaw = details.Map?.[i] || "Unknown";
-        const formattedMap = mapRaw
-          .replace(/_/g, " ")
-          .replace(/\w\S*/g, txt => txt.charAt(0).toUpperCase() + txt.slice(1).toLowerCase())
-          .padEnd(22);
+        const formattedMap = mapRaw.replace(/_/g, " ").replace(/\w\S*/g, (txt) =>
+          txt.charAt(0).toUpperCase() + txt.slice(1).toLowerCase()
+        );
 
-        const area = (details.Area?.[i] || "N/A").padEnd(11);
-        const lvl = `${details.MinLVL?.[i] || "?"}-${details.MaxLVL?.[i] || "?"}`.padEnd(12);
-        const member = (details.MemberOnly?.[i] ? "Yes" : "No").padEnd(5);
-        const daytime = (details.Daytime?.[i] || "Any").padEnd(10);
-        const rarity = details.Tier?.[i] || "Unknown";
+        const row = trimAndPad(pokemon, widths.pokemon)
+          + trimAndPad(formattedMap, widths.map)
+          + trimAndPad(details.Area?.[i] || "N/A", widths.area)
+          + trimAndPad(`${details.MinLVL?.[i] || "?"}-${details.MaxLVL?.[i] || "?"}`, widths.level)
+          + trimAndPad(details.MemberOnly?.[i] ? "Yes" : "No", widths.ms)
+          + trimAndPad(details.Daytime?.[i] || "Any", widths.daytime)
+          + (details.Tier?.[i] || "Unknown");
 
-        spawnData += `${formattedPokemon}${formattedMap}${area}${lvl}${member}${daytime}${rarity}\n`;
+        spawnData += row + "\n";
       }
     }
 
-    // Split long messages
+    // Chunk and send
     const chunks = [];
     while (spawnData.length > 0) {
       if (spawnData.length <= 1950) {
@@ -90,16 +116,16 @@ module.exports = {
       }
     }
 
-    for (const chunk of chunks) {
-      await interaction.followUp({
-        content: `\`\`\`yaml\n${chunk}\`\`\``
-      }).catch(() => {});
+    for (let i = 0; i < chunks.length; i++) {
+      if (i === 0) {
+        await interaction.reply({
+          content: `\`\`\`yaml\n${chunks[i]}\`\`\``
+        });
+      } else {
+        await interaction.followUp({
+          content: `\`\`\`yaml\n${chunks[i]}\`\`\``
+        });
+      }
     }
-
-    // Send the first part using reply
-    return interaction.reply({
-      content: `\`\`\`yaml\n${chunks[0]}\`\`\``,
-      ephemeral: false
-    }).catch(() => {}); // Ignore if already replied by followUp
   }
 };
