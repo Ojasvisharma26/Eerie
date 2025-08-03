@@ -32,8 +32,10 @@ module.exports = {
     const matchedDexData = dexData.find(
       poke => this.standardizeName(poke.name.english) === standardizedInputName
     );
+    console.log(1)
 
     if (!pokemonDetails) {
+      console.log(1)
       return interaction.editReply({
         embeds: [{
           title: "Error",
@@ -49,12 +51,14 @@ module.exports = {
     const chunkedEmbeds = [];
     let embedDescription = "";
     let counter = 0;
-
+    console.log(1)
+    
     const builds = Object.keys(pokemonDetails);
 
     for (const build of builds) {
       const set = pokemonDetails[build];
       counter++;
+      console.log(1)
 
       embedDescription += `__**${build}:**__\n`;
       embedDescription += `- **Ability:** \`${set.ability}\`\n`;
@@ -63,6 +67,7 @@ module.exports = {
       embedDescription += `- **EVs:** \`${this.formatStats(set.evs)}\`\n`;
 
       if (set.ivs) {
+        console.log(1)
         embedDescription += `- **IVs:** \`${this.formatStats(set.ivs)}\`\n`;
       }
 
@@ -70,6 +75,7 @@ module.exports = {
 
       // Push embed every 3 builds or at the end
       if (counter >= 3 || build === builds[builds.length - 1]) {
+        console.log(1)
         const embedObject = {
           title: `Smogon stats for ${matchedKey}`,
           description: embedDescription,
@@ -82,15 +88,18 @@ module.exports = {
         };
 
         if (matchedDexData?.image?.thumbnail) {
+          console.log(1)
           embedObject.thumbnail = { url: matchedDexData.image.thumbnail };
         }
-
+        console.log(1)
+        
         chunkedEmbeds.push(embedObject);
         embedDescription = "";
         counter = 0;
       }
     }
-
+    console.log(1)
+    
     // Replace '?' with actual page number
     chunkedEmbeds.forEach((embed, i) => {
       embed.footer.text = `Page ${i + 1} of ${chunkedEmbeds.length}`;
