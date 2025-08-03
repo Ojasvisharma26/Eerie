@@ -23,7 +23,7 @@ module.exports = {
         .setRequired(false)
     ),
 
-  async execute(interaction) {
+  async execute(interaction, client) {
     const pokemonName = interaction.options.getString("pokemon");
     const locationName = interaction.options.getString("location");
 
@@ -33,14 +33,14 @@ module.exports = {
           {
             title: "Error",
             description: "Please provide either a Pokemon name or a location.",
-            color: 0xff0000,
+            color: 0xFF0000,
             thumbnail: {
               url: "https://image.flaticon.com/icons/svg/1923/1923533.svg"
             }
           }
         ],
         ephemeral: false
-      });
+      });``
     }
 
     const urls = [
@@ -48,89 +48,136 @@ module.exports = {
       "https://pokemonrevolution.net/spawns/surf_spawns.json"
     ];
 
-    const responses = await Promise.all(urls.map(url => axios.get(url)));
-    const data = responses.flatMap((res, idx) => {
-      const area = urls[idx].includes("land") ? "Land" : "Surf/Fish";
-      return res.data.map(entry => ({ ...entry, area }));
+    const requests = urls.map((url) => axios.get(url));
+
+    const responses = await Promise.all(requests);
+
+    const data = responses.flatMap((response, index) => {
+      if (urls[index].includes('land')) {
+        return response.data.map((entry) => ({ ...entry, area: 'Land' }));
+      } else if (urls[index].includes('surf')) {
+        return response.data.map((entry) => ({ ...entry, area: 'Surf/Fish' }));
+      } else {
+        return [];
+      }
     });
 
-    const pokemonData = [];
-    const shortenMapName = (name) => {
-      const substitutions = {
-        "Mount": "Mnt",
-        "Mountain": "Mtn",
-        "Route": "Rt",
-        "Silver": "Slvr",
-        "Chamber": "Chmbr",
-        "Exterior": "Ex",
-        "Interior": "In",
-        "Upper": "Up",
-        "Lower": "Low",
-        "Expert Belt": "ExBelt"
-      };
-      for (const key in substitutions) {
-        name = name.replace(new RegExp(key, "gi"), substitutions[key]);
+    let pokemonData = [];
+    for (const pokemon of data) {
+      if (pokemonName && pokemon.Pokemon.toLowerCase() === pokemonName.toLowerCase()) {
+        pokemonData.push(processPokemonData(pokemon));
       }
-      return name;
-    };
-
-    for (const entry of data) {
-      const formattedMap = entry.Map.replace(/_/g, ' ').replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.slice(1).toLowerCase());
-      const shortMap = shortenMapName(formattedMap);
-      const displayText = locationName ? entry.Pokemon : shortMap.length > 24 ? shortMap.slice(0, 24) : formattedMap;
-
-      if ((pokemonName && entry.Pokemon.toLowerCase() === pokemonName.toLowerCase()) ||
-          (locationName && formattedMap.toLowerCase() === locationName.toLowerCase())) {
-
-        const MinLVL = entry.MinLVL?.toString().padStart(2, '0') ?? "-";
-        const MaxLVL = entry.MaxLVL?.toString().padStart(2, '0') ?? "-";
-        const Tier = entry.Tier ?? "-";
-        const Item = entry.Item ?? "-";
-        const MemberOnly = entry.MemberOnly ? "Yes" : "No";
-
-        let daytime = entry.Daytime ?? [];
-        const dt = ["M", "D", "N"];
-        const daytimeFormatted = daytime.map((v, i) => v ? dt[i] : null).filter(Boolean).join("/") || "-";
-
-        const row = `${displayText.padEnd(26)}${entry.area.padEnd(10)}${(MinLVL + '-' + MaxLVL).padEnd(10)}${MemberOnly.padEnd(5)}${daytimeFormatted.padEnd(8)}${Tier.padEnd(10)}${Item}`;
-        pokemonData.push(row);
+      else if (locationName && pokemon.Map.replace(/_/g, ' ').toLowerCase() === locationName.toLowerCase()) {
+        pokemonData.push(processPokemonData(pokemon));
       }
     }
 
-    if (!pokemonData.length) {
-      return interaction.reply({
-        embeds: [
-          {
-            title: "Error",
-            description: `${pokemonName ? "Pokemon" : "Location"} not found in spawns.\`,
-            color: 0xff0000,
-            thumbnail: {
-              url: "https://media.discordapp.net/attachments/969481658451517440/1075372125369675846/icon_npc_06.png"
-            }
-          }
-        ]
+    function processPokemonData(pokemon) {
+      const formattedMap = pokemon.Map.replace(/_/g, ' ').replace(/\w\S*/g, function(txt) {
+        return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
       });
-    }
+      const area = pokemon.area;
 
-    let spawnData = `${pokemonName || locationName} Spawns:\n`;
-    spawnData += `#Map/Pokemon             Area     Level     MS   Daytime Rarity    Item\n`;
-    spawnData += `${"-".repeat(90)}\n`;
-    pokemonData.forEach(line => spawnData += line + '\n');
+      const displayText = locationName ? `${pokemon.Pokemon}` : formattedMap;
 
-    const chunks = [];
-    while (spawnData.length > 0) {
-      if (spawnData.length <= 1950) {
-        chunks.push(spawnData);
-        break;
+      const MinLVL = pokemon.hasOwnProperty('MinLVL') ? pokemon.MinLVL.toString().split(", ") : [];
+      const MinLVLString = MinLVL.length > 0 ? MinLVL.map(lvl => lvl.padStart(2, '0')).join(", ") : "-";
+
+      const MaxLVL = pokemon.hasOwnProperty('MaxLVL') ? pokemon.MaxLVL.toString().split(", ") : [];
+      const MaxLVLString = MaxLVL.length > 0 ? MaxLVL.map(lvl => lvl.padStart(2, '0')).join(", ") : "-";
+
+      const Tier = pokemon.hasOwnProperty('Tier') ? pokemon.Tier.toString().split(", ") : [];
+      let TierString = "-";
+      if (Tier.length > 0) {
+        switch (Tier[0]) {
+          case "Common":
+            TierString = "Common";
+            break;
+          case "Uncommon":
+            TierString = "Uncommon";
+            break;
+          case "Rare":
+            TierString = "Rare";
+            break;
+        }
       }
-      const split = spawnData.lastIndexOf("\n", 1950);
-      chunks.push(spawnData.slice(0, split));
-      spawnData = spawnData.slice(split + 1);
+
+      const Item = pokemon.hasOwnProperty('Item') && pokemon.Item !== null ? pokemon.Item.toString().split(", ") : [];
+      const ItemString = Item.length > 0 ? Item.map(lvl => lvl.padStart(2, '0')).join(", ") : "-";
+
+      const MemberOnly = pokemon.hasOwnProperty('MemberOnly') ? pokemon.MemberOnly : false;
+      const MemberOnlyString = MemberOnly ? "Yes" : "No";
+
+      const daytime = pokemon.hasOwnProperty('Daytime') ? pokemon.Daytime : [];
+      let daytimeFormatted = "";
+      if (daytime.length === 3) {
+        if (daytime[0] === 1) {
+          if (daytime[1] === 1) {
+            if (daytime[2] === 1) {
+              daytimeFormatted = "M/D/N";
+            } else {
+              daytimeFormatted = "M/D";
+            }
+          } else if (daytime[2] === 1) {
+            daytimeFormatted = "M/N";
+          } else {
+            daytimeFormatted = "M";
+          }
+        } else if (daytime[1] === 1) {
+          if (daytime[2] === 1) {
+            daytimeFormatted = "D/N";
+          } else {
+            daytimeFormatted = "D";
+          }
+        } else if (daytime[2] === 1) {
+          daytimeFormatted = "N";
+        }
+      } else {
+        daytimeFormatted = "-";
+      }
+
+      return `${displayText.padEnd(30)}${area.padEnd(11)}${(MinLVLString + "-" + MaxLVLString).padEnd(12)}${MemberOnlyString.padEnd(5)}${daytimeFormatted.padEnd(10)}${TierString.padEnd(17)}${ItemString.padEnd(10)}`;
     }
 
-    await interaction.reply({ content: `\`\`\`yaml\n${chunks[0]}\`\`\`` });
-    for (let i = 1; i < chunks.length; i++) {
-      await interaction.followUp({ content: `\`\`\`yaml\n${chunks[i]}\`\`\`` });
+    if (pokemonData.length === 0) {
+      return interaction.editReply({
+        embeds: [{
+          title: "Error",
+          description: `${pokemonName ? "Pokemon" : "Location"} could not be found.`,
+          color: 0xFF0000,
+          thumbnail: {
+            url: "https://media.discordapp.net/attachments/969481658451517440/1075372125369675846/icon_npc_06.png"
+          }
+        }],
+        ephemeral: false
+      });
+    } else {
+      let spawnData = `${pokemonName || locationName}:\n`;
+      spawnData += `#Map/Pokemon                  Area       Level       MS  Daytime   Rarity           Item\n`;
+      spawnData += `${'-'.repeat(95)}\n`;
+
+      for (const chunk of pokemonData) {
+        spawnData += chunk + '\n';
+      }
+
+      let chunks = [];
+      while (spawnData.length > 0) {
+        if (spawnData.length <= 1950) {
+          chunks.push(spawnData);
+          spawnData = "";
+        } else {
+          let slicePoint = spawnData.lastIndexOf("\n", 1950);
+          chunks.push(spawnData.slice(0, slicePoint));
+          spawnData = spawnData.slice(slicePoint + 1);
+        }
+      }
+
+      interaction.reply('Processing Your Request...').then(() => {
+        chunks.forEach((chunk) => {
+          interaction.editReply('Here is Your Request:');
+          interaction.channel.send(`\`\`\`yaml\n${chunk}\`\`\``);
+        });
+      });
     }
   }
 };
