@@ -90,7 +90,12 @@ module.exports = {
       }
 
       const tier = p.Tier || "-";
-      const item = p.Item || "-";
+
+      // FIXED: No extra dash if item is "-"
+      let item = "-";
+      if (p.Item && typeof p.Item === "string" && p.Item.trim() !== "-") {
+        item = p.Item.trim();
+      }
 
       return formatLine(name, area, lvl, ms, day, tier, item);
     });
@@ -99,9 +104,9 @@ module.exports = {
       locationName ? "#Pokemon" : "#Map",
       "Area", "Level", "MS", "Daytime", "Rarity", "Item"
     );
-    const divider = "-".repeat(padSize + 11 + 9 + 5 + 8 + 10 + 15); // total = 80–82 chars
+    const divider = "-".repeat(padSize + 11 + 9 + 5 + 8 + 10 + 15); // total ~82
 
-    let output = `${pokemonName || locationName} \n${header}\n${divider}\n` + lines.join("\n");
+    let output = `${pokemonName || locationName}:\n${header}\n${divider}\n` + lines.join("\n");
 
     const chunks = [];
     while (output.length > 0) {
