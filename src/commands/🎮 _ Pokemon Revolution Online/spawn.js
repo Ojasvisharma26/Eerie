@@ -23,7 +23,7 @@ module.exports = {
         .setRequired(false)
     ),
 
-  async execute(interaction, client) {
+  async execute(interaction) {
     const pokemonName = interaction.options.getString("pokemon");
     const locationName = interaction.options.getString("location");
 
@@ -33,7 +33,10 @@ module.exports = {
           {
             title: "Error",
             description: "Please provide either a Pokemon name or a location.",
-            color: 0xff0000
+            color: 0xff0000,
+            thumbnail: {
+              url: "https://image.flaticon.com/icons/svg/1923/1923533.svg"
+            }
           }
         ],
         ephemeral: false
@@ -45,122 +48,84 @@ module.exports = {
       "https://pokemonrevolution.net/spawns/surf_spawns.json"
     ];
 
-    const requests = urls.map((url) => axios.get(url));
-    const responses = await Promise.all(requests);
-
-    const data = responses.flatMap((response, index) => {
-      if (urls[index].includes("land")) {
-        return response.data.map((entry) => ({ ...entry, area: "Land" }));
-      } else if (urls[index].includes("surf")) {
-        return response.data.map((entry) => ({ ...entry, area: "Surf/Fish" }));
-      } else {
-        return [];
-      }
+    const responses = await Promise.all(urls.map(url => axios.get(url)));
+    const data = responses.flatMap((res, idx) => {
+      const area = urls[idx].includes("land") ? "Land" : "Surf/Fish";
+      return res.data.map(entry => ({ ...entry, area }));
     });
 
-    function shortenWords(str) {
-      const replacements = {
+    const pokemonData = [];
+    const shortenMapName = (name) => {
+      const substitutions = {
+        "Mount": "Mnt",
         "Mountain": "Mtn",
-        "Mount": "Mt.",
         "Route": "Rt",
-        "Silver": "Silv",
-        "Exterior": "Ext",
-        "Interior": "Int",
-        "Upper": "Uppr",
-        "Lower": "Lowr",
-        "Chamber": "Chmb",
-        "Entrance": "Entr",
-        "Expert": "Exprt",
-        "Forest": "Frst",
-        "National Park": "NatPk",
-        "Woods": "Wds",
-        "Cave": "Cve",
-        "Island": "Isl",
-        "Volcano": "Volc"
+        "Silver": "Slvr",
+        "Chamber": "Chmbr",
+        "Exterior": "Ex",
+        "Interior": "In",
+        "Upper": "Up",
+        "Lower": "Low",
+        "Expert Belt": "ExBelt"
       };
-      for (const [full, short] of Object.entries(replacements)) {
-        str = str.replace(new RegExp(`\\b${full}\\b`, "gi"), short);
+      for (const key in substitutions) {
+        name = name.replace(new RegExp(key, "gi"), substitutions[key]);
       }
-      return str;
+      return name;
+    };
+
+    for (const entry of data) {
+      const formattedMap = entry.Map.replace(/_/g, ' ').replace(/\w\S*/g, (txt) => txt.charAt(0).toUpperCase() + txt.slice(1).toLowerCase());
+      const shortMap = shortenMapName(formattedMap);
+      const displayText = locationName ? entry.Pokemon : shortMap.length > 24 ? shortMap.slice(0, 24) : formattedMap;
+
+      if ((pokemonName && entry.Pokemon.toLowerCase() === pokemonName.toLowerCase()) ||
+          (locationName && formattedMap.toLowerCase() === locationName.toLowerCase())) {
+
+        const MinLVL = entry.MinLVL?.toString().padStart(2, '0') ?? "-";
+        const MaxLVL = entry.MaxLVL?.toString().padStart(2, '0') ?? "-";
+        const Tier = entry.Tier ?? "-";
+        const Item = entry.Item ?? "-";
+        const MemberOnly = entry.MemberOnly ? "Yes" : "No";
+
+        let daytime = entry.Daytime ?? [];
+        const dt = ["M", "D", "N"];
+        const daytimeFormatted = daytime.map((v, i) => v ? dt[i] : null).filter(Boolean).join("/") || "-";
+
+        const row = `${displayText.padEnd(26)}${entry.area.padEnd(10)}${(MinLVL + '-' + MaxLVL).padEnd(10)}${MemberOnly.padEnd(5)}${daytimeFormatted.padEnd(8)}${Tier.padEnd(10)}${Item}`;
+        pokemonData.push(row);
+      }
     }
 
-    function processPokemonData(pokemon) {
-      let formattedMap = pokemon.Map.replace(/_/g, ' ').replace(/\w\S*/g, (txt) =>
-        txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase()
-      );
-      const area = pokemon.area;
-      const displayText = locationName ? pokemon.Pokemon : formattedMap;
-
-      const MinLVL = pokemon.MinLVL?.split(", ") || [];
-      const MaxLVL = pokemon.MaxLVL?.split(", ") || [];
-      const MinLVLString = MinLVL.length > 0 ? MinLVL.map(lvl => lvl.padStart(2, '0')).join(", ") : "-";
-      const MaxLVLString = MaxLVL.length > 0 ? MaxLVL.map(lvl => lvl.padStart(2, '0')).join(", ") : "-";
-
-      const Tier = pokemon.Tier?.split(", ") || ["-"];
-      const TierString = Tier[0];
-
-      const Item = pokemon.Item ? pokemon.Item.split(", ") : ["-"];
-      const ItemString = Item.join(", ");
-
-      const MemberOnly = pokemon.MemberOnly ? "Yes" : "No";
-
-      const daytime = pokemon.Daytime || [];
-      let daytimeFormatted = "-";
-      if (daytime.length === 3) {
-        const [m, d, n] = daytime;
-        daytimeFormatted = `${m ? "M" : ""}${d ? "/D" : ""}${n ? "/N" : ""}`.replace(/^\//, "");
-      }
-
-      // Construct the row
-      let row = `${displayText.padEnd(30)}${area.padEnd(11)}${(MinLVLString + "-" + MaxLVLString).padEnd(12)}${MemberOnly.padEnd(5)}${daytimeFormatted.padEnd(10)}${TierString.padEnd(17)}${ItemString.padEnd(10)}`;
-
-      // Auto-shortening if too long
-      if (row.length > 95) {
-        const shortMap = shortenWords(formattedMap);
-        const shortDisplay = locationName ? pokemon.Pokemon : shortMap;
-        row = `${shortDisplay.padEnd(30)}${area.padEnd(11)}${(MinLVLString + "-" + MaxLVLString).padEnd(12)}${MemberOnly.padEnd(5)}${daytimeFormatted.padEnd(10)}${TierString.padEnd(17)}${ItemString.padEnd(10)}`;
-      }
-
-      return row;
-    }
-
-    const pokemonData = data
-      .filter((pokemon) => {
-        if (pokemonName && pokemon.Pokemon.toLowerCase() === pokemonName.toLowerCase()) return true;
-        if (locationName && pokemon.Map.replace(/_/g, ' ').toLowerCase() === locationName.toLowerCase()) return true;
-        return false;
-      })
-      .map(processPokemonData);
-
-    if (pokemonData.length === 0) {
+    if (!pokemonData.length) {
       return interaction.reply({
-        embeds: [{
-          title: "Error",
-          description: `${pokemonName ? "Pokemon" : "Location"} could not be found.`,
-          color: 0xff0000,
-          thumbnail: {
-            url: "https://media.discordapp.net/attachments/969481658451517440/1075372125369675846/icon_npc_06.png"
+        embeds: [
+          {
+            title: "Error",
+            description: `${pokemonName ? "Pokemon" : "Location"} not found in spawns.\`,
+            color: 0xff0000,
+            thumbnail: {
+              url: "https://media.discordapp.net/attachments/969481658451517440/1075372125369675846/icon_npc_06.png"
+            }
           }
-        }],
-        ephemeral: false
+        ]
       });
     }
 
-    let spawnData = `${pokemonName || locationName}:
-`;
-    spawnData += `#Map/Pokemon                  Area       Level       MS  Daytime   Rarity           Item\n`;
-    spawnData += `${'-'.repeat(95)}\n`;
-    spawnData += pokemonData.join("\n");
+    let spawnData = `${pokemonName || locationName} Spawns:\n`;
+    spawnData += `#Map/Pokemon             Area     Level     MS   Daytime Rarity    Item\n`;
+    spawnData += `${"-".repeat(90)}\n`;
+    pokemonData.forEach(line => spawnData += line + '\n');
 
-    let chunks = [];
+    const chunks = [];
     while (spawnData.length > 0) {
       if (spawnData.length <= 1950) {
         chunks.push(spawnData);
         break;
       }
-      const slicePoint = spawnData.lastIndexOf("\n", 1950);
-      chunks.push(spawnData.slice(0, slicePoint));
-      spawnData = spawnData.slice(slicePoint + 1);
+      const split = spawnData.lastIndexOf("\n", 1950);
+      chunks.push(spawnData.slice(0, split));
+      spawnData = spawnData.slice(split + 1);
     }
 
     await interaction.reply({ content: `\`\`\`yaml\n${chunks[0]}\`\`\`` });
