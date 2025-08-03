@@ -122,7 +122,8 @@ module.exports = {
 
     await interaction.reply("Processing your request...");
     for (const chunk of chunks) {
-      await interaction.channel.send(`\`\`\`yaml\n${chunk}\n\`\`\``);
+      interaction.editReply('Here is Your Request:');
+      interaction.channel.send(`\`\`\`yaml\n${chunk}\n\`\`\``);
     }
   }
 };
