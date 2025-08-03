@@ -100,7 +100,8 @@ module.exports = {
       content: 'Here is your request',
       embeds: chunkedEmbeds
     });
-
+    console.log(1)
+    
     // Start pagination
     new Pagination(interaction, chunkedEmbeds).send();
   },
