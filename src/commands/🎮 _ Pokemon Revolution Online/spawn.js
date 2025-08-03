@@ -15,7 +15,7 @@ module.exports = {
       option.setName("location").setDescription("Enter a Location name").setRequired(false)
     ),
 
-  async execute(interaction, client) {
+  async execute(interaction) {
     const pokemonName = interaction.options.getString("pokemon");
     const locationName = interaction.options.getString("location");
 
@@ -41,19 +41,24 @@ module.exports = {
       res.data.map(entry => ({ ...entry, area: i === 0 ? "Land" : "Surf/Fish" }))
     );
 
-    const shorten = str => str
-      .replace(/Mountain/gi, "Mtn")
-      .replace(/Silver/gi, "Slvr")
-      .replace(/Exterior/gi, "Ext")
-      .replace(/Interior/gi, "Int")
-      .replace(/Chamber/gi, "Chmbr")
-      .replace(/Entrance/gi, "Ent")
-      .replace(/Hidden/gi, "Hdn")
-      .replace(/Lower/gi, "Lwr")
-      .replace(/Upper/gi, "Upr");
+    const shorten = str => {
+      const short = str
+        .replace(/Mountain/gi, "Mtn")
+        .replace(/Silver/gi, "Slvr")
+        .replace(/Exterior/gi, "Ext")
+        .replace(/Interior/gi, "Int")
+        .replace(/Chamber/gi, "Chmbr")
+        .replace(/Entrance/gi, "Ent")
+        .replace(/Hidden/gi, "Hdn")
+        .replace(/Lower/gi, "Lwr")
+        .replace(/Upper/gi, "Upr");
+      return short.length > 30 ? short.slice(0, 28) + "." : short;
+    };
+
+    const padSize = locationName ? 22 : 30;
 
     const formatLine = (pokemon, area, lvl, ms, time, rarity, item) =>
-      `${pokemon.padEnd(30)}${area.padEnd(11)}${lvl.padEnd(9)}${ms.padEnd(5)}${time.padEnd(8)}${rarity.padEnd(10)}${item.padEnd(15)}`;
+      `${pokemon.padEnd(padSize)}${area.padEnd(11)}${lvl.padEnd(9)}${ms.padEnd(5)}${time.padEnd(8)}${rarity.padEnd(10)}${item.padEnd(15)}`;
 
     const filtered = data.filter(p =>
       (pokemonName && p.Pokemon.toLowerCase() === pokemonName.toLowerCase()) ||
@@ -94,7 +99,7 @@ module.exports = {
       locationName ? "#Pokemon" : "#Map",
       "Area", "Level", "MS", "Daytime", "Rarity", "Item"
     );
-    const divider = "-".repeat(82);
+    const divider = "-".repeat(padSize + 11 + 9 + 5 + 8 + 10 + 15); // total = 80–82 chars
 
     let output = `${pokemonName || locationName} Spawn Info:\n${header}\n${divider}\n` + lines.join("\n");
 
