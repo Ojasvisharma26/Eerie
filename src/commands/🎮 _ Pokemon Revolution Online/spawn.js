@@ -41,10 +41,19 @@ module.exports = {
       res.data.map(entry => ({ ...entry, area: i === 0 ? "Land" : "Surf/Fish" }))
     );
 
-    const shorten = str => str.replace(/Mountain/gi, "Mtn").replace(/Silver/gi, "Slvr").replace(/Exterior/gi, "Ext").replace(/Interior/gi, "Int").replace(/Chamber/gi, "Chmbr").replace(/Entrance/gi, "Ent").replace(/Hidden/gi, "Hdn").replace(/Lower/gi, "Lwr").replace(/Upper/gi, "Upr");
+    const shorten = str => str
+      .replace(/Mountain/gi, "Mtn")
+      .replace(/Silver/gi, "Slvr")
+      .replace(/Exterior/gi, "Ext")
+      .replace(/Interior/gi, "Int")
+      .replace(/Chamber/gi, "Chmbr")
+      .replace(/Entrance/gi, "Ent")
+      .replace(/Hidden/gi, "Hdn")
+      .replace(/Lower/gi, "Lwr")
+      .replace(/Upper/gi, "Upr");
 
-    const formatLine = (pokemon, map, area, lvl, ms, time, rarity, item) =>
-      `${pokemon.padEnd(30)}${area.padEnd(10)}${lvl.padEnd(9)}${ms.padEnd(4)}${time.padEnd(8)}${rarity.padEnd(10)}${item.padEnd(15)}`;
+    const formatLine = (pokemon, area, lvl, ms, time, rarity, item) =>
+      `${pokemon.padEnd(30)}${area.padEnd(11)}${lvl.padEnd(9)}${ms.padEnd(5)}${time.padEnd(8)}${rarity.padEnd(10)}${item.padEnd(15)}`;
 
     const filtered = data.filter(p =>
       (pokemonName && p.Pokemon.toLowerCase() === pokemonName.toLowerCase()) ||
@@ -55,7 +64,7 @@ module.exports = {
       return interaction.reply({
         embeds: [{
           title: "Error",
-          description: `${pokemonName ? "Pokemon" : "Location"} could not be found.\`,
+          description: `${pokemonName ? "Pokemon" : "Location"} could not be found.`,
           color: 0xFF0000
         }],
         ephemeral: true
@@ -78,10 +87,13 @@ module.exports = {
       const tier = p.Tier || "-";
       const item = p.Item || "-";
 
-      return formatLine(name, p.Map, area, lvl, ms, day, tier, item);
+      return formatLine(name, area, lvl, ms, day, tier, item);
     });
 
-    const header = formatLine(locationName ? "#Pokemon" : "#Map", "", "Area", "Level", "MS", "Daytime", "Rarity", "Item");
+    const header = formatLine(
+      locationName ? "#Pokemon" : "#Map",
+      "Area", "Level", "MS", "Daytime", "Rarity", "Item"
+    );
     const divider = "-".repeat(95);
 
     let output = `${pokemonName || locationName} Spawn Info:\n${header}\n${divider}\n` + lines.join("\n");
@@ -100,7 +112,7 @@ module.exports = {
 
     await interaction.reply("Processing your request...");
     for (const chunk of chunks) {
-      await interaction.channel.send(````yaml\n${chunk}\n\`\`\``);
+      await interaction.channel.send(`\`\`\`yaml\n${chunk}\n\`\`\``);
     }
   }
 };
