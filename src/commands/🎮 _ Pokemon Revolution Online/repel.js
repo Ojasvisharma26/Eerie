@@ -100,6 +100,7 @@ module.exports = {
         data.forEach(detail => {
             counter++;
             if(type === "pokemon") {
+                console.log(1)
                 embedDescription += `- **Map:** \`${detail.Map}\`\n`;
             } else {
                 embedDescription += `- **Pokemon:** \`${detail.Pokemon}\`\n`;
