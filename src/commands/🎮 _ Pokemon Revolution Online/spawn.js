@@ -94,7 +94,7 @@ module.exports = {
       locationName ? "#Pokemon" : "#Map",
       "Area", "Level", "MS", "Daytime", "Rarity", "Item"
     );
-    const divider = "-".repeat(95);
+    const divider = "-".repeat(82);
 
     let output = `${pokemonName || locationName} Spawn Info:\n${header}\n${divider}\n` + lines.join("\n");
 
