@@ -101,7 +101,7 @@ module.exports = {
     );
     const divider = "-".repeat(padSize + 11 + 9 + 5 + 8 + 10 + 15); // total = 80–82 chars
 
-    let output = `${pokemonName || locationName} Spawn Info:\n${header}\n${divider}\n` + lines.join("\n");
+    let output = `${pokemonName || locationName} \n${header}\n${divider}\n` + lines.join("\n");
 
     const chunks = [];
     while (output.length > 0) {
