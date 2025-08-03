@@ -153,8 +153,8 @@ module.exports = {
       });
     } else {
       let spawnData = `${pokemonName || locationName}:\n`;
-      spawnData += `#Map/Pokemon                  Area       Level       MS  Daytime   Rarity           Item\n`;
-      spawnData += `${'-'.repeat(95)}\n`;
+      spawnData += `#Map/Pokemon             Area      Level  MS  Daytime   Rarity      Item\n`;
+      spawnData += `${'-'.repeat(82)}\n`;
 
       for (const chunk of pokemonData) {
         spawnData += chunk + '\n';
