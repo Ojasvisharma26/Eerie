@@ -18,7 +18,6 @@ module.exports = {
     ),
 
   async execute(interaction, client) {
-    console.log(0, smogonData, dexData)
     // 🛡️ Must call within 3 seconds
     await interaction.deferReply();
 
