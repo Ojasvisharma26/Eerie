@@ -84,7 +84,7 @@ module.exports = {
         // Replace "?" in the footer with the actual total number of pages
         chunkedEmbeds.forEach(embed => embed.footer.text = embed.footer.text.replace('?', chunkedEmbeds.length));
 
-        await interaction.reply("Processing...");
+        await interaction.deferReply();
         await interaction.editReply({
             content: 'Here is your request',
             embeds: chunkedEmbeds
