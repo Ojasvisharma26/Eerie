@@ -18,7 +18,7 @@ module.exports = {
       const embed = new EmbedBuilder()
         .setAuthor({
           name: "Eerie - A PRO Discord Bot",
-          iconURL: "https://media.discordapp.net/attachments/969481658451517440/1078335623045337108/wALupHf2mcEgAAAABJRU5ErkJggg.png?width=616&height=616"
+          iconURL: "https://cdn.discordapp.com/attachments/969481658451517440/1401783579041861662/c8cbde3bd65dc0fe980d279fc6bb8f81.png?ex=68918831&is=689036b1&hm=944eaf6ab669f0ad295c311487d727f720d05303c5e7f3c66b1e7a7888ea976b&"
         })
         .setTitle("**Help Menu of __Eerie__** 😈")
         .setColor(0x8711ca)
@@ -39,10 +39,10 @@ module.exports = {
 \`1. Way\` Use the **Menu** to select all Help Pages, you want to view.
 \`2. Way\` Join the **__[Support Server](https://discord.gg/FQBgk3xTcC)__** and ask your question there.
 \`3. Way\` Ask your question in **__[Forums](https://pokemonrevolution.net/forum/topic/221020-eerie-a-discord-pro-bot/)__**
-\`4. Way\` Use the \`/Suggest\` or \`/Report\` command inform the DEVs
+\`4. Way\` Use the \`/Suggest\` or \`/Report\` command to inform the DEVs
         `)
         .setFooter({ text: `Requested by: ${interaction.user.username}  |  ${new Date().toLocaleDateString("en-US")}`, iconURL: interaction.user.displayAvatarURL() })
-        .setThumbnail("https://media.discordapp.net/attachments/969481658451517440/1078335623045337108/wALupHf2mcEgAAAABJRU5ErkJggg.png?width=616&height=616")
+        .setThumbnail(interaction.client.user.displayAvatarURL({ dynamic: true }));
 
       const components = [{
         type: 1,
