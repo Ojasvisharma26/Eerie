@@ -22,11 +22,11 @@ module.exports = {
       .setTimestamp()
       .setFooter({ text: interaction.user.tag, iconURL: interaction.user.displayAvatarURL({ dynamic: true }) });
 
-    const button = new ButtonBuilder()
-      .setLabel(`Eerie Dashboard`)
-      .setStyle(ButtonStyle.Link)
-      .setURL("https://eerie.proclient.repl.co/")
-      .setEmoji(`<:GengarHype:969829007875014696>`);
+    // const button = new ButtonBuilder()
+    //   .setLabel(`Eerie Dashboard`)
+    //   .setStyle(ButtonStyle.Link)
+    //   .setURL("https://eerie.proclient.repl.co/")
+    //   .setEmoji(`<:GengarHype:969829007875014696>`);
     await interaction.reply({
       components: [new ActionRowBuilder().addComponents(button)],
       embeds: [embed]
