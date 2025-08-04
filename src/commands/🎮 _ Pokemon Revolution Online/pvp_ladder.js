@@ -40,7 +40,7 @@ module.exports = {
             await interaction.editReply({
                 embeds: [{
                     title: "❌ Error",
-                    description: `Something went wrong while fetching ladder data. Error:\n${res.data.errors}`,
+                    description: `Something went wrong while fetching ladder data.`,
                     color: 0xFF0000
                 }]
             });
