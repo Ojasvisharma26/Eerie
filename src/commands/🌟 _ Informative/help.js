@@ -23,22 +23,19 @@ module.exports = {
         .setTitle("**Help Menu of __Eerie__** 😈")
         .setColor(0x8711ca)
         .setDescription(`
-**✨ __[Forums Page](https://pokemonrevolution.net/forum/topic/221020-eerie-a-pro-discord-bot/)__ ✨**
-* Please use \`Dropdown Menu\` to see commands!
-> **2 Systems**, like **PROClient** & **Informative**
-> :no_entry_sign: **Moderation** to clean your server chats
-❓ __**How To Use Me?**__ 
-> Use \`/\` and click on \`Bot's avatar\` on the \`left menu\` and see\n> the regularly **updated** \`commands\`
-📈 __**STATS**__ 
-> :gear: **Commands:** \`${client.commands.size}\`
-> :file_folder: **Servers:** \`${client.guilds.cache.size.toLocaleString()}\`
-> :bust_in_silhouette: **Users:** \`${client.guilds.cache.reduce((a, b) => a + b.memberCount, 0).toLocaleString()}\`
-> :signal_strength: **Uptime:** \`${ms(os.uptime() * 1000, { long: true })}\`
-🆘 **__Need Support__** 
-\`1. Way\` Use the **Menu** to select all Help Pages, you want to view.
-\`2. Way\` Join the **__[Support Server](https://discord.gg/FQBgk3xTcC)__** and ask your question there.
-\`3. Way\` Ask your question in **__[Forums](https://pokemonrevolution.net/forum/topic/221020-eerie-a-discord-pro-bot/)__**
-\`4. Way\` Use the \`/Suggest\` or \`/Report\` command to inform the DEVs
+        **✨ __[Forums Page](https://pokemonrevolution.net/forum/topic/221020-eerie-a-pro-discord-bot/)__ ✨**
+        * Please use \`Dropdown Menu\` to see commands!
+        > **2 Systems**, like **PROClient** & **Informative**
+        > :no_entry_sign: **Moderation** to clean your server chats\n❓ __**How To Use Me?**__\n> Use \`/\` and click on \`Bot's avatar\` on the \`left menu\` and see the regularly **updated** \`commands\`\n📈 __**STATS**__
+        > :gear: **Commands:** \`${client.commands.size}\`
+         > :file_folder: **Servers:** \`${client.guilds.cache.size.toLocaleString()}\`
+        > :bust_in_silhouette: **Users:** \`${client.guilds.cache.reduce((a, b) => a + b.memberCount, 0).toLocaleString()}\`
+         > :signal_strength: **Uptime:** \`${ms(os.uptime() * 1000, { long: true })}\`
+        🆘 **__Need Support__** 
+        \`1. Way\` Use the **Menu** to select all Help Pages, you want to view.
+        \`2. Way\` Join the **__[Support Server](https://discord.gg/FQBgk3xTcC)__** and ask your question there.
+        \`3. Way\` Ask your question in **__[Forums](https://pokemonrevolution.net/forum/topic/221020-eerie-a-discord-pro-bot/)__**
+        \`4. Way\` Use the \`/Suggest\` or \`/Report\` command to inform the DEVs
         `)
         .setFooter({ text: `Requested by: ${interaction.user.username}  |  ${new Date().toLocaleDateString("en-US")}`, iconURL: interaction.user.displayAvatarURL() })
         .setThumbnail(interaction.client.user.displayAvatarURL({ dynamic: true }));
@@ -49,7 +46,7 @@ module.exports = {
           type: 3,
           custom_id: "help-menu",
           placeholder: "Eerie Commands 👿",
-          ooptions: [{
+          options: [{
             label: "Pokemon Revolution Online",
             value: "🎮 | Pokemon Revolution Online",
             description: "Pokemon Revolution Online Commands",
