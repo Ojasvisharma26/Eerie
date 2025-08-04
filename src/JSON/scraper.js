@@ -1,35 +1,38 @@
-const puppeteer = require('puppeteer');
+const chromium = require('chrome-aws-lambda');
+const puppeteer = require('puppeteer-core');
 
 async function scrapeLadderData() {
     const browser = await puppeteer.launch({
-        headless: true,
-        args: ['--no-sandbox', '--disable-setuid-sandbox'],
+        args: chromium.args,
+        defaultViewport: chromium.defaultViewport,
+        executablePath: await chromium.executablePath,
+        headless: chromium.headless,
+        ignoreHTTPSErrors: true
     });
 
     const page = await browser.newPage();
 
-    // Step 1: Go to login page
+    // Login Page
     await page.goto('https://dashboard.pokemonrevolution.net/auth/login', {
         waitUntil: 'networkidle2',
+        timeout: 60000,
     });
 
-    // Step 2: Fill in login form
     await page.type('input[placeholder="Username"]', 'Frylock', { delay: 50 });
     await page.type('input[placeholder="Password"]', 'Ojasvihrms26-10', { delay: 50 });
 
-    // Step 3: Submit login form
     await Promise.all([
-        page.waitForNavigation({ waitUntil: 'networkidle2' }),
+        page.waitForNavigation({ waitUntil: 'networkidle2', timeout: 60000 }),
         page.click('button.btn.btn-primary')
     ]);
 
-    // Step 4: Go to /dashboard page (to make sure session is active)
+    // Go to Dashboard
     await page.goto('https://dashboard.pokemonrevolution.net/dashboard', {
-        waitUntil: 'networkidle2'
+        waitUntil: 'networkidle2',
+        timeout: 60000
     });
 
-    // Step 5: Perform GraphQL call in browser context
-    const response = await page.evaluate(async () => {
+    const graphqlData = await page.evaluate(async () => {
         const res = await fetch("/graphql", {
             method: "POST",
             headers: {
@@ -39,32 +42,34 @@ async function scrapeLadderData() {
                 operationName: null,
                 variables: {},
                 query: `{
-                  silver: toplists(server: silver) {
-                    rankedLadder {
-                      username
-                      PVP { rankedRating rankedWins rankedLosses }
-                      guild { name }
-                      lastLocation { countryLong }
+                    silver: toplists(server: silver) {
+                        rankedLadder {
+                            username
+                            PVP { rankedRating rankedWins rankedLosses }
+                            guild { name }
+                            lastLocation { countryLong }
+                        }
                     }
-                  }
-                  gold: toplists(server: gold) {
-                    rankedLadder {
-                      username
-                      PVP { rankedRating rankedWins rankedLosses }
-                      guild { name }
-                      lastLocation { countryLong }
+                    gold: toplists(server: gold) {
+                        rankedLadder {
+                            username
+                            PVP { rankedRating rankedWins rankedLosses }
+                            guild { name }
+                            lastLocation { countryLong }
+                        }
                     }
-                  }
                 }`
             })
         });
-        return await res.json();
+
+        return res.json();
     });
 
     await browser.close();
-
-    // ✅ Return GraphQL response
-    return response;
+    console.log("✅ Ladder Data:", JSON.stringify(graphqlData, null, 2));
+    return graphqlData;
 }
 
-module.exports = { scrapeLadderData };
+scrapeLadderData().catch((err) => {
+    console.error("❌ Error:", err);
+});
