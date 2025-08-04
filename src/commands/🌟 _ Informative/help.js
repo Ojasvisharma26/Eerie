@@ -49,13 +49,14 @@ module.exports = {
           type: 3,
           custom_id: "help-menu",
           placeholder: "Eerie Commands 👿",
-          options: [{
+          ooptions: [{
             label: "Pokemon Revolution Online",
             value: "🎮 | Pokemon Revolution Online",
             description: "Pokemon Revolution Online Commands",
             emoji: {
-              name: `🎮`
-            }, {
+              name: "🎮"
+            }
+          }, {
             label: "Informative",
             value: "🌟 | Informative",
             description: "Informative Commands",
