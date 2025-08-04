@@ -50,26 +50,19 @@ module.exports = {
           custom_id: "help-menu",
           placeholder: "Eerie Commands 👿",
           options: [{
-            label: "Fun",
-            value: "🤡 | Fun",
-            description: "Fun Commands",
+            label: "Pokemon Revolution Online",
+            value: "🎮 | Pokemon Revolution Online",
+            description: "Pokemon Revolution Online Commands",
             emoji: {
-              name: "🤡"
-            }
-          }, {
+              name: `🎮`
+            }, {
             label: "Informative",
             value: "🌟 | Informative",
             description: "Informative Commands",
             emoji: {
               name: "🌟"
             }
-          }, {
-            label: "Pokemon Revolution Online",
-            value: "🎮 | Pokemon Revolution Online",
-            description: "Pokemon Revolution Online Commands",
-            emoji: {
-              name: `🎮`
-            }
+          }
           }]
         }]
       }];
