@@ -104,7 +104,7 @@ module.exports = {
       locationName ? "#Pokemon" : "#Map",
       "Area", "Level", "MS", "Daytime", "Rarity", "Item"
     );
-    const divider = "-".repeat(padSize + 11 + 9 + 5 + 8 + 10 + 15); // total ~82
+    const divider = "-".repeat(82); // total ~82
 
     let output = `${pokemonName || locationName}:\n${header}\n${divider}\n` + lines.join("\n");
 
