@@ -28,7 +28,7 @@ module.exports = {
     //   .setURL("https://eerie.proclient.repl.co/")
     //   .setEmoji(`<:GengarHype:969829007875014696>`);
     await interaction.reply({
-      components: [new ActionRowBuilder().addComponents(button)],
+      //components: [new ActionRowBuilder().addComponents(button)],
       embeds: [embed]
     });
   },
