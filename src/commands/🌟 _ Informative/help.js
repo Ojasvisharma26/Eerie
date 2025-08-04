@@ -78,21 +78,13 @@ module.exports = {
           let selectedCategory = interaction.values[0];
           let description;
 
-          if (selectedCategory === '🤡 | Fun') {
+          if (selectedCategory === '🌟 | Informative') {
             description = `
-* \`Together\`: Play games with friends using Discord Together!
-            `;
-          } else if (selectedCategory === '⚙️ | Moderation') {
-            description = `
-* \`Clear\`: Delete the messages from the server.
-            `;
-          } else if (selectedCategory === '🌟 | Informative') {
-            description = `
-* \`Avatar    \`: Shows the given user's Avatar.\n* \`Botinfo   \`: Shows Bot's Info!\n* \`Developer \`: Shows Bot's Developer Info!\n* \`Help      \`: Shows all the help commands!\n* \`Invite    \`: Shows Bot's Invite Info!\n* \`Links     \`: Shows Bot's Link Info!\n* \`Remindme  \`: Reminds You on Specific Reason.\n* \`Report    \`: Reports a bug to DEVs.\n* \`Serverinfo\`: Shows Server's Info!\n* \`Suggest   \`: Gives suggestion to DEVs.\n* \`Translate \`: Translate the Text.
+* \`Avatar    \`: Shows the given user's Avatar.\n* \`Botinfo   \`: Shows Bot's Info!\n* \`Help      \`: Shows all the help commands!\n* \`Invite    \`: Shows Bot's Invite Info!\n* \`Links     \`: Shows Bot's Link Info!\n* \`Remindme  \`: Reminds You on Specific Reason.\n* \`Report    \`: Reports a bug to DEVs.\n* \`Serverinfo\`: Shows Server's Info!\n* \`Suggest   \`: Gives suggestion to DEVs.\n* \`Translate \`: Translate the Text.
             `;
           } else if (selectedCategory === '🎮 | Pokemon Revolution Online') {
             description = `
-* \`Bosses    \`: Returns Information About Pokemon Bosses!\n* \`Pokedex   \`: Return the Pokédex information of a Pokémon!\n* \`Digspots  \`: Returns Information About All Digspots!\n* \`Evspots   \`: Returns Information About Evspots!\n* \`Excavation\`: Shows all the Excavation Site's Information!\n* \`Headbutt  \`: Check the Pokemon you can find using Headbutt!\n* \`Info      \`: Check the Information about Move, Item, Ability!\n* \`Item      \`: Returns Spawn Information About an Item!\n* \`Learnset  \`: Check the moves for the Pokemon!\n* \`Mostused  \`: Shows Most used pokemon in ranked pvp!\n* \`Poketime  \`: Check the current in-game time of PRO!\n* \`Poketype  \`: Returns Information About Pokemon Types!\n* \`PRO       \`: Gives Information about Pokemon Revolution Online!\n* \`Repel     \`: Check the Repel-Trick Information of Pokemon or Location!\n* \`Smogon    \`: Returns Smogon Stats of Pokemon!\n* \`Sapwn     \`: Returns Spawn Information About a Pokemon or a Location!
+* \`Bosses    \`: Returns Information About Pokemon Bosses!\n* \`Pokedex   \`: Return the Pokédex information of a Pokémon!\n* \`Digspots  \`: Returns Information About All Digspots!\n* \`Evspots   \`: Returns Information About Evspots!\n* \`Excavation\`: Shows all the Excavation Site's Information!\n* \`Headbutt  \`: Check the Pokemon you can find using Headbutt!\n* \`Info      \`: Check the Information about Move, Item, Ability!\n* \`Item      \`: Returns Spawn Information About an Item!\n* \`Learnset  \`: Check the moves for the Pokemon!\n* \`Poketime  \`: Check the current in-game time of PRO!\n* \`Poketype  \`: Returns Information About Pokemon Types!\n* \`PRO       \`: Gives Information about Pokemon Revolution Online!\n* \`Repel     \`: Check the Repel-Trick Information of Pokemon or Location!\n* \`Smogon    \`: Returns Smogon Stats of Pokemon!\n* \`Sapwn     \`: Returns Spawn Information About a Pokemon or a Location!
             `;
           } else {
             description = "No commands available for this category.";
