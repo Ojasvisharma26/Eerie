@@ -25,8 +25,7 @@ module.exports = {
         .setDescription(`
 **✨ __[Forums Page](https://pokemonrevolution.net/forum/topic/221020-eerie-a-pro-discord-bot/)__ ✨**
 * Please use \`Dropdown Menu\` to see commands!
-> **3 Systems**, like **ROClient**, **Informative** and **Fun** System
-> 🎮 Many **Time-Pass Games** and 🕹 **Fun Commands**
+> **2 Systems**, like **PROClient** & **Informative**
 > :no_entry_sign: **Moderation** to clean your server chats
 ❓ __**How To Use Me?**__ 
 > Use \`/\` and click on \`Bot's avatar\` on the \`left menu\` and see\n> the regularly **updated** \`commands\`
