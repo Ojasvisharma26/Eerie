@@ -11,7 +11,7 @@ async function scrapeLadderData() {
         "ips4_loggedIn=1754319572",
         "ips4_login_key=760c98e1523dc2b40a17e682259e2c84",
         "ips4_member_id=2035207",
-        "pro_session=9aa09b0c-c648-47dc-ba17-311fb700bc38",
+        "pro_session=cb357344-b3ac-452d-a950-bf8d72fe6d7c",
         "pro_session_expiration=1"
     ].join("; ");
 
