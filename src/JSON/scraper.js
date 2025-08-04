@@ -1,70 +1,43 @@
-const puppeteer = require('puppeteer');
+// ✅ Replit-friendly GraphQL request with cookies
+const axios = require('axios');
 
 async function scrapeLadderData() {
-    const browser = await puppeteer.launch({
-        headless: true,
-        args: ['--no-sandbox', '--disable-setuid-sandbox'],
+    const res = await axios.post('https://dashboard.pokemonrevolution.net/graphql', {
+        operationName: null,
+        variables: {},
+        query: `
+        {
+          silver: toplists(server: silver) {
+            rankedLadder {
+              username
+              PVP { rankedRating rankedWins rankedLosses }
+              guild { name }
+              lastLocation { countryLong }
+            }
+          }
+          gold: toplists(server: gold) {
+            rankedLadder {
+              username
+              PVP { rankedRating rankedWins rankedLosses }
+              guild { name }
+              lastLocation { countryLong }
+            }
+          }
+        }
+        `
+    }, {
+        headers: {
+            'Content-Type': 'application/json',
+            'Cookie': `pro_session=9aa09b0c-c648-47dc-ba17-311fb700bc38; ips4_loggedIn=1754319572; ips4_login_key=760c98e1523dc2b40a17e682259e2c84; ips4_member_id=2035207;`
+        }
     });
 
-    const page = await browser.newPage();
+    if (res.data.errors) {
+        console.log("❌ GraphQL Error:", res.data.errors);
+        throw new Error("GraphQL failed");
+    }
 
-    // Step 1: Go to login page
-    await page.goto('https://dashboard.pokemonrevolution.net/auth/login', {
-        waitUntil: 'networkidle2',
-    });
-
-    // Step 2: Fill in login form
-    await page.type('input[placeholder="Username"]', 'Frylock', { delay: 50 });
-    await page.type('input[placeholder="Password"]', 'Ojasvihrms26-10', { delay: 50 });
-
-    // Step 3: Submit login form
-    await Promise.all([
-        page.waitForNavigation({ waitUntil: 'networkidle2' }),
-        page.click('button.btn.btn-primary')
-    ]);
-
-    // Step 4: Go to /dashboard page (to make sure session is active)
-    await page.goto('https://dashboard.pokemonrevolution.net/dashboard', {
-        waitUntil: 'networkidle2'
-    });
-
-    // Step 5: Perform GraphQL call in browser context
-    const response = await page.evaluate(async () => {
-        const res = await fetch("/graphql", {
-            method: "POST",
-            headers: {
-                "Content-Type": "application/json"
-            },
-            body: JSON.stringify({
-                operationName: null,
-                variables: {},
-                query: {
-                  silver: toplists(server: silver) {
-                    rankedLadder {
-                      username
-                      PVP { rankedRating rankedWins rankedLosses }
-                      guild { name }
-                      lastLocation { countryLong }
-                    }
-                  }
-                  gold: toplists(server: gold) {
-                    rankedLadder {
-                      username
-                      PVP { rankedRating rankedWins rankedLosses }
-                      guild { name }
-                      lastLocation { countryLong }
-                    }
-                  }
-                }
-            })
-        });
-        return await res.json();
-    });
-
-    await browser.close();
-
-    // ✅ Return GraphQL response
-    return response;
+    return res.data;
 }
 
 module.exports = { scrapeLadderData };
