@@ -5,7 +5,7 @@
   "main": "client.js",
   "scripts": {
     "test": "node client.js",
-    "start": "nodemon client.js"
+    "start": "node client.js"
   },
   "keywords": [
     "discord",
@@ -52,5 +52,8 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
+  },
+  "engines": {
+    "node": "18.x"
   }
 }
